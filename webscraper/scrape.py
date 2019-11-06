@@ -36,7 +36,7 @@ with open("errors.txt", 'a') as file:
             #request the page with the script
             res = requests.get('https://www.imsdb.com/scripts/%s.html' % movieString)
             #if okay call function that saves the script
-            if res.status_code == requests.codes.ok:
+            if res.ok:
                 scriptToFile(movieString, res.text)
             #on error write movie title to error file
             else:
