@@ -10,16 +10,17 @@ def scriptToFile(name, text):
         #search for pre element which holds the script
         pre = soup.select('pre')
         #some scripts start with the string that is being replaced thus we remove it
-        filterPre = pre[0].getText().replace("""
+        if len(pre) > 0:
+            filterPre = pre[0].getText().replace("""
 
 
-<b><!--
-</b>if (window!= top)
-top.location.href=location.href
-<b>// -->
-</b>""" , "")
-        #write filtered element to file
-        file.write(filterPre)
+    <b><!--
+    </b>if (window!= top)
+    top.location.href=location.href
+    <b>// -->
+    </b>""" , "")
+            #write filtered element to file
+            file.write(filterPre)
 
 #open file to store errors in to review them manually
 with open("errors.txt", 'a') as file:
