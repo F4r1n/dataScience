@@ -9,7 +9,7 @@ def scriptToFile(name, text):
         soup = bs4.BeautifulSoup(text, features="lxml")
         #search for pre element which holds the script
         pre = soup.select('pre')
-        #some scripts start with the string that is being replaced thus we remove it
+        #some scripts start with the following string. It is not detected as html by bs4 thus we remove it manually
         if len(pre) > 0:
             filterPre = pre[0].getText().replace("""
 
