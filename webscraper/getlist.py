@@ -4,7 +4,7 @@ import bs4
 #request site with list of all scripts
 res = requests.get('https://www.imsdb.com/all%20scripts/')
 #if request was successfull
-if res.status_code == requests.codes.ok:
+if res.ok:
     soup = bs4.BeautifulSoup(res.text, features="lxml")
     #search for the table
     td = soup.select('td')

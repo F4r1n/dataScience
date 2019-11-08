@@ -30,7 +30,7 @@ with open("errors.txt", 'a') as file:
         for movie in list:
             #replace blank spaces with - to use in the url
             movieString = movie.replace(" ", "-")
-            #replace newlines for fromatting
+            #replace newlines for formatting
             movieString = movieString.replace("\n", "")
             #replace : because its not used by the site in the url
             movieString = movieString.replace(":", "")
