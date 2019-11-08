@@ -1,9 +1,11 @@
 import requests
 import bs4
+import re
 
 
 def featureToFile(movieString, response):
-    print("Test")
+    soup = bs4.BeautifulSoup(response)
+    soup.find_all('a', {'href': re.compile(r'crummy\.com/')})
 
 with open("list.txt", 'r') as list:
         #iterate file line by line
