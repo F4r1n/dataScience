@@ -1,17 +1,9 @@
-
-
-
-	
-
-
 <b><!--
 </b>if (window!= top)
 top.location.href=location.href
 <b>// -->
-</b> 
+</b>
 DAYS OF HEAVEN by Terry Malick REVISED: 6/2/76
-
-
 DAYS OF HEAVEN"
 by Terry Malick
 REVISED: 6/2/76
@@ -25,10 +17,10 @@ URSULA:  Abby's younger sister, a reckless child of14.
 BENSON:  The bonanza foreman, an enemy of the newcomers.
 MISS CARTER:  Chief domestic at the Belvedere, Chuck's home.
 McLEAN:  Chuck's accountant.
-GEORGE:  A young pilot who interests Ursula. 
+GEORGE:  A young pilot who interests Ursula.
 A PREACHER, A DOCTOR, AN ORGANIST, VARIOUS HARVEST HANDS, LAWMEN, VAUDEVILLIANS, etc.
 "Troops of nomads swept over the country at harvest time like a visitation of locusts, reckless young fellows, handsome, profane, licentious, given to drink, powerful but inconstant workmen, quarrelsome and difficult to manage at all times. They came in the season when work was plenty and wages high. They dressed well, in their own peculiar fashion, and made much of their freedom to come and go."
-"They told of the city, and sinister and poisonous jungles all cities seemed in their stories. They were scarred with battles. They came from the far-away and unknown, and passed on to the north, mysterious as the flight of locusts, leaving the people of Sun Prairie quite as ignorant of their real names and characters as upon the first day of their coming."						Hamlin Garland, Boy Life on the Prairie (1899) 
+"They told of the city, and sinister and poisonous jungles all cities seemed in their stories. They were scarred with battles. They came from the far-away and unknown, and passed on to the north, mysterious as the flight of locusts, leaving the people of Sun Prairie quite as ignorant of their real names and characters as upon the first day of their coming."						Hamlin Garland, Boy Life on the Prairie (1899)
 DAYS OF HEAVEN
 1	INT. CHICAGO MILL - SERIES OF ANGLES
 WORKERS in a dark Chicago mill pound molten iron out in flaming sheets. The year is 1916.
@@ -61,7 +53,7 @@ I paid you everything I have. Search me. The rest he gets next week.
 SAM
 Listen, what happens if I don't do this? I gotta leave town?
 BILL
-I could do something, you know. You guys wanta do something to me, I know who to tell about it. You guys ought to think about that. 
+I could do something, you know. You guys wanta do something to me, I know who to tell about it. You guys ought to think about that.
 SAM
 You maybe already did something. Maybe that's why you're here, on account of you already done something.
 BILL
@@ -211,11 +203,11 @@ NEWCOMER (o.s.)
 How's the pussy up there?
 VETERAN
 Not good. Where you from?
-NEWCOMER (o.s.) 
+NEWCOMER (o.s.)
 Detroit.
 VETERAN
 How's the pussy up there?
-NEWCOMER (o.s.) 
+NEWCOMER (o.s.)
 Good.
 (pause)
 The guys tough out here?
@@ -303,7 +295,7 @@ Abby is well turned out, in a boater and string tie, as though she were planning
 Bill, too, dresses with an eye to flashy fashion: Tight dark trousers, a silk handkerchief stuck in the back pocket with a copy of the Police Gazette, low-top calfskin boots with high heels and pointed toes, a shirt with ruffled cuffs, and a big signet ring. While at work he wears a white smock over all this to keep the chaff off. It gives him the air more of a researcher than a worker.
 The harvesters itch madly as the chaff gets into their clothes. The shocks, full of briars, cut their hands; smut and rust make the cuts sting like fire. Nobody talks. From time to time they raise a chant.
 Ursula, plucking chickens by the cookhouse--a shack on wheels-- steals a key chain from an unwatched coat.
-Benson follows the reapers around the field in a buggy. He keeps their hours, chides loafers, checks the horses, etc. The harvesters are city people. Few of them are trained to farming. Most--Abby and Bill are no exception--have contempt for it and anybody dull enough to practice it. Tight control is therefore exercised to see that the machines are not damaged. 
+Benson follows the reapers around the field in a buggy. He keeps their hours, chides loafers, checks the horses, etc. The harvesters are city people. Few of them are trained to farming. Most--Abby and Bill are no exception--have contempt for it and anybody dull enough to practice it. Tight control is therefore exercised to see that the machines are not damaged.
 Where the others loaf whenever Benson's back is turned, Bill works like a demon, as a point of pride.
 32	CHUCK AND BENSON
 Lightning shivers through the clouds along the horizon. Chuck looks concerned. Benson consults a windsock.
@@ -339,7 +331,7 @@ Didn't you ever learn how to take care of yourself? I told you to keep the glove
 Bill presses her wrists against his cheek, ashamed that he can do nothing to shield her from such indignities. In the b.g. a MAN with a fungo bat hits flies to SOME MEN with baseball gloves.
 BILL
 You can't keep on like this.
-ABBY 
+ABBY
 What else can we do?
 She nods at the others.
 ABBY
@@ -370,7 +362,7 @@ BILL
 Of him? He's just a. sack of shit.
 ABBY
 Stop it! He's liable to see you.
-BILL 
+BILL
 I want him to. He's the one better be careful.
 37	TIGHT ON CHUCK
 Chuck looks on. Something about her captivates hint, not so much her beauty--which only makes her seem beyond his reach--as the way she takes it utterly for granted.
@@ -411,9 +403,9 @@ A retriever plunges through the water fetching sticks.
 Some bowl with their hats on in a dusty road and argue in Italian.
 42	EXT. BELVEDERE - DOCTOR'S WAGON - DUSK
 A physician's wagon stands in front of the Belvedere.
-Bill hunts nervously through it for medicine to soothe Abby's 
-hands. Not knowing quite what to look for, he sniffs whatever 
-catches his eye. 
+Bill hunts nervously through it for medicine to soothe Abby's
+hands. Not knowing quite what to look for, he sniffs whatever
+catches his eye.
 Suddenly the front door opens and Chuck steps out with a DOCTOR, a stooped old man in a black frock coat. Bill, surprised, crouches behind the wheel. As they draw closer their conversation becomes faintly audible.
 CHUCK (o.s.)
 How long you give it?
@@ -430,8 +422,8 @@ Ursula and Abby case the barn for dinner. Abby points at a pair of peacocks stru
 45	EXT. RAPESEED FIELD - SERIES OF ANGLES - DUSK
 The peacock, a resplendent white, leads Abby through a bright yellow rapeseed field. It keeps just out of reach, as though it were enticing her on.
 as though it were enticing her on.'U
-All at once she looks up with a start. Chuck is standing in front of her, 
-dressed in his habitual black. The Belvedere rises behind him like a 
+All at once she looks up with a start. Chuck is standing in front of her,
+dressed in his habitual black. The Belvedere rises behind him like a
 castle in a fairy tale. She remembers Benson's warning that this is forbidden ground.
 ABBY
 (afraid)
@@ -496,7 +488,7 @@ Don't you want to be with me?
 ABBY
 You know I do. It's just that, well, I'm not a bum, Bill.
 BILL
-I know. I told you though, this is only for a while. Then we're going to New York.Then we're New York. 
+I know. I told you though, this is only for a while. Then we're going to New York.Then we're New York.
 ABBY
 And after that?
 BILL
@@ -519,8 +511,8 @@ What's going on? Who sent it?
 She nods up toward the Belvedere and sets it down.I
 BILL
 What for?
-She withdraws with a shrug. She does not appear to relish 
-this duty. Bill watches her walk back to the buggy she 
+She withdraws with a shrug. She does not appear to relish
+this duty. Bill watches her walk back to the buggy she
 came down in. Benson waits beside it.U
 BILL
 (to Abby)
@@ -531,26 +523,26 @@ magic world, digs in. Bill looks on, suspicious of the_
 motives behind this generosity.
 50	EXT. FIELD WITH OIL WELL - URSULA'S THEME - MAGIC HOUR
 A bank of clouds moves across the moon. Ursula roams the fields, keen with unsatisfied intelligence. The stubble hisses as a hot wind blows up from the South, driving bits of grain into her face like sleet. From time to time she does a cartwheel.
-Equipment cools in the fields. Little jets of steam escape the 
+Equipment cools in the fields. Little jets of steam escape the
 boilers of the tractors.Ursula stops in front of a donkey well. It nods up and down in ceaseless agreement, pumping up riches from deep
 in the earth.
 51	EXT. BEDROOM WINDOW  -  MAGIC HOUR
-The camera moves through the bedroom window to find Chuck 
+The camera moves through the bedroom window to find Chuck
 asleep on his pillow. The wind taps the curtain into the room.
 52	EXT. FATHER IN CHAIR - QUICK CUT
-Chuck dreams of a Biblical figure with a long plaited room.U52EXT.  Chuck dreams of a Biblical figure with a long plaited 
+Chuck dreams of a Biblical figure with a long plaited room.U52EXT.  Chuck dreams of a Biblical figure with a long plaited
 beard, in a frock coat and Astrakhan hat, sitting in a_
-chair on the open prairie, guarding his land with a brace 
-of guns. This man will later be identified as his FATHER. 
+chair on the open prairie, guarding his land with a brace
+of guns. This man will later be identified as his FATHER.
 53	EXT. FIELDS - DAY
 The next day Benson yells through a megaphone from atop a stool.
 BENSON
 Hold your horses!I
 The huge tractors start up with a bang. Despite Benson's warning a team of Percherons breaks free. Threshing, the separating of the wheat from the chaff, has begun.
 54	EXT. SEPARATOR - SERIES OF ANGLESI
-Sixty foot belts connect the tractors to the separating machines, huge rattletrap devices that shell the wheat out at deafening volume. Benson tosses bundles down the hissing maw, squirts oil into the gears, tightens belts, chews out a MAN who's sliced a hand on the driveshaft, etc. 
-Bill works on the straw pile at the back of the machine, in a soft rain of chaff, spreading it out with a pitchfork. 
-Ursula helps stoke the tractor with coal and water. When nothing is required of her she sneaks off to burrow in the straw. 
+Sixty foot belts connect the tractors to the separating machines, huge rattletrap devices that shell the wheat out at deafening volume. Benson tosses bundles down the hissing maw, squirts oil into the gears, tightens belts, chews out a MAN who's sliced a hand on the driveshaft, etc.
+Bill works on the straw pile at the back of the machine, in a soft rain of chaff, spreading it out with a pitchfork.
+Ursula helps stoke the tractor with coal and water. When nothing is required of her she sneaks off to burrow in the straw.
 Gingerbread on the eaves of the tractors gives them a Victorian appearance. Tall flags mark their position in the field.
 Abby moves quickly, without a moment's rest, sewing up the
 sacks of grain as they are measured out at the bottom of
@@ -559,12 +551,12 @@ like a flower.
 55	EXT. GRAIN ELEVATORSU
 Fully laden wagons set off toward distant grain elevators.U
 56	EXT. COUCH ON RIDGE
-Chuck and McLEAN, his accountant, sit on a ridge away from the chaff, in the shade of a beach umbrella. 
+Chuck and McLEAN, his accountant, sit on a ridge away from the chaff, in the shade of a beach umbrella.
 Chuck keeps track of operations through a telescope. Our last view of Abby, we realize, was from his POV. A plush Empire couch has been drawn up for his to rest in. At a table beside it, McLean computes the yield.
 McLEAN
 This must be wrong. No, dammit, nineteen bushels an acre.
 Chuck sails his hat out in the stubble with a whoop.
-McLean leans over his adding machine, cackling like a thief. 
+McLean leans over his adding machine, cackling like a thief.
 McLEAN
 Say it goes at fifty-five cents a bushel, that means a profit of
 four dollars and seventy-five cents per acre. Multiply by twenty
@@ -577,7 +569,7 @@ Your biggest ever. This could make you the richest man in thePanhandle.
 You ought to get out while you're this far ahead. You'll never do
 better. I mean it. You have nothing to gain by staying.U nothing to gain by staying. I
 CHUCK
-I want to expand. I want to run this land clear to the Oklahoma border. Next spring I will. 
+I want to expand. I want to run this land clear to the Oklahoma border. Next spring I will.
 McLEAN
 And gamble everything?U
 (he nods)I
@@ -678,7 +670,7 @@ BILL
 Let's forget it.
 ABBY
 I know what you mean, though.
-He takes her hand, with fresh hope of convincing her. 
+He takes her hand, with fresh hope of convincing her.
 BILL
 We weren't meant to end up like this. At least you weren't.
 You could be something. I've heard you sing. You have a lot
@@ -691,7 +683,7 @@ ABBY
 You wouldn't say this if you really loved me.
 BILL
 But I do. You know I do. This just shows how much. We're shitI
-out of luck, Abby. People need luck. What're you crying about? Oh, 
+out of luck, Abby. People need luck. What're you crying about? Oh,
 don't tell me. I already know. All on account of your unhappy life and all
 that stuff. Well, we gotta do something about it, honey. We can't expect
 anybody else to.
@@ -736,7 +728,7 @@ CHUCK
 You put her on the slowest machine?
 Benson nods.U
 67	NEW ANGLE
-The threshing is done. A bundle is pitched into the separator backwards, snapping it abruptly to a stop. The drive belt whips along the ground like a mad snake. 
+The threshing is done. A bundle is pitched into the separator backwards, snapping it abruptly to a stop. The drive belt whips along the ground like a mad snake.
 68	EXT. PAYROLL TABLEI
 All hands line up at the payroll table. McLean gives out their wages in twists of newspaper. Chuck and Benson shake their hands.
 69	TIGHT ON BILL AND SORROWFUL MAN
@@ -773,7 +765,7 @@ Bill, after a moment's thought, shrugs.
 BILL
 She's the one has to say. You put aspirin in this?
 URSULA
-No. 
+No.
 She hands back his sunglasses.
 BILL
 Keep them.
@@ -800,7 +792,7 @@ stay. You never have to touch him if you don't feel like it. Minute
 you get fed up, we take off. Worst that can happen is we had it soft
 for a while.
 ABBY
-Something's made you mean.  
+Something's made you mean.
 She walks off, uncertain what Bill really wants.
 BILL
 Or else we can forget it. I'm not going to spend the whole
@@ -845,7 +837,7 @@ Bill watches Abby dance--it almost seems in farewell to their innocence. After a
 The effigy is held over the flame at the end of a pole until it catches fire. The harvesters prance around in the dark, trading it from hand to hand.
 The MUSICIANS, drunk and happy, bow their hearts out.
 83	TIGHT ON BILL - DAWN
-While the others pursue their merriment, Bill walks the fields by himself, trembling with grief and indecision. Dawn is breaking. The eastern sky glows like a forge. Suddenly he comes upon a wolf. He catches his breath. 
+While the others pursue their merriment, Bill walks the fields by himself, trembling with grief and indecision. Dawn is breaking. The eastern sky glows like a forge. Suddenly he comes upon a wolf. He catches his breath.
 The wolf stares back at him for a moment, then turns and pads off into the stubble.
 84	EXT. RAILROAD TRACKS - DAWNEEXT. RAILROAD TRACKS - DAWNU
 Early the next morning the HARVESTERS wander by the hundreds down to the railroad tracks to catch a train for the North, where the crops are just now coming into maturity. A subtle feeling of sadness pervades the group. Bill gives his sword cane away to a MAN who seems to have admired it. The MAN offers him money, but he declines it.
@@ -865,7 +857,7 @@ She takes it back immediately, but he snatches it away from her and, after a bri
 Bill and Abby look on.
 BILL
 I told her, "none of my business Urs, I just hope you're not rolling
-around with some redhead is all." She looks me over. "Why?" she says, 
+around with some redhead is all." She looks me over. "Why?" she says,
 "What've you guys got that redheads don't?" I pity that kid.
 Ursula runs up and throws herself tearfully into Abby's arms.
 BILL
@@ -886,13 +878,13 @@ ABBY
 There's nothing else you want done?
 CHUCK
 Not that I can think of. Not right now.
-Miss Carter, the housekeeper, steps out on the porch and pours a bucket of milk into a cream separator. 
+Miss Carter, the housekeeper, steps out on the porch and pours a bucket of milk into a cream separator.
 ABBY
 How about the cream?
 CHUCK
 She takes care of that.
 He nods at Miss Carter, who conspicuously lets the screen door clap shut as she goes back inside. She misses no opportunity to express her disdain for these newcomers.
-She and Benson are the only employees seen at the Belvedere. Several dozen others have stayed on after the harvest but they keep to their quarters down at the dorm. 
+She and Benson are the only employees seen at the Belvedere. Several dozen others have stayed on after the harvest but they keep to their quarters down at the dorm.
 ABBY
 You mean I'm done for today?
 CHUCK
@@ -915,7 +907,7 @@ CHUCK
 Have you ever been in trouble with the law?
 Bill looks around. Abby would think it impolitic of him to speak so openly with Chuck.
 BILLI
-Nothing they could make stick. 
+Nothing they could make stick.
 My problem has always been not having the education. I bullshitted
 my way into school. They gave me a test. It was ridiculous. I got in fights. Ended up paying for a window. They threw me out. Don't blame them either. Still, I wanted to make something of myself. I mean, guys look at
 you across a desk, you know what they're thinking. So I went in
@@ -1028,20 +1020,20 @@ But what do I really have now? It'll still be here when I'm gone. It won't remem
 (pause)
 I'd give it all up for you. I could make you happy, too, I think-if only you'd trust me.
 The camera settles on Ursula, playing with a dog on a seesaw Chuck
-has built her, then begins to move again, to a long shot of Chuck and 
+has built her, then begins to move again, to a long shot of Chuck and
 Abby on the ridge by the telescope. Chuck is proposing.
 108	EXT. DORM
 Abby has told him of the proposal. Bill broods over an unlit cigarette. Is this a great blessing or a great misfortune which has befallen them?
 ABBY
 He's asked me to marry him.
-BILL 
+BILL
 I never really thought he would.
 ABBY
 I thought you wanted me to.
 BILL
 Before I did. You cold?
 Abby is shivering. Bill takes off his jacket and slips it over her shoulders.
-BILL 
+BILL
 What're you thinking?
 ABBY
 We've never done anything like this.
@@ -1050,7 +1042,7 @@ Who'd know but you and me?
 ABBY
 Nobody.
 BILL
-That's it, Ab. That's all that matters, isn't it?  
+That's it, Ab. That's all that matters, isn't it?
 ABBY
 You talk like it was all right. It would be a crime.
 BILL
@@ -1083,8 +1075,8 @@ BILL
 I know. We're in quicksand, though. We stand around, it's
 going to suck us down like everybody else.
 (pause)
-Somewhere along the line you have to make a sacrifice. Lots of people want to sit back and take a piece without doing nothing. 
-He waits to see how she will respond. Half of him wants her to turn him down flat. Abby is bewildered. 
+Somewhere along the line you have to make a sacrifice. Lots of people want to sit back and take a piece without doing nothing.
+He waits to see how she will respond. Half of him wants her to turn him down flat. Abby is bewildered.
 ABBY
 Have I ever complained? Have I said anything that would make
 you think...
@@ -1100,7 +1092,7 @@ Some people need more'n they have, some have more'n they need. It's
 just a matter of getting us all together.
 (pause)
 I don't even know if I believe what I'm saying, though. I
-feel like we're on the edge of a big cliff. 
+feel like we're on the edge of a big cliff.
 Abby looks at the ground for a moment, then nods.
 109	TIGHT ON CHUCK
 Chuck lies in bed, daydreaning.
@@ -1117,7 +1109,7 @@ We won't ever let each other down, will we?
 BILL
 I love you more than ever. I always will. I couldn't do this unless I loved you.
 113	SERIES OF ANGLES
-The Acolytes ring an angelus bell. Chuck slips a sapphire on her finger. The Preacher, with outstretched arms, reminds them all that they are witness to a great event. 
+The Acolytes ring an angelus bell. Chuck slips a sapphire on her finger. The Preacher, with outstretched arms, reminds them all that they are witness to a great event.
 114	SKY - ABBY'S POV
 Abby, frightened, looks off at the rolling sky, wondering how all thislooks in the sight of heaven.
 115	INT. BEDROOM - DUSK
@@ -1135,7 +1127,7 @@ They smile at each other.
 Bill watches the lights go out in the Belvedere. A lump rises to his throat. How exactly did this happen? He sets his jaw, vowing not to give way to weakness or jealousy. This is the price they have to pay for a lasting
 happiness.
 117	TIGHT ON ABBY, CHUCK, ETC.
-The next morning the newlyweds set off on their honeymoon. 
+The next morning the newlyweds set off on their honeymoon.
 Chuck tells Bill to move his things from the dorm into the Belvedere.
 Abby, a basket of cucumbers under her arm, waves goodbye, angling her wrist so that Bill and Ursula can see the diamond bracelet Chuck has given her.
 118	EXT. PRAIRIEI
@@ -1240,7 +1232,7 @@ CHUCK
 All I can think of right now. How about yourself?
 BILL
 (to Abby)
-He wants to know. I'm not going to count setting Blackie's 
+He wants to know. I'm not going to count setting Blackie's
 on fire either. He had it coming.
 BILL (con't)
 (pause)
@@ -1268,7 +1260,7 @@ Benson watches from another hill. He finds his displacement by these newcomers a
 128	NEW ANGLE
 Chuck returns to the table and draws Bill aside.
 CHUCK
-Almost forgot. Here's your pay. Bill takes the envelope Chuck holds out. Then, in a spasm of conscience, he gives it back. 
+Almost forgot. Here's your pay. Bill takes the envelope Chuck holds out. Then, in a spasm of conscience, he gives it back.
 CHUCK
 hat's the matter?
 BILL
@@ -1293,7 +1285,7 @@ They play a game with big lace pillows for bases. The
 rules are unintelligible.
 130	NEW ANGLE
 Bill is expert at throwing knives. As the others watch, he goes into a big windup and pins a playing card to the side of the house.U
-Everyone seems happy and congenial. They have reached some kind of plateau. Chuck's ignorance of the ruse does not cause the others to treat him with less respect. They seem themselves almost to have forgotten it. 
+Everyone seems happy and congenial. They have reached some kind of plateau. Chuck's ignorance of the ruse does not cause the others to treat him with less respect. They seem themselves almost to have forgotten it.
 131	BILL AND ABBY'S POV - LATERU
 Benson collects the bases, a job he doubtless feels is beneath him.
 The Doctor's wagon, unmistakable even at such a great distance, thunders away from the Belvedere.
@@ -1325,10 +1317,10 @@ I appreciate everything you've done for Abby. I really do. You've given her all 
 Chuck looks off, embarrassed but oddly pleased. Bill snatches up a handful of weeds and smells them.
 .
 136	CRANE SHOT
-Returning home they portray the movements of the sun, earth and moon 
-relative to each other. Abby is the sun and keeps up a steady pace across 
+Returning home they portray the movements of the sun, earth and moon
+relative to each other. Abby is the sun and keeps up a steady pace across
 the prairie.
-Chuck, the earth, circles her at a trot, giving instructions. Bill, with the 
+Chuck, the earth, circles her at a trot, giving instructions. Bill, with the
 most strenuous role of all--the moon-- runs around Chuck while he circles Abby.
 137	EXT. PRAIRIE - SERIES OF ANGLES
 They play golf on the infinite fairway of the prairie. Bill and Abby make a team against Chuck and Ursula. Nightingales call out like mermaids from the sea.
@@ -1529,7 +1521,7 @@ BILL
 You're cute. Maybe a shade too cute.
 She touches his face sympathetically, as though to say that she knows the pain this was causing him.
 ABBY
-This is terrible for us both. 
+This is terrible for us both.
 CHUCK (o.s.)
 Abby?
 They jump as Chuck calls up from downstairs.
@@ -1649,8 +1641,8 @@ BILL
 Splendid people make you nervous.
 ABBY
 They do! I breathe a sigh of relief when they step outside the room.
-Bill puts on his boater and opens a copy of the Police Gazette. 
-They are silent for a moment. 
+Bill puts on his boater and opens a copy of the Police Gazette.
+They are silent for a moment.
 BILL
 A guy ate a brick on a bet. Must of busted it up first with a hammer. Guy in New York City. Where else?
 (Jumping up)
@@ -1711,7 +1703,7 @@ ABBY
 Oh, Chuck I Please forgive me. Does it mean anything that I'm
 sorry?
 CHUCK
-(pleased) 
+(pleased)
 But I don't blame you. Did I make it sound that way?
 ABBY
 You should. You have a right to.
@@ -1847,13 +1839,13 @@ ABBY
 There's nothing wrong?
 BILL
 No.
-ABBY 
+ABBY
 What're you so mad about then?
 BILL
 Who said I was mad?
 BILL
 Can't I be alone once in a while without everybody getting all
-worked up? 
+worked up?
 ABBY
 You're the only person getting worked up.
 Some buffalo appear on the crest of the next hill. Abby looks at them. They do not seem quite part of this world but mythical, like minotaurs.
@@ -1879,7 +1871,7 @@ to trap me?
 Bill paces around, disgusted with himself and the whole situation.
 BILL
 I can't stand it any more. It's just too degrading.
-(pause) 
+(pause)
 You and him. Why do I have to spell it out? I thought it would be all
 over in a month or two. Guy might go another five years. We've got to
 clear out, Abby.
@@ -1916,7 +1908,7 @@ In fact you're just leaving us one way out.
 ABBY
 What're you talking about? Murdering him? Ursula comes riding over the hill, without the kite.
 BILL
-You watch and see.  
+You watch and see.
 URSULA
 I had to let it go. One of them started following me, and I threw
 a rock at him. I had a bunch stored in my pocket.
@@ -2076,7 +2068,7 @@ CHUCK
 Something's not right, and I want to know what.
 Abby jumps out of bed and assumes the offensive. She has no other choice.
 ABBY
-Say it out loud. What're you worried about? 
+Say it out loud. What're you worried about?
 (pause)
 Incest?
 CHUCK
@@ -2455,7 +2447,7 @@ She giggles and kisses him back. But guilt has caught up with him. He cannot go 
 URSULA
 What's the matter?
 No reply.
-URSULA 
+URSULA
 Maybe it would be wrong.
 (disappointed)
 You still love her, don't you?
@@ -2527,7 +2519,7 @@ I didn't come back to make trouble for you. I guess we were fooling
 each other to think it could last. I mean, What was I offering youanyhow? A ride to the bottom. Looking at you now, in the right  clothes and everything, I see how crazy I was and--well, I understand. It's okay. I sort of cut my own throat, actually.
 Her eyes close and her legs give in. Bill lets her go and backs off a step in surprise. She sinks to the ground, as though in a trance.
 234	TIGHT ON BILL
-Bill, taken by surprise, goes up and kneels down beside her. He looks to see that she is okay. He picks a fox-tail out of her hair. Her dress has worked up toward her knees. He pulls it back down. He wants to caress 
+Bill, taken by surprise, goes up and kneels down beside her. He looks to see that she is okay. He picks a fox-tail out of her hair. Her dress has worked up toward her knees. He pulls it back down. He wants to caress
 her face but hesitates.
 BILL
 How'd we let it happen, Abby? We were so happy once. Why didn't we starve? I love you so much. What have1 done? You're so beautiful. What have I done?
@@ -2561,7 +2553,7 @@ BILL
 I've been looking for you. I have to take off again, real soon here, and...
 Chuck puts a hand on Bill's shoulder, stopping him. They look at each other for a moment, then he passes on. Bill seems puzzled.
 241	EXT. FIELDS
-Chuck walks out into the deep of his fields. The wheat, a warm dry gold, is almost ready to take in. He sits down and rests his head against a 
+Chuck walks out into the deep of his fields. The wheat, a warm dry gold, is almost ready to take in. He sits down and rests his head against a
 furrow, powerless to think. The wind makes a song in the infinitude of sweet clicking heads.
 He puts his hands over his heart and breathes in gasps, with the dumb honesty of a wounded animal. He could not himself quite say what it is that he knows.
 242	EXT. BONANZA - SERIES OF ANGLES
@@ -2588,7 +2580,7 @@ Suddenly they are everywhere: on the clothesline, in the pantry, in hats and sho
 250	TIGHT ON CHUCK - SLOW MOTION
 Chuck, asleep in the deep of the wheat, bolts up in slow motion. His hair is seething with them.
 251	EXT. BONANZA - FURTHER ANGLES
-Panic hits the bonanza. Workers tie string around their pant cuffs to keep the insects from crawling up their legs, then rush out to the fields with gongs, rattles, pot lids, scarecrows on sticks, drums and horns and 
+Panic hits the bonanza. Workers tie string around their pant cuffs to keep the insects from crawling up their legs, then rush out to the fields with gongs, rattles, pot lids, scarecrows on sticks, drums and horns and
 other noisemakers to scare them off.
 Some pray. Others run around like madmen, stamping and yelling, ignored by the gathering host. A couple get into a fistfight.
 A storm flag is run up the flagpole. A tractor blasts out an S.O.S. The peacocks huddle under the stoop.
@@ -2679,11 +2671,11 @@ A whole year's work. All wasted! These bugs, once they make up
 their minds...
 Bill stalls. The fire races toward them through the wheat. They appear as silhouettes against it.
 BILL
-I need to get out of here. I think you probably should, too.  
+I need to get out of here. I think you probably should, too.
 (pause)
 Hell of a life. Damned if you do and damned if you don't.
 He leaves. Abby wonders if she ought to run after him.
-ABBY  
+ABBY
 Bill!
 But this moment's hesitation has been too long. Already he is swallowed up in the night, her voice swept away in the roar of the flame and the locusts, who seem to wail louder now, and with a great mournfulness--like keening Arab women--as if they knew the fate shortly to envelop
 them.
@@ -2746,7 +2738,7 @@ He tears down the drapes, already in shreds.
 CHUCK
 This? Show me what you wanted! I would have given it all to you.
 ABBY
-Please, Chuck.  
+Please, Chuck.
 CHUCK
 Please what? You're not going to tell me you're sorry, I hope..
 ABBY
@@ -2772,20 +2764,20 @@ Away?
 He gets up, suddenly alarmed, walks to the mantel and opens a chest.
 ABBY
 What're you doing?
-Chuck drapes his neck with the stole he used in slaughtering the hog. Her face goes empty. He gets his razor strop from the shaving basin. She shrinks back in the corner. He looks at her for a moment, then leaves the room. 
+Chuck drapes his neck with the stole he used in slaughtering the hog. Her face goes empty. He gets his razor strop from the shaving basin. She shrinks back in the corner. He looks at her for a moment, then leaves the room.
 276	INT. STAIRCASE - NIGHT
 Abby pursues him down the stairs. He throws her aside.
 ABBY
-Where are you doing? Chuck! What are you doing? I won't  
+Where are you doing? Chuck! What are you doing? I won't
 let you! Come back!
 Again he throws her aside, and again she keeps after him, desperate to prevent any harm coming to Bill. Finally he picks her up and drags her outside.
 277	EXT. PORCH - NIGHT
 He lashes her with a rope to a column of the porch. She struggles vainly to free herself. Does he intend to use the razor on her?
 ABBY
 No, Chuck! Please, darling! It wasn't his fault. It was mine.
-Let him go. I love you, Chuck. Do anything, only please... 
+Let him go. I love you, Chuck. Do anything, only please...
 CHUCK
-I'm sick of hearing lies.  
+I'm sick of hearing lies.
 He stuffs a handkerchief in her mouth and leaves.
 278	TIGHT ON CHUCK - NIGHT
 Chuck wanders through the night with a lantern, calling his mare.
@@ -2853,7 +2845,7 @@ a circling hawk.
 285	TIGHT ON CHUCK
 He breathes in gulps. His eyes are blank, like a child's
 marbles. He takes Benson's hand.
-CHUCK  
+CHUCK
 (weakly)
 Wasn't his fault. Tell her...forgive them.
 The locusts can be heard no more. The prairie makes a
@@ -2863,7 +2855,7 @@ Benson weeps. Whether or not he understood Chuck's last
 wishes, he seems unlikely to abide by them.
 287	EXT. BELVEDERE
 Bill finds Abby bound to the house like the figurehead
-of a ship. He cuts her loose. The ropes fall at her feet. She is free. 
+of a ship. He cuts her loose. The ropes fall at her feet. She is free.
 They look at each other for a moment.
 Then, in a rush of compassion for them all, she throws
 her arms around him.
@@ -2890,7 +2882,7 @@ ABBY
 Will the cops be looking for us, too?
 BILL
 Probably.
-Abby stands in the door. She is reluctant to leave, though she 
+Abby stands in the door. She is reluctant to leave, though she
 knows they must.
 BILL
 Get in.
@@ -2904,17 +2896,17 @@ Had an accident.
 She looks at him for a moment, not quite trusting this
 explanation. The engine catches with a noise like start-
 led poultry. Bill gets behind the wheel. Just as they
-are pulling out of the garage, Ursula runs up, black 
+are pulling out of the garage, Ursula runs up, black
 as coal from battling the fire all night.
 URSULA
 Where you going?
 BILL
 (breathless)
 We got in a jam. You'll be safer here. Say we're headed for town.
-Take care of the rabbit, too. He's yours now. 
+Take care of the rabbit, too. He's yours now.
 URSULA
 What's the matter?
-BILL 
+BILL
 Just do what I say. Why're you always arguing about everything?
 Wait here till we get in touch.
 Bill gives Ursula his wallet and a kiss. Abby gives her a hug.
@@ -2941,7 +2933,7 @@ with the PROPRIETOR for a tiny steam boat moored at the
 end of the pier. When the car is not enough, Abby throws
 in her necklace.
 294	ABOARD THE BOAT
-They board the boat and turn down stream. There is a phonograph 
+They board the boat and turn down stream. There is a phonograph
 on board.
 295	TIGHT ON NECKLACE
 The necklace sparkles on the hood of the car--a hint
@@ -2969,7 +2961,7 @@ been since the making of the world.
 299	EXT. FARMHOUSE
 Four LAWMEN, in pursuit, interrogate some FARMERS. Have
 they seen the two people standing by Chuck in his wedding
-portrait? Benson holds the bulky frame. There is a funereal 
+portrait? Benson holds the bulky frame. There is a funereal
 border of black crepe at the corners.
 300	EXT. ABOARD THE BOAT - DUSK
 They drift idly on the flood. The phonograph is playing
@@ -3061,7 +3053,7 @@ He covers her with his body as bullets zoom through the
 undergrowth. His face is close to hers. She bursts into
 tears.
 BILL
-Don't get shot. Look for me under that next bridge down. 
+Don't get shot. Look for me under that next bridge down.
 After dark.
 He empties out the contents of his pockets -- a watch, a
 couple of dollars in change, a ring -- and slaps them down
@@ -3083,13 +3075,13 @@ shoulder, yanking a string of startled, thrashing catfish
 out of the water.
 He keeps running in a panic, not realizing the line is
 staked to the shore. All at once, he jackknifes in the
-air. The stake twangs loose. The Police now spot him 
+air. The stake twangs loose. The Police now spot him
 and begin firing.
 310	TIGHT ON ABBY
 Abby runs out of hiding, thinking at first that the Police
 must be looking for her.
 ABBY
-Why're you shooting? You'll kill him! Have you gone crazy? 
+Why're you shooting? You'll kill him! Have you gone crazy?
 Stop! Oh, Bill, not you! Not you!
 311	NEW ANGLE
 Bill stumbles along, trying to rip the hooks from his
@@ -3126,8 +3118,8 @@ trot. The camera moves back.
 YOUNG DANCERS are learning the foxtrot in the attic of the
 Arboretum, a tacky Western version of an Eastern finishing
 school. The steps are painted on the floor as white footprints.
-Abby is apparently enrolling Ursula here. The headmistress, 
-MADAME MURPHY, boasts of the school's achievements. 
+Abby is apparently enrolling Ursula here. The headmistress,
+MADAME MURPHY, boasts of the school's achievements.
 Ursula looks trapped. Abby checks her watch.
 She must go.
 316	EXT. BRICK STREET
@@ -3136,7 +3128,7 @@ mourning band on her sleeve. She is under the false im-
 pression that Ursula likes her new home. An INDIAN PORTER
 carts her bags along behind them in a wheelbarrow.
 ABBY
-They'll teach you poise, too, so you can walk in any room you 
+They'll teach you poise, too, so you can walk in any room you
 please. Pretty soon you'll know all kind of things.
 (pause)
 I never read a whole book till I was fifteen. It was by Caesar.
@@ -3211,7 +3203,7 @@ ABBY (o.s.)
 Soon, I hope, for by and by we'll all be gone, Urs. Does
 it really seem as though we might?'
 326	UNDERWATER SHOT
-We look from the bottom of a river up toward the light. 
+We look from the bottom of a river up toward the light.
 In the foreground, dangling from the tip of a submerged
 limb, is the bracelet Abby threw away.
 ABBY (o.s.)
@@ -3224,14 +3216,9 @@ putting in the seed.
 ABBY (o.s.)
 'I went to Lincoln Park Zoo the other day. It was great as usual.
 I enclose a check.'
-An ANONYMOUS YOUNG MAN, standing on a carpet 
-of new-sprung wheat, looks up with a start. From the 
-distance comes a ghostly noise--the call of the prairie 
-chickens at their spring rites. He listens for just a moment, 
+An ANONYMOUS YOUNG MAN, standing on a carpet
+of new-sprung wheat, looks up with a start. From the
+distance comes a ghostly noise--the call of the prairie
+chickens at their spring rites. He listens for just a moment,
 then returns to work.
 THE END
-
-
-
-
-

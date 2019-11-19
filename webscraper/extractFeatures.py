@@ -1,31 +1,38 @@
 import requests
 import bs4
 import re
+import pandas as pd
 
+masterDict = {}
 
 def featureToFile(movieString, response):
-    soup = bs4.BeautifulSoup(response)
-    genres = soup.find_all('a', {'href': re.compile(r'/genre//')})
-    writers = soup.find_all('a', {'href': re.compile(r'/writer.php?w=/')})
+    soup = bs4.BeautifulSoup(response, features="lxml")
+    genres = soup.find_all('a', {'href': re.compile(r'/genre/')})
+    writers = soup.find_all('a', {'href': re.compile(r'/writer.php')})
 
+    genresForDict = []
+    writersForDict = []
+    for index, genre in enumerate(genres):
+        if (index > 17):
+            genresForDict.append(genre.getText())
+    for writer in writers:
+        writersForDict.append(writer.getText())
+    masterDict[movieString] = {"genres": genresForDict, "writers": writersForDict}
 
 with open("list.txt", 'r') as list:
         #iterate file line by line
         for movie in list:
-            #replace blank spaces with - to use in the url
-            movieString = movie.replace(" ", "-")
             #replace newlines for formatting
-            movieString = movieString.replace("\n", "")
-            #replace : because its not used by the site in the url
-            movieString = movieString.replace(":", "")
-
-            movieStringForURL = movie.replace(" ", "%%20")
-            #replace newlines for formatting
-            movieStringForURL = movieString.replace("\n", "")
+            movie = movie.replace("\n", "")
+            movieStringForURL = movie.replace(" ", "%20")
 
             #request the page with the script
-            res = requests.get(
-                'https://www.imsdb.com/Movie%%20Scripts/%s%%20Script.html' % movieStringForURL)
+            res = requests.get('https://www.imsdb.com/Movie%20Scripts/' +
+                            movieStringForURL + '%20Script.html')
             #if okay call function that saves the script
+            print(movie)
             if res.ok:
-                featureToFile(movieString, res.text)
+                featureToFile(movie, res.text)
+
+df = pd.DataFrame(masterDict)
+df.to_json("features.json")

@@ -1,13 +1,5 @@
-
-    
-        
-        
-        
-		document.isTrellix = 1;
-		
-        Omega Man Script
-    
-    
+document.isTrellix = 1;
+Omega Man Script
 <b><!--
 </b>// Cache-busting LUBID bug.
 var ran = Math.round(Math.random() * 899999) + 100000;
@@ -15,17 +7,5 @@ var lubid_string = "<img src=\"http://lubid.lycos.com/one.asp?site=members.tripo
 document.write(lubid_string);
 <b>//-->
 </b>
-
-	
-		
-	
-		
-	
-
-	
-	E-mail this page to a friend
-	Tell me when this page is updated
-	
-
-
-        
+E-mail this page to a friend
+Tell me when this page is updated

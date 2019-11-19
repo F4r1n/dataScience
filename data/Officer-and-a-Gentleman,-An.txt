@@ -1,11 +1,4 @@
- 
-
 Officer and a Gentleman, An Script at IMSDb.
-
-
-
-
-
 This script was brought to you by :
-  The Internet Movie Script Database
-  www.IMSDb.com
+The Internet Movie Script Database
+www.IMSDb.com

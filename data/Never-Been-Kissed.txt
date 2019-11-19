@@ -1,21 +1,9 @@
-
-        "Never Been Kissed" 
-
-
-
-
+"Never Been Kissed"
 <b><!--
 </b>if (window!= top)
 top.location.href=location.href
 <b>// -->
-</b> 
-
-
-
-
-
-
-
+</b>
 NEVER BEEN KISSED
 Revised Draft by Jenny Bicks
 Based on the Original Screenplay by
@@ -31,18 +19,18 @@ Pull out to reveal Josie on pitcher's mound of a--
 EXTERIOR. A BASEBALL STADIUM -- NIGHT
 It's packed. Reporters line the field. All eyes are on Josie.
 JOSIE
- (V.O.)
+(V.O.)
 This is so not a dream.
 The stadium clock sets at 5:00. The crowd goes crazy. Josie takes a deep, nervous breath and smiles, "Oh God."
 INTERIOR. ELECTRONICS STORE -- CONTINUOUS
 Multiple images of Josie play across rows of TV sets. A crowd has gathered.
 JOSIE
- (V.O.)
+(V.O.)
 It wasn't supposed to be like this. I was just trying to do my job. And then things happened. Well, life happened. And now I'm here.
 EXTERIOR. BASEBALL STADIUM -- CONTINUOUS
 The clock starts to tick down. The crowd yells again.
 JOSIE
- (V.O.)
+(V.O.)
 Trust me. I am not the kind of girl who does things like this. I mean, two months ago you couldn't have picked me out of a crowd...
 INTERIOR. CHICAGO SUN TIMES BULLPEN -- DAY
 Packed with office workers. Bustling with activity. The camera searches the crowd.
@@ -83,7 +71,7 @@ Josie enters, reads the messsage still gingerly held in two fingers, and drops i
 Anita Brandt, late 20's, pretty in a semi-unprofessional way, bursts in, smiling.
 ANITA
 Guess who I did it with last night...
-JOSIE 
+JOSIE
 (duh)
 Roger in Op/Ed.
 ANITA
@@ -104,7 +92,7 @@ It is hoped that it's not a mess. "Hopefully" is an adverb. It means "with hope"
 Gus and Anita just stare at Josie.
 JOSIE
 Well, excuse me for caring about words.
-GUS 
+GUS
 (to Anita)
 So. You and Roger in Op/Ed.
 ANITA
@@ -715,7 +703,7 @@ SYDNEYS VOICE
 Voting on Prom theme has been completed. And the theme is--
 CU on expectant FACES.
 SYDNEYS VOICE
- (cont'd)
+(cont'd)
 The Millennium!
 PANDEMONIUM. Kids cheer, gasp. One GIRL faints.
 The crowd surges again. Josie, caught in the flow, doesn't notice a locker door flinging open. She smashes her face right into it. Everyone, including Guy, turns and laughs. Even some Denominators.
@@ -832,7 +820,7 @@ Josie shuts the phone, looks around...retraces her steps ... Bambi is gone.
 Josie walks around the lot, getting visibly upset.
 In the corner of the lot, we see a group of Denominators removing a BIG METAL CHAIN from around a group of tightly packed cars.
 ALDYS
- (O.S.)
+(O.S.)
 They do it to all the new kids.
 Josie finds Aldys standing next to her.
 JOSIE
@@ -848,7 +836,7 @@ JOSIE
 Try being named after a guitar-playing pussycat.
 Aldys doesn't get it.
 JOSIE
- (cont'd)
+(cont'd)
 Never mind.
 (beat)
 That is so awful that they hide your cars.
@@ -900,7 +888,7 @@ Once. To use the bathroom.
 OUT THE WINDOW, Josie sees her Buick with Rob at the wheel stopped at a red light. Detailed on to the side in big white script is:
 "THE TIKI POST". Josie's eyes widen. The light changes. Rob pulls away.
 JOSIE
- (cont'd)
+(cont'd)
 (So angry)
 Oh. My. God.
 (a beat)
@@ -912,7 +900,7 @@ ALDYS
 Professor of medieval literature. Novelist. Weekend flautist.
 Aldys takes another slurp of her shake. WE HEAR a muffled cell phone RINGING.
 ALDYS
- (cont'd)
+(cont'd)
 I think your knapsack is ringing.
 Josie takes the cell phone out of her knapsack and answers it.
 JOSIE
@@ -950,7 +938,7 @@ ALDYS
 They love to disconnect the battery, too.
 She looks under the hood, reconnects the battery. Slams the hood down.
 ALDYS
- (cont'd)
+(cont'd)
 Just so you know, I think they recalled these cars in 1974.
 JOSIE
 Thanks.
@@ -1111,7 +1099,7 @@ JOSIE
 Sorry. Forgetful.
 Josie picks up her bookbag. She notices the book Sam's reading--
 JOSIE
- (cont'd)
+(cont'd)
 (excited)
 Dorothy Parker--
 SAM
@@ -1151,7 +1139,7 @@ ALDYS
 That's the old drive-in. They call it "The Court". Now it's just a continuous party for Guy's group.
 ANGLE ON: Gibby and Kristen talking by a car.
 ALDYS:
- (cont'd)
+(cont'd)
 Sometimes I wonder what they talk about.
 JOSIE
 Yeah, I know.
@@ -1219,7 +1207,7 @@ JOSIE
 Kristen got a quote?
 Gus looks up at Josie.
 JOSIE
- (cont'd)
+(cont'd)
 Yes, urm, she's right. I have learned it is a very popular place for the young people to go.
 GUS
 Have you been there?
@@ -1315,7 +1303,7 @@ ROB
 Little known fact.
 Josie takes this in.
 ROB
- (cont'd)
+(cont'd)
 Look, don't you wanna show them - Gus, Billy Prince, yourself--that you're not freaked out by the cool kids anymore? That you can go in there, be friends with them, and get your story?
 JOSIE
 Yes, desperately.
@@ -1370,7 +1358,7 @@ George watches the monitor, winces.
 JOSIE-CAM POV:
 The CAMERA still faces the pavement.
 JOSIE
- (O.S.)
+(O.S.)
 (small)
 I'm okay.
 INTERIOR. COULSOM'S CLASSROOM - LATER
@@ -1518,7 +1506,7 @@ The crowd roars over Cliff's next song as Lara drags San off into the crowd. Sam
 ANGLE ON JOSIE
 She sees Guy's group sitting at a table and approaches an empty seat. They immediately scoot around so that the seat is taken. Undeterred, Josie sees a seat at the next table and sits down in it. She looks up to see that she is at a table of huge RASTAFARIANS. They all wear big Rasta hats and even bigger hair and are smoking a joint the size of Cuba. She smiles awkwardly.
 JOSIE
- (cont'd)
+(cont'd)
 Hi. Is it okay if I sit here?
 RASTA #1
 Oh, ya mon. We accept all peoples. We are all about da' love.
@@ -1534,7 +1522,7 @@ JOSIE
 Get it?! Get it?! He was a firecracker!
 She lifts up Rasta 1's dreadlocks to get his ear.
 JOSIE
- (cont'd)
+(cont'd)
 (yelling)
 A firecracker!
 And she cracks up again.
@@ -1543,7 +1531,7 @@ RASTA #1
 I don't love her.
 Rastas share looks ill around. Then Josie hears the first strains of "The Harder They Come"--
 JOSIE
- (cont'd)
+(cont'd)
 Oh my God! This music rules!
 And Josie proceeds to get up and take over the place--she's dancing on the table, getting up with the band and playing the bongos, all with absolutely no rhythm or style. But with a lot of whooping. The club is agog.
 ANGLE ON: Lara and Sam. They both look aghast.
@@ -1640,7 +1628,7 @@ Homeroom has just gotten out, and the halls are packed with kids. Josie is runni
 She bangs into some freshmen, gets whacked by a book bag, slides some banners that kids are painting - but she won't slow down.
 Just as she's almost at the doors to the school, the BIG WOODEN DOOR to the front office opens. Josie can't stop. A figure emerges, but before Josie can even see who it is, she slams into it and goes down. She bangs her head on the hard linoleum floor.
 INTERIOR. HIGH SCHOOL HALLWAY - (PRESENT)
- - DAY
+- DAY
 Homeroom has just gotten out, and the halls are packed with kids. Josie is running full speed, trying to negotiate around lots of kids, in her frantic-race for the door. Kids still point and stare.
 She bangs into some freshmen, gets whacked by a book bag, slides some banners that kids are painting - but she won't slow down.
 Just as she's almost at the doors to the school, the BIG WOODEN DOOR to the front office opens. Josie can't stop. A figure emerges, but before Josie can even see who it is, she slams into it and goes down. She bangs her head on the hard linoleum floor.
@@ -1675,7 +1663,7 @@ ROB
 I just registered.
 Rob whips out his fake ID and shows it to her.
 ROB
- (cont'd)
+(cont'd)
 (proudly)
 Manufactured at the Tiki Post.
 Rob helps Josie up.
@@ -1828,7 +1816,7 @@ Out of my control.
 TOMMY! CUT IT OUT! ENOUGH!
 Tommy stops. Sam turns to Josie.
 SAM
- (cont'd)
+(cont'd)
 (defensive)
 I said that as a chaperone.
 They start to ascend again. Sam relaxes.
@@ -1850,7 +1838,7 @@ JOSIE
 I don't have to say that.
 They look into each other's eyes just as Tommy RATTLES his bucket ruthlessly.
 TOMMY
- (O.S.)
+(O.S.)
 IF THE BUCKET'S A-ROCKIN', DON'T COME-A KNOCKIN'.
 Josie and Sam laugh uncomfortably.
 SAM
@@ -1926,7 +1914,7 @@ Yeah well, she left him for the drummer from "Sister Hazel." Y'know the song "Al
 GUY
 That was about Josie?
 (impressed)
-Rufus
+Rufus
 INTERIOR. CAFETERIA - DAY
 Josie turns with her tray after paying. Aldys sees her.
 ALDYS
@@ -2034,7 +2022,7 @@ JOSIE
 Wow. That's big. I mean sex is a really big deal. You shouldn't do it until you know you've found the right person.
 ANGLE ON SAM, listening. Josie is oblivious.
 JOSIE
- (cont'd)
+(cont'd)
 You know, Adele penguins pick one mate. They spend their whole life looking for that one other penguin and when they find it, they know. That's the penguin they stay with for the rest of their lives.
 TRACY
 But I'm not a penguin.
@@ -2217,22 +2205,22 @@ JOSIE
 Oh it's great. Totally Rufus.
 Gus and Anita look at each other, both mouthing "Rufus?"
 JOSIE
- (cont'd)
+(cont'd)
 I have, um--
 Josie dumps out her backpack on the table. Teen items spill out-notebooks, CDs, barrettes, a hacky sac, a Frisbee, glitter nail polish. She rifles through it all--
 JOSIE
- (cont'd)
+(cont'd)
 --notes here somewhere-(picking up paper)
 There's my math homework!
 RIGFORT
 Geller, I don't need your notes. I need your story. Though I speak for everyone when I say I've seen the tapes. Compelling stuff.
 All the workers nod in agreement.
 RIGFORT
- (cont'd)
+(cont'd)
 But I want a story in two weeks. I'm saving the "Life and Style" cover for you. You're gonna make one hell of a reporter. Oh, and if you don't, you and Gus are fired.
 Josie and Gus react.
 RIGFORT
- (cont'd)
+(cont'd)
 Now, onto the next order of business. Marketing department-yes or no?
 EXTERIOR. JOSIE'S PARENTS' HOUSE  NIGHT
 Beer cans and kids litter the lawn. Josie pulls into the driveway.
@@ -2329,7 +2317,7 @@ GIBBY
 Told you.
 And they move off. Rob spots Tracy and moves off to her.
 SAM
- (O.S.)
+(O.S.)
 I always liked Betty better.
 Josie turns, sees Sam.
 JOSIE
@@ -2533,7 +2521,7 @@ MERKIN
 No, but I'm closing the pool in five minutes.
 Merkin holds out a bowl of cash.
 MERKIN
- (cont'd)
+(cont'd)
 Josie's odds are 3 to 1. 2 to 1 for Prom court. And even odds the kid sticks himself with the sword by the end of the night.
 INTERIOR. COUNTRY CLUB - CONTINUOUS
 WE PAN ACROSS the dance floor where we see POPEYE & OLIVE OYL, SONNY & CHER, the BLUES BROTHERS.
@@ -2596,7 +2584,7 @@ SAM
 Mr. Rob ... Mr. Rob!
 The crowd cheers. Gibby, Kirsten, and Kristen all jump in preplanned delight. Rob seems genuinely surprised. Jason carries Tommy up to the stage piggyback. The girls make their way to the stage, and put on their "PROM COURT" sashes. Sam looks to the card again.
 SAM
-Next up - Southglen's Prom King
+Next up - Southglen's Prom King
 Guy is already halfway to the stage-
 SAM
 Guy Perkins!
@@ -2648,7 +2636,7 @@ SAM
 I always feel like such a goofball in these penguin suits. Like I'm at my own wedding or something.
 An awkward beat.
 SAM
- (cont'd)
+(cont'd)
 You wanna--
 He gestures towards the dance floor. Josie smiles.
 JOSIE
@@ -2660,7 +2648,7 @@ GUY
 Hey, listen--it's prom. How about we let all the old shit go. Would you like to dance?
 Aldys can't help it. She smiles, a little flattered.
 GUY
- (cont'd)
+(cont'd)
 If it's okay with the rest of the double helix.
 Aldys smiles and unhooks herself from the group. And starts to dance with Guy.
 ANGLE ON: JOSIE AND SAM as they continue to dance.
@@ -2682,7 +2670,7 @@ JOSIE
 Yeah, I have.
 CLOSE UP on Josie's HAND as she subtlety removes her hidden camera pin and drops it to the ground.
 JOSIE
- (cont'd)
+(cont'd)
 There's something I have to tell you--
 Her foot comes down on top of it.
 INTERIOR. GEORGE'S VAN - CONTINUOUS
@@ -2721,21 +2709,21 @@ JOSIE
 Let me tell you something.
 It is still silent. Josie takes a deep breath, and looks around the room.
 JOSIE
- (cont'd)
+(cont'd)
 I don't care about being the prom queen. I am twenty five years old.
 Looks of confusion and teenage disgust. Rob is pissed. Sam looks shocked.
 JOSIE
- (cont'd)
+(cont'd)
 I'm here as an undercover reporter for the Sun Times for God's sake and I've been beating my brains out trying to impress you.
 She tears off her crown, and chucks it. She's on a roll.
 JOSIE
- (cont'd)
+(cont'd)
 I want to tell you something. You people- Guy, Gibby, the rest of you who have been keeping the geeks down through the ages. You will spend your lives trying to figure out ways to keep others down, because it makes you feel more important. And you will miss out on so much.
 (indicating Aldys)
 Why her, huh? What did she ever do to you? Let me tell you something about this girl. She is unbelievable. I was new here, and she befriended me- no questions asked. But you people, you were my friends only after my brother, Rob...
 She points out Rob in the crowd. He's mortified.
 JOSIE
- (cont'd)
+(cont'd)
 posed as a student and told you to like me. But y'know--l have to thank you. I got to go to an amazing prom. I got to be prom queen. I got to be cool. It felt good.
 (beat)
 But not as good as being myself.
@@ -2790,7 +2778,7 @@ JOSIE
 I don't! Look, you could get to know me, again.
 Sam turns and starts to walk away.
 JOSIE
- (cont'd)
+(cont'd)
 Please. Please don't walk away.
 SAM
 I just can't look at you the same way.
@@ -2844,7 +2832,7 @@ JOSIE
 No, thanks--I'm doing this on my own.
 Josie walks past Merkin's desk. She holds out her hand to Merkin.
 JOSIE
- (cont'd)
+(cont'd)
 Merkin. Highlighter.
 Merkin slaps a highlighter into her hand, she continues on. Anita watches her go.
 EXTERIOR. SOUTHGLEN HIGH SCHOOL - DAY
@@ -2861,7 +2849,7 @@ Josie continues down the hall.
 INTERIOR. LOCKER ROOM - SAME
 The guys' locker room. A bunch of GUYS are getting dressed after P. E.
 JOSIE
- (O.S.)
+(O.S.)
 WOMAN COMING THROUGH! COVER UP WHAT YOU DON'T WANT SEEN!
 And with that Josie comes walking into the locker room, completely unruffled, and storms over to Coach Romano's office, just as he is leaving it.
 JOSIE
@@ -2937,11 +2925,11 @@ JOSIE (V.O.)
 A certain teacher was trampled in my path to self-discovery, and though this article may serve as a step, it in no way makes up for what I did to him.
 He's not paying attention and the milk overflows the bowl, soaking the table.
 JOSIE (V.O.)
- (cont'd)
+(cont'd)
 To this man, you know who you are, I am so sorry.
 He takes the wet paper, using it like a sponge, he sops up the remaining milk, and throws the paper into an open trash can. He leaves the kitchen. WE HOLD ON the empty room.
 JOSIE (V.O.)
- (cont'd)
+(cont'd)
 And, I would like to add one more thing - I think I am in love with you.
 EXTERIOR. BASEBALL, STADIUM PARKING LOT  NIGHT
 Cars begin to fill the parking lot in a steady stream.
@@ -2953,7 +2941,7 @@ JOSIE (V.O.)
 I will stand on the pitcher's mound for the five minutes prior to the first pitch. If this man accepts my apology, I ask him to come to kiss me, in front of everyone, for my first real kiss.
 We find a nervous looking Josie standing in the dugout.
 JOSIE
- (cont'd)
+(cont'd)
 Five minutes may seem like a short time, but trust me, when you've been waiting twenty-five years, it's usually the last five minutes that kill you.
 CU: THE PICTURE TAKEN OF JOSIE AND SAM AT THE PROM.
 JOSIE (V.O.)
@@ -2962,11 +2950,11 @@ WIDEN TO REVEAL the picture on the fridge in--
 INTERIOR. SAM'S KITCHEN - EVENING
 Sam enters, still in sweats, carrying a book. He opens the fridge, grabs a beer, shuts it, is confronted by Josie's picture. He takes it down, looks at it.
 JOSIE (V.O.)
- (cont'd)
+(cont'd)
 And then I discovered it wasn't so bad. I wasn't so bad. So, now that I'm ready to start living the rest of my life, it would be magical if I could live the rest of it with him.
 Sam lets the photo slowly drop from his hand into the trash.
 JOSIE (V.O.)
- (cont'd)
+(cont'd)
 Because inside everyone is a loser afraid to be loved, and out there is the one person who can kiss us and make it all better.
 WE FOLLOW Sam's stare down into the trash and see the photo lying on top and to the side of Josie's article--the photos from the article are clearly visible.
 ANGLE ON HOT DOGS, POPCORN CHANGING HANDS being sold by the truckload at the stadium. The crowds are over capacity. Way over. People fill the parking lot, they cover every other inch of school grounds, as well. They stand on the roofs of nearby buildings, they sit on top of their cars. It looks like most of Chicago is either already there, or on their way.
@@ -3010,11 +2998,11 @@ RIGFORT
 Wait a minute...
 Rigfort pulls something small and shiny out of the bun.
 RIGFORT
- (cont'd)
+(cont'd)
 There's a bolt in my weiner.
 Then he turns back to Howard and smiles.
 RIGFORT
- (cont'd)
+(cont'd)
 Hey Howard, what are you doing for the next month?
 Howard's face falls.
 EXTERIOR. PITCHER'S MOUND - SAME
@@ -3067,24 +3055,8 @@ EXTERIOR. PITCHER'S MOUND - SAME
 MUSIC UP: The Beach Boys "And Then I Kissed Her" as Josie and Sam continue to kiss as the CAMERA PULLS UP, taking in the kiss, the Crowd, the stadium... CAMERA SPINS UP as FIREWORKS go off above the stadium... And we watch as the stadium becomes a speck against the glittering backdrop of Chicago.
 FADE OUT.
 The End
-
-
-
-
-
-   
-	
-	Never Been Kissed
-	    Writers :   Jerry Bicks  Abby Kohn  Marc Silverstein
-    	Genres :   Comedy  Romance
-		
-		User Comments
-	
-
-
-
-
+Never Been Kissed
+Writers :   Jerry Bicks  Abby Kohn  Marc Silverstein
+Genres :   Comedy  Romance
+User Comments
 Back to IMSDb
-
-
-  

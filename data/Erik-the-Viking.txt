@@ -1,23 +1,9 @@
-
-        Erik the Viking
-
-
-
-
+Erik the Viking
 <b><!--
 </b>if (window!= top)
 top.location.href=location.href
 <b>// -->
-</b> 
-
-
-
-
-
-
-
-
-
+</b>
 ERIK THE VIKING - Terry Jones ---------------
 Blackness. Flames begin to lick upwards from the bottom of the screen. Suddenly all hell breaks loose. Screaming, yelling. Black figures flash across the foreground, with the flames still burning behind. There follows a confusion of burning,  raping, killing and looting - we don't clearly see what's going on. Suddenly we cut to the interior of a hut. The door is in the process of being broken down.  The  camera  pans  onto  the  close-up  face  of an attractive girl who is staring  in  horrified  fascination at the door. Her arms are white with fresh dough and flour. Suddenly the door bursts open and  a wild-looking Viking leaps into the hut. He holds a sword. He looks around wildly and then his eyes come to rest on the girl. This Viking, I'm afraid, is Erik. We are  about to see him in the worst possible light so be prepared. The girl,  whose  name  is  Helga,  cowers,  and  looks  terrified  but resolute. Erik glances round. Then slowly he advances on the girl, forcing her back onto a chest. Erik holds his sword to Helga's  throat  with his right hand, while his left hand searches to find the thongs holding up his trousers. He is clearly having difficulties  trying  to  hold  his heavy sword to Helga's throat at he same time as  undoing his trousers. He fumbles and lowers his sword for a moment.
 HELGA
@@ -174,7 +160,7 @@ THORFINN
 Why?
 VIKINGS
 Yes, why?
-SVEN THE BERSERK 
+SVEN THE BERSERK
 Why should we let er go?
 THORFINN
 We haven't hit a single braid yet!
@@ -182,7 +168,7 @@ The Vikings all guffaw. Ivar's mum has had enough. She throws the contents of a 
 GRANDAD
 Whoah! Heee! That showed her!
 Meanwhile a little shrivelled old man is jumping up and down.
-INGEMUND THE OLD 
+INGEMUND THE OLD
 Hey! He hit my wife!
 Ingemund starts to go for Thorfinn,  but  Thorhild beats him to it. She grabs one of  the  long-handled  cooking  griddles  from  the fires and swings it at Thorfinn. Thorfinn, however,  ducks,  and  the  red-hot  griddle  hits  Sven  the Berserk, who is standing with his back to Thorfinn. Sven screams and goes berserk,  turning  round and hitting Thorfinn who is now standing upright again.
 INGEMUND THE OLD
@@ -291,7 +277,7 @@ ERIK
 Tell me what I must do, Freya!
 Freya thinks for some moments. The she speaks.
 FREYA
-Erik... Far out in the  midst  of  the Western Ocean there is a land... men call it Hy-Brasil. There  you will find a horn that is called Resounding. You  must  take  the Horn Resounding, and three times you must blow it.  The  first note will take you to Asgaard. The second will awaken  the  Gods,  and the third note will bring you home. But remember...  once you are in the spell of the Horn, hatred will destroy you. 
+Erik... Far out in the  midst  of  the Western Ocean there is a land... men call it Hy-Brasil. There  you will find a horn that is called Resounding. You  must  take  the Horn Resounding, and three times you must blow it.  The  first note will take you to Asgaard. The second will awaken  the  Gods,  and the third note will bring you home. But remember...  once you are in the spell of the Horn, hatred will destroy you.
 Erik turns to go and then hesitates.
 ERIK
 And will the dead ever return, Freya?
@@ -301,9 +287,9 @@ Cut to a big close-up  of  a  head  being  banged  on the ground. It is Thorfinn
 ERIK'S GRANDAD
 What are you doing, Erik? Thorfinn just said SVEN'S GRANDFATHER
 died of old age.
-INGEMUND THE OLD 
+INGEMUND THE OLD
 They must fight to the death.
-THORFINN SKULL-SPLITTER 
+THORFINN SKULL-SPLITTER
 That's right! Sven must kill me.
 OTHERS
 Yes. Stay out of this. What's it to do with you?
@@ -313,11 +299,11 @@ ERIK
 Aren't you afraid of death, Thorfinn Skull-Splitter?
 Thorfinn shrugs.
 THORFINN
-Not death by the sword! It means I shall drink in Valhalla with the great warriors. 
+Not death by the sword! It means I shall drink in Valhalla with the great warriors.
 Cut away To Harald Missionary engaged in his usual business of chatting up any available female.
-HARALD MISSIONARY 
+HARALD MISSIONARY
 You don't still believe in all that Valhalla stuff, do you?
-THORHILD THE FEMALE 
+THORHILD THE FEMALE
 Go away.
 HARALD
 Fine... right... just checking.
@@ -357,7 +343,7 @@ Oh, well...
 He starts attacking Sven again. Erik  decides  there is only one way to make his  point.  He  lets  fly  with  his  fists  and  lays  both  the antagonists out for a moment.
 ERIK
 But it will be dangerous. Maybe none of us will return.
-SNORRI THE MISERABLE 
+SNORRI THE MISERABLE
 Ah  well,  that's  much  more  sensible than just Thorfinn getting killed. Shall we all go and pack now?
 SVEN
 What are you talking about, Erik?
@@ -428,15 +414,15 @@ No.
 OTHERS
 Oh...
 There is general disappointment all around.
-IVAR THE BONELESS 
+IVAR THE BONELESS
 Oh, go on...
 GRANDAD
 Just have a bit of a fight.
-INGEMUND THE OLD 
+INGEMUND THE OLD
 I'LL fight someone.
 GRANDAD
 You're too old.
-INGEMUND THE OLD 
+INGEMUND THE OLD
 No, I ain't.
 Cut to an adze striking  timber.  The  Viking's ship, GOLDEN DRAGON, is being repaired and fitted out for  a  JOURNEY. Erik is there, directing operations. The camera tracks through all the activity and finally comes to rest on Keitel Blacksmith. He is a magnificent  mountain  of a man in an Arnold Schwarzeneggarish sort of way. He hammers  a sword, and sparks fly, but his eyes keep returning  to  the  preparations  for the voyage. Clearly something is worrying him. His assistant, Loki, sidles up to him.
 LOKI
@@ -615,7 +601,7 @@ More crying.
 ERIK
 No! Don't cry....
 By this time most of the village is blubbering profusely. Cut to Harald Missionary. He has his arm round his weeping girlfriend.
-HARALD MISSIONARY 
+HARALD MISSIONARY
 Sh... There... it's  all  fantasy,  there's  no Dragon of the North Sea, no Edge of the World...
 GRIMHILD HOUSEWIFE
 That's what YOU say.
@@ -625,7 +611,7 @@ What's the matter with them?
 GRANDAD
 Just say something cheerful.
 ERIK
-Oh... right! 
+Oh... right!
 (He  can't  think  of  anything)
 Well.... CHEERS everybody!
 Erik smiles broadly and waves.  The  entire  village stares back at him with tears in their eyes,  and  biting  their lips. Suddenly one mother can't hold it back any more.
@@ -665,7 +651,7 @@ UNN
 If Keitel Blacksmith goes with you...
 THORHILD
 We'll have no one to do the things he did for us.
-THORKATLA THE INDISCRETE 
+THORKATLA THE INDISCRETE
 OR sharpen our knives and make our pans.
 An awkward silence. The others all  turn  on  her  and frown - a bit of shin-kicking goes on. It's  clear  that  Keitel  is popular amongst the womenfolk. Erik doesn't notice.
 ERIK
@@ -811,13 +797,13 @@ Meanwhile Ivar the Boneless  and  Sven  the  Berserk are both suffering from the
 SVEN
 (keeping a wave of nausea down)
 It's not so bad when you're rowing.
-THORFINN SKULL-SPLITTER 
+THORFINN SKULL-SPLITTER
 That's right
 Thorfinn gobs onto the whetstone with  which  he is sharpening his axe. Sven can control himself no longer. He rushes for the side.
-SVEN THE BERSERK 
+SVEN THE BERSERK
 I want to die.
 This sets off Ivar.
-IVAR THE BONELESS 
+IVAR THE BONELESS
 Uh oh!
 He leaps up and pukes over  the  side.  Mass puking breaks out all over the boat. Keitel Blacksmith looks around  at  his  preoccupied  shipmates, and it slowly dawns upon him that this  might  be  the  moment to try a little sabotage. He goes to the ship's lodestone, which is hanging from the mast. Keitel glances around. No one is  looking,  but  this sort of covert behaviour goes against his normally sunny and open disposition.
 KEITEL
@@ -899,7 +885,7 @@ Come on, Ivar.
 Erik manhandles Ivar over to his  drum  and thrusts his drumsticks into his hands. Halfdan's ship is twice the size  of  Erik's  and,  as Erik is only too well aware, consequently travels at twice  the  speed. There is no real chance of them escaping,  unless...  Erik  suddenly  catches sight of a thick bank of mist in the distance, and steers his ship towards it.
 IVAR
 (still feeling ill)
-I  want  to  die... 
+I  want  to  die...
 (then, suddenly catching sight of Halfdan's ship behind him)
 No, I don't!
 ERIK
@@ -935,12 +921,12 @@ The sun! It's the sun! Look!
 SVEN'S DAD
 (in wonderment)
 I never though I should live to see the sun again.
-HARALD MISSIONARY 
+HARALD MISSIONARY
 Where?
 The Vikings all gaze up above them in awe. Harald looks from one to the other and then tries to follow their eyelines. He clearly can't see it. Magic music fills the air. Suddenly  the  "sun"  swoops off to one side and starts swaying from one side to another.
 ERIK
 Should the sun do that?
-HARALD MISSIONARY 
+HARALD MISSIONARY
 What are you looking at?
 ERIK
 Look out!
@@ -949,7 +935,7 @@ Ah!
 The Vikings scream and  flatten  themselves  against  the  sides of the boat, as the "sun"  suddenly  lurches  down  on  them  out  of the sky, revealing for the first time  that  it  is  NOT  the  sun  at all but a strange monster with a long neck that  disappears off into the mist and a glowing globe for a head,  and  huge  chomping jaws. The Vikings are, understandably, terrified.
 VIKINGS
 It's not the sun! It's not the sun!
-HARALD MISSIONARY 
+HARALD MISSIONARY
 What is it?
 SNORRI
 It's the Dragon of the North Sea!
@@ -1061,14 +1047,14 @@ The Dragon goes cross-eyed, trying to see what's going on on its snout.
 ERIK
 Go on! Breathe in, you cod-brain!
 Meanwhile the Dragon's tongue suddenly licks out around its tooth. Sven instantly slices through it with  his  sword.  The bright blood spurts, like bursting a sausage. The Dragon gives  an agonized roar and a sharp intake of breath. The feathers that have leaked out from the pillow are instantly sucked inside and the  whole  pillow  disappears right up the Dragon's nose. For a moment  everyone  holds  their  breath.  The  Dragon's eye dilate wildly. Then it wrinkles its snout. Then it starts what is unmistakably a sneeze.
-THE DRAGON OF THE NORTH SEA 
+THE DRAGON OF THE NORTH SEA
 Ah... ah... ah...
 ERIK
 Hold TIGHT!
-THE DRAGON OF THE NORTH SEA 
+THE DRAGON OF THE NORTH SEA
 Ah... ah... ah...
 Erik leaps back across the mast.
-THE DRAGON OF THE NORTH SEA 
+THE DRAGON OF THE NORTH SEA
 CHOO!!
 A hurricane of wind and  feathers  blasts  out of the Dragon's nostrils and hits all the Vikings at once. Everyone is disgusted by the Dragon's breath.
 SNORRI
@@ -1111,7 +1097,7 @@ First we're flying - now we're sinking!
 ERIK
 Well, come on!
 He whisks off his helmet  and  starts  bailing.  All follow suit. Night falls. Some time later. The Vikings are still bailing out, but the water is up to their thighs.
-IVAR THE BONELESS 
+IVAR THE BONELESS
 Who are we fooling? It's hopeless!
 Ivar flings down the helmet  with  which  he's been bailing. The others look at each other. They are reconciled to the fact that they are going to drown.
 HARALD MISSIONARY
@@ -1131,7 +1117,7 @@ THORFINN
 Erik's right! We'll all meet in Valhalla.
 IVAR
 I don'T want to die!
-HARALD MISSIONARY 
+HARALD MISSIONARY
 Isn't there ANYBODY who'd like  to be christened before we go down?
 Silence. A distinct lack of enthusiasm.
 HARALD
@@ -1140,7 +1126,7 @@ SVEN'S DAD
 What do we have to do?
 HARALD
 Nothing... I just immerse you in water...
-THORFINN AND OTHERS 
+THORFINN AND OTHERS
 Get lost...
 The ship creaks and starts to  go  under.  Erik picks his up his sword. The others follow suit.
 ERIK
@@ -1151,7 +1137,7 @@ Till we meet in Valhalla.
 They all prepare to run each other through. The boat sinks rapidly.
 IVAR THE BONELESS
 I'm too young! Oh  Odin!  Not  me! Please not me! Perhaps I'd rather drown...
-HARALD MISSIONARY 
+HARALD MISSIONARY
 I do WISH you'd let me convert you.
 Then Erik pauses in his attempt to  kill Thorfinn and looks around. The ship has sunk, but the prow and  the  stern posts are still sticking up out of the water,  and  the  Vikings  themselves  are  only up to their chests.
 ERIK
@@ -1317,7 +1303,7 @@ Well...  for  a start... er... there's no killing...
 ERIK
 Well, OBVIOUSLY there's no killing.
 KING ARNULF
-Well... 
+Well...
 (isn't it great?)
 THORFINN
 But how d'you take revenge?
@@ -1429,11 +1415,11 @@ Don't be silly.
 CHAMBERLAIN
 That was a stupid suggestion.
 VOICE
-Sorry! I just thought they might like to hear something that we 
+Sorry! I just thought they might like to hear something that we
 can do.
 ANOTHER
 Yes! At least we know that one.
-YET ANOTHER VOICE 
+YET ANOTHER VOICE
 Nobody knows the "TUM-TUM-TUM-TUM-TI-TUM-TUM" one.
 REST OF COURT
 No! Right! I agree!
@@ -1852,7 +1838,7 @@ What "magic" have you brought, Erik?
 ERIK
 You'll see!
 At this point, back on the  Black  Ship,  Halfdan gives another nod and Eilif raps out yet another command  with  his staff. This time the prow of the Black Ship opens up like a pair of jaws. The Vikings see it and panic.
-IVAR THE BONELESS 
+IVAR THE BONELESS
 I've done it!
 THORFINN
 Oh, yes...
@@ -2145,7 +2131,7 @@ ERIK
 Look out!
 The doors of the Great  Hall  burst  open  and  a wall of water crashes through, knocking the Vikings  off  their  feet.  There is little doubt that the whole of Hy-Brasil is sinking  see  a street go down, a statue sink and then we Cut to a close-up of King Arnulf. He is standing at the  top  of  the  Forum  steps addressing a crowd of anxious citizens. They are keeping  surprisingly good order considering they are already standing ankle-deep  in  water,  and the whole town is rapidly sinking around them.
 KING ARNULF
-Now, I know what some  of  you  must be thinking... the day has come.... we're all going  down,  etc.  etc.  But let's get away from the fantasy and look at the FACTS. FACT ONE - The threat of  total  destruction has kept the peace for one thousand years. FACT TWO - The chances of  it  failing now are therefore one in three hundred and sixty-five thousand.  FACT THREE... 
+Now, I know what some  of  you  must be thinking... the day has come.... we're all going  down,  etc.  etc.  But let's get away from the fantasy and look at the FACTS. FACT ONE - The threat of  total  destruction has kept the peace for one thousand years. FACT TWO - The chances of  it  failing now are therefore one in three hundred and sixty-five thousand.  FACT THREE...
 By this time the  water  is  up  to  people's  knees,  and several have crowded onto the lower steps to avoid getting wet.
 KING ARNULF
 FACT THREE - Our  safety  regulations  are the most rigorous in the world. We are all  nice  to  each  other, we never rub each other up the wrong way or contradict each other, do we?
@@ -2181,7 +2167,7 @@ There is a smattering of applause. A few people pull their robes up out of the w
 ERIK
 Save yourselves! Hy-Brasil... is sinking.
 There are a lot of knowing smiles amongst the citizens.
-CITIZEN FROM MIDDLE 
+CITIZEN FROM MIDDLE
 Look, you don't know our safety regulations.
 KING ARNULF
 It can't happen.
@@ -2192,7 +2178,7 @@ KING ARNULF
 The important thing is not to panic.
 CITIZENS
 Quite... yes... we understand....
-KING ARNULF 
+KING ARNULF
 I've already appointed  the  Chancellor  as  Chairman of a committee to find out exactly  what  IS  going  on, and meantime I suggest we have a sing-song!
 CITIZENS
 Good idea!
@@ -2493,7 +2479,7 @@ Blow the third note! The note to take us home!
 ERIK
 There is something I must ask the Gods...
 AUD
-No living man has ever set  foot in the Halls of Asgaard... The Gods will never let you return. 
+No living man has ever set  foot in the Halls of Asgaard... The Gods will never let you return.
 Erik looks at her... for a moment... But he knows he has no choice.
 SVEN
 I came to find my grandfather.
@@ -2685,7 +2671,7 @@ Stay HERE? Ha ha! This is  Valhalla. This is reserved for those slain-in-battle.
 HORRIBLY SLAIN WARRIOR
 (grinning cheerfully)
 Yeah! We're the LUCKY ones!
-A HORRIBLY SLAIN FRIEND OF HIS 
+A HORRIBLY SLAIN FRIEND OF HIS
 Yeah. It's much better than dying of old age.
 The ghastly and dismembered dead  warriors  all  chortle  no end at the dismay written on the face of Erik and  his men. At the same time there is a grinding, winching sound.  All  those around the hearth-place fall back as a vast  grating  is  winched  up  from  out  of the flames. The Vikings look at each other.
 ODIN
@@ -2761,14 +2747,3 @@ She rushes to Harald, while  the  Vikings  rush  to release their loved ones. Gr
 IVAR
 Look!
 They all turn and see  the  sun  rising.  The villagers gasp in wonder. They've never seen the sun before.  Erik looks around and sees Thorfinn and Sven with their arms round each  other. Aud looks up as Erik smiles at he and holds  her  to  him.  Then  they  all  turn  and  gaze at the spectacle of the sun returning to the world.
-
-
-
-
-
-
-
-
-
-
-
