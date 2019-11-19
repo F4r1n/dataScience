@@ -5,7 +5,9 @@ import re
 
 def featureToFile(movieString, response):
     soup = bs4.BeautifulSoup(response)
-    soup.find_all('a', {'href': re.compile(r'crummy\.com/')})
+    genres = soup.find_all('a', {'href': re.compile(r'/genre//')})
+    writers = soup.find_all('a', {'href': re.compile(r'/writer.php?w=/')})
+
 
 with open("list.txt", 'r') as list:
         #iterate file line by line
