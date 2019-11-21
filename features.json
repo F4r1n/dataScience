@@ -27,7 +27,8 @@
         "writers": [
             "Anthony Cipriano"
         ],
-        "length": 101904
+        "length": 101904,
+        "released": "May 2006"
     },
     "12 Monkeys": {
         "genres": [
@@ -48,7 +49,8 @@
         "writers": [
             "John Ridley"
         ],
-        "length": 169128
+        "length": 169128,
+        "released": "November 2013"
     },
     "127 Hours": {
         "genres": [
@@ -60,7 +62,8 @@
             "Simon Beaufoy",
             "Danny Boyle"
         ],
-        "length": 99776
+        "length": 99776,
+        "released": "November 2010"
     },
     "1492: Conquest of Paradise": {
         "genres": [
@@ -92,7 +95,8 @@
         "writers": [
             "Jason Filardi"
         ],
-        "length": 100628
+        "length": 100628,
+        "released": "April 2009"
     },
     "187": {
         "genres": [
@@ -126,7 +130,8 @@
             "Roland Emmerich",
             "Harald Kloser"
         ],
-        "length": 148835
+        "length": 148835,
+        "released": "November 2009"
     },
     "25th Hour": {
         "genres": [
@@ -146,7 +151,8 @@
         "writers": [
             "Alex Garland"
         ],
-        "length": 110567
+        "length": 110567,
+        "released": "June 2003"
     },
     "30 Minutes or Less": {
         "genres": [
@@ -158,7 +164,8 @@
             "Michael Diliberti",
             "Matthew Sullivan"
         ],
-        "length": 126208
+        "length": 126208,
+        "released": "August 2011"
     },
     "42": {
         "genres": [
@@ -167,7 +174,8 @@
         "writers": [
             "Brian Helgeland"
         ],
-        "length": 150182
+        "length": 150182,
+        "released": "April 2013"
     },
     "44 Inch Chest": {
         "genres": [
@@ -178,7 +186,8 @@
             "Louis Mellis",
             "David Scinto"
         ],
-        "length": 130195
+        "length": 130195,
+        "released": "January 2010"
     },
     "48 Hrs.": {
         "genres": [
@@ -203,7 +212,8 @@
         "writers": [
             "Will Reiser"
         ],
-        "length": 115566
+        "length": 115566,
+        "released": "September 2011"
     },
     "500 Days of Summer": {
         "genres": [
@@ -215,7 +225,8 @@
             "Scott Neustadter",
             "Michael H. Weber"
         ],
-        "length": 96765
+        "length": 96765,
+        "released": "July 2009"
     },
     "8 Mile": {
         "genres": [
@@ -248,7 +259,8 @@
             "Pamela Pettler",
             "Shane Acker"
         ],
-        "length": 95917
+        "length": 95917,
+        "released": "September 2009"
     },
     "A Few Good Men": {
         "genres": [
@@ -260,7 +272,8 @@
         "writers": [
             "Aaron Sorkin"
         ],
-        "length": 152046
+        "length": 152046,
+        "released": "December 1992"
     },
     "A Most Violent Year": {
         "genres": [
@@ -271,7 +284,8 @@
         "writers": [
             "J.C. Chandor"
         ],
-        "length": 138885
+        "length": 138885,
+        "released": "January 2015"
     },
     "A Prayer Before Dawn": {
         "genres": [
@@ -281,7 +295,8 @@
         "writers": [
             "Jonathan Hirschbein"
         ],
-        "length": 134928
+        "length": 134928,
+        "released": "August 2018"
     },
     "A Quiet Place": {
         "genres": [
@@ -294,7 +309,8 @@
             "Scott Beck",
             "John Krasinski"
         ],
-        "length": 130478
+        "length": 130478,
+        "released": "April 2018"
     },
     "A Scanner Darkly": {
         "genres": [
@@ -305,7 +321,8 @@
         "writers": [
             "Charlie Kaufman"
         ],
-        "length": 155831
+        "length": 155831,
+        "released": "July 2006"
     },
     "A Serious Man": {
         "genres": [
@@ -315,7 +332,8 @@
             "Joel Coen",
             "Ethan Coen"
         ],
-        "length": 121393
+        "length": 121393,
+        "released": "October 2009"
     },
     "A.I.": {
         "genres": [
@@ -398,7 +416,8 @@
             "Charles Addams",
             "Caroline Thompson"
         ],
-        "length": 56536
+        "length": 56536,
+        "released": "November 1991"
     },
     "Adjustment Bureau, The": {
         "genres": [
@@ -410,7 +429,8 @@
             "George Nolfi",
             "Philip K Dick"
         ],
-        "length": 136268
+        "length": 136268,
+        "released": "March 2011"
     },
     "Adventures of Buckaroo Banzai Across the Eighth Dimension, The": {
         "genres": [
@@ -432,7 +452,8 @@
             "Russell Banks",
             "Paul Schrader"
         ],
-        "length": 88928
+        "length": 88928,
+        "released": "January 1999"
     },
     "After School Special": {
         "genres": [
@@ -452,7 +473,8 @@
         "writers": [
             "Agnieszka Wojtowicz-Vosloo"
         ],
-        "length": 120513
+        "length": 120513,
+        "released": "April 2010"
     },
     "Agnes of God": {
         "genres": [
@@ -486,7 +508,8 @@
             " David Zucker",
             "Jerry Zucker"
         ],
-        "length": 110148
+        "length": 110148,
+        "released": "July 1980"
     },
     "Airplane 2: The Sequel": {
         "genres": [
@@ -496,7 +519,8 @@
         "writers": [
             "Ken Finkleman"
         ],
-        "length": 126950
+        "length": 126950,
+        "released": "December 1982"
     },
     "Aladdin": {
         "genres": [
@@ -522,7 +546,8 @@
             "Eric Roth",
             "Michael Mann"
         ],
-        "length": 184514
+        "length": 184514,
+        "released": "December 2001"
     },
     "Alien": {
         "genres": [
@@ -614,7 +639,8 @@
         "writers": [
             "Kim Barker"
         ],
-        "length": 127956
+        "length": 127956,
+        "released": "September 2009"
     },
     "All the King's Men": {
         "genres": [
@@ -623,7 +649,8 @@
         "writers": [
             "Robert Rossen"
         ],
-        "length": 122881
+        "length": 122881,
+        "released": "November 1949"
     },
     "All the President's Men": {
         "genres": [
@@ -656,7 +683,8 @@
             "Elan Mastai",
             "Michael Roesch"
         ],
-        "length": 149423
+        "length": 149423,
+        "released": "January 2005"
     },
     "Amadeus": {
         "genres": [
@@ -675,7 +703,8 @@
             "Ronald Bass",
             "Anna Hamilton Phelan"
         ],
-        "length": 153901
+        "length": 153901,
+        "released": "October 2009"
     },
     "American Beauty": {
         "genres": [
@@ -695,7 +724,8 @@
             "Steven Zaillian",
             "Mark Jacobson"
         ],
-        "length": 187258
+        "length": 187258,
+        "released": "November 2007"
     },
     "American Graffiti": {
         "genres": [
@@ -707,7 +737,8 @@
             "Gloria Katz",
             "Willard Huyck"
         ],
-        "length": 145720
+        "length": 145720,
+        "released": "August 1973"
     },
     "American History X": {
         "genres": [
@@ -729,7 +760,8 @@
             "Eric Warren Singer",
             "David O. Russell"
         ],
-        "length": 176228
+        "length": 176228,
+        "released": "December 2013"
     },
     "American Madness": {
         "genres": [
@@ -738,7 +770,8 @@
         "writers": [
             "Robert Riskin"
         ],
-        "length": 134119
+        "length": 134119,
+        "released": "August 1932"
     },
     "American Milkshake": {
         "genres": [
@@ -748,7 +781,8 @@
             "David Andalman",
             "Mariko Munro"
         ],
-        "length": 96675
+        "length": 96675,
+        "released": "January 2013"
     },
     "American Outlaws": {
         "genres": [
@@ -810,7 +844,8 @@
         "writers": [
             " Jason Hall"
         ],
-        "length": 136777
+        "length": 136777,
+        "released": "January 2015"
     },
     "American Splendor": {
         "genres": [
@@ -821,7 +856,8 @@
             "Robert Pulcini",
             "Shari Springer Berman"
         ],
-        "length": 108839
+        "length": 108839,
+        "released": "September 2003"
     },
     "American Werewolf in London": {
         "genres": [
@@ -843,7 +879,8 @@
         "writers": [
             "Rowan Joffe"
         ],
-        "length": 137372
+        "length": 137372,
+        "released": "September 2010"
     },
     "Amityville Asylum, The": {
         "genres": [
@@ -852,7 +889,8 @@
         "writers": [
             "Andrew Jones"
         ],
-        "length": 95246
+        "length": 95246,
+        "released": "January 2014"
     },
     "Amour": {
         "genres": [
@@ -862,7 +900,8 @@
         "writers": [
             "Michael Haneke"
         ],
-        "length": 76222
+        "length": 76222,
+        "released": "December 2012"
     },
     "An Education": {
         "genres": [
@@ -872,7 +911,8 @@
             "Nick Hornby",
             "Lynn Barber"
         ],
-        "length": 126812
+        "length": 126812,
+        "released": "October 2009"
     },
     "Analyze That": {
         "genres": [
@@ -931,7 +971,8 @@
             "David Koepp",
             "Akiva Goldsman"
         ],
-        "length": 172709
+        "length": 172709,
+        "released": "May 2009"
     },
     "Anna Karenina": {
         "genres": [
@@ -940,7 +981,8 @@
         "writers": [
             "Tom Stoppard"
         ],
-        "length": 157996
+        "length": 157996,
+        "released": "November 2012"
     },
     "Annie Hall": {
         "genres": [
@@ -971,7 +1013,8 @@
         "writers": [
             "John Orloff"
         ],
-        "length": 161218
+        "length": 161218,
+        "released": "October 2011"
     },
     "Antitrust": {
         "genres": [
@@ -982,7 +1025,8 @@
         "writers": [
             "Howard Franklin"
         ],
-        "length": 141695
+        "length": 141695,
+        "released": "January 2001"
     },
     "Antz": {
         "genres": [
@@ -1042,7 +1086,8 @@
         "writers": [
             "Danilo Bach"
         ],
-        "length": 115768
+        "length": 115768,
+        "released": "March 1986"
     },
     "Apt Pupil": {
         "genres": [
@@ -1062,7 +1107,8 @@
         "writers": [
             "Nicholas Jarecki"
         ],
-        "length": 100998
+        "length": 100998,
+        "released": "September 2012"
     },
     "Arcade": {
         "genres": [
@@ -1091,7 +1137,8 @@
         "writers": [
             "Chris Terrio"
         ],
-        "length": 135909
+        "length": 135909,
+        "released": "October 2012"
     },
     "Armageddon": {
         "genres": [
@@ -1129,7 +1176,8 @@
             "Philip G. Epstein",
             "Joseph Kesselring"
         ],
-        "length": 181718
+        "length": 181718,
+        "released": "September 1944"
     },
     "Arthur": {
         "genres": [
@@ -1138,7 +1186,8 @@
         "writers": [
             "Peter Baynham"
         ],
-        "length": 121319
+        "length": 121319,
+        "released": "April 2011"
     },
     "Artist, The": {
         "genres": [
@@ -1149,7 +1198,8 @@
         "writers": [
             "Michel Hazanavicius"
         ],
-        "length": 85847
+        "length": 85847,
+        "released": "January 2012"
     },
     "As Good As It Gets": {
         "genres": [
@@ -1182,7 +1232,8 @@
             "Dan Gordon",
             "Sabi H. Shabtai"
         ],
-        "length": 179124
+        "length": 179124,
+        "released": "September 1997"
     },
     "At First Sight": {
         "genres": [
@@ -1203,7 +1254,8 @@
         "writers": [
             "Tracy Letts"
         ],
-        "length": 156002
+        "length": 156002,
+        "released": "January 2014"
     },
     "Austin Powers - International Man of Mystery": {
         "genres": [
@@ -1232,7 +1284,8 @@
         "writers": [
             "David Congalton"
         ],
-        "length": 124292
+        "length": 124292,
+        "released": "March 2014"
     },
     "Autumn in New York": {
         "genres": [
@@ -1242,7 +1295,8 @@
         "writers": [
             "Allison Burnett"
         ],
-        "length": 133818
+        "length": 133818,
+        "released": "August 2000"
     },
     "Avatar": {
         "genres": [
@@ -1253,7 +1307,8 @@
         "writers": [
             "James Cameron"
         ],
-        "length": 198923
+        "length": 198923,
+        "released": "December 2009"
     },
     "Avengers, The": {
         "genres": [
@@ -1274,7 +1329,8 @@
         "writers": [
             "Joss Whedon"
         ],
-        "length": 135137
+        "length": 135137,
+        "released": "May 2012"
     },
     "Avventura, L' (The Adventure)": {
         "genres": [
@@ -1306,7 +1362,8 @@
         "writers": [
             "Guillermo Arriaga"
         ],
-        "length": 147966
+        "length": 147966,
+        "released": "November 2006"
     },
     "Bachelor Party": {
         "genres": [
@@ -1317,7 +1374,8 @@
             "Pat Proft",
             "Bob Israel"
         ],
-        "length": 120745
+        "length": 120745,
+        "released": "June 2004"
     },
     "Bachelor Party, The": {
         "genres": [
@@ -1326,7 +1384,8 @@
         "writers": [
             "Paddy Chayefsky"
         ],
-        "length": 140743
+        "length": 140743,
+        "released": "April 1957"
     },
     "Back to the Future": {
         "genres": [
@@ -1362,7 +1421,8 @@
         "writers": [
             "Kate Angelo"
         ],
-        "length": 107499
+        "length": 107499,
+        "released": "April 2010"
     },
     "Backdraft": {
         "genres": [
@@ -1397,7 +1457,8 @@
         "writers": [
             "Jonathan Hirschbein"
         ],
-        "length": 130030
+        "length": 130030,
+        "released": "April 2014"
     },
     "Bad Day at Black Rock": {
         "genres": [
@@ -1410,7 +1471,8 @@
             "Millard Kaufman",
             "Howard Breslin"
         ],
-        "length": 123654
+        "length": 123654,
+        "released": "January 1955"
     },
     "Bad Dreams": {
         "genres": [
@@ -1421,7 +1483,8 @@
             "Andrew Fleming",
             "Steven E. de Souza"
         ],
-        "length": 145997
+        "length": 145997,
+        "released": "April 1988"
     },
     "Bad Lieutenant": {
         "genres": [
@@ -1432,7 +1495,8 @@
             "Abel Ferrara",
             "Zoe Lund"
         ],
-        "length": 80105
+        "length": 80105,
+        "released": "November 1992"
     },
     "Bad Santa": {
         "genres": [
@@ -1453,7 +1517,8 @@
             "Lee Eisenberg",
             "Gene Stupnitsky"
         ],
-        "length": 119069
+        "length": 119069,
+        "released": "June 2011"
     },
     "Badlands": {
         "genres": [
@@ -1577,7 +1642,8 @@
         ],
         "writers": [
             "David Goyer"
-        ]
+        ],
+        "released": "June 2005"
     },
     "Batman Forever": {
         "genres": [
@@ -1619,7 +1685,8 @@
         "writers": [
             "Erica Beeney"
         ],
-        "length": 98741
+        "length": 98741,
+        "released": "August 2003"
     },
     "Battle: Los Angeles": {
         "genres": [
@@ -1629,7 +1696,8 @@
         "writers": [
             "Chris Bertolini"
         ],
-        "length": 119965
+        "length": 119965,
+        "released": "March 2011"
     },
     "Beach, The": {
         "genres": [
@@ -1661,7 +1729,8 @@
         "writers": [
             "Cary Joji Fukunaga"
         ],
-        "length": 139528
+        "length": 139528,
+        "released": "October 2015"
     },
     "Beasts of the Southern Wild": {
         "genres": [
@@ -1672,7 +1741,8 @@
             "Lucy Alibar",
             "Benh Zeitlin"
         ],
-        "length": 89174
+        "length": 89174,
+        "released": "June 2012"
     },
     "Beauty and the Beast": {
         "genres": [
@@ -1684,7 +1754,8 @@
             "Stephen Chbosky",
             "Evan Spiliotopoulos"
         ],
-        "length": 136572
+        "length": 136572,
+        "released": "March 2017"
     },
     "Beavis and Butt-head Do America": {
         "genres": [
@@ -1706,7 +1777,8 @@
         "writers": [
             "Mike Mills"
         ],
-        "length": 100051
+        "length": 100051,
+        "released": "June 2011"
     },
     "Being Human": {
         "genres": [
@@ -1748,7 +1820,8 @@
             "Henry Bean",
             "Mark Jacobson"
         ],
-        "length": 126439
+        "length": 126439,
+        "released": "May 2002"
     },
     "Belle": {
         "genres": [
@@ -1758,7 +1831,8 @@
         "writers": [
             "Misan Sagay"
         ],
-        "length": 125385
+        "length": 125385,
+        "released": "June 2014"
     },
     "Beloved": {
         "genres": [
@@ -1768,7 +1842,8 @@
             "Richard LaGravenese",
             "Toni Morrisson"
         ],
-        "length": 180962
+        "length": 180962,
+        "released": "October 1998"
     },
     "Benny & Joon": {
         "genres": [
@@ -1778,7 +1853,8 @@
         "writers": [
             "Barry Berman",
             "Lesley McNeil"
-        ]
+        ],
+        "released": "April 1993"
     },
     "Best Exotic Marigold Hotel, The": {
         "genres": [
@@ -1788,7 +1864,8 @@
         "writers": [
             "Ol Parker"
         ],
-        "length": 131623
+        "length": 131623,
+        "released": "May 2012"
     },
     "Big": {
         "genres": [
@@ -1822,7 +1899,8 @@
             "Scott Alexander",
             "Larry Karaszewski"
         ],
-        "length": 132419
+        "length": 132419,
+        "released": "December 2014"
     },
     "Big Fish": {
         "genres": [
@@ -1835,7 +1913,8 @@
             "Daniel Wallace",
             "John August"
         ],
-        "length": 141398
+        "length": 141398,
+        "released": "January 2004"
     },
     "Big Lebowski, The": {
         "genres": [
@@ -1859,7 +1938,8 @@
             "Emily V. Gordon",
             "Kumail Nanjiani"
         ],
-        "length": 106366
+        "length": 106366,
+        "released": "July 2017"
     },
     "Big White, The": {
         "genres": [
@@ -1870,7 +1950,8 @@
         "writers": [
             "Collin Friesen"
         ],
-        "length": 135435
+        "length": 135435,
+        "released": "December 2005"
     },
     "Birdman": {
         "genres": [
@@ -1884,7 +1965,8 @@
             "Alexander Dinelaris Jr.",
             "Armando Bo"
         ],
-        "length": 125953
+        "length": 125953,
+        "released": "November 2014"
     },
     "Birds, The": {
         "genres": [
@@ -1923,7 +2005,8 @@
             "Josh Friedman",
             "James Ellroy"
         ],
-        "length": 202455
+        "length": 202455,
+        "released": "September 2006"
     },
     "Black Panther": {
         "genres": [
@@ -1935,7 +2018,8 @@
             "Ryan Coogler",
             "Joe Robert Cole"
         ],
-        "length": 137609
+        "length": 137609,
+        "released": "February 2018"
     },
     "Black Rain": {
         "genres": [
@@ -1956,7 +2040,8 @@
         "writers": [
             "Craig Brewer"
         ],
-        "length": 129622
+        "length": 129622,
+        "released": "March 2007"
     },
     "Black Swan": {
         "genres": [
@@ -1969,7 +2054,8 @@
             "Andres Heinz",
             "John McLaughlin"
         ],
-        "length": 102272
+        "length": 102272,
+        "released": "December 2010"
     },
     "BlacKkKlansman": {
         "genres": [
@@ -1982,7 +2068,8 @@
             "Kevin Willmott",
             "Spike Lee"
         ],
-        "length": 131980
+        "length": 131980,
+        "released": "August 2018"
     },
     "Blade": {
         "genres": [
@@ -2028,7 +2115,8 @@
         "writers": [
             "David S. Goyer"
         ],
-        "length": 146695
+        "length": 146695,
+        "released": "December 2004"
     },
     "Blast from the Past, The": {
         "genres": [
@@ -2050,7 +2138,8 @@
             "John Lee Hancock",
             "Michael Lewis"
         ],
-        "length": 141205
+        "length": 141205,
+        "released": "November 2009"
     },
     "Bling Ring, The": {
         "genres": [
@@ -2060,7 +2149,8 @@
         "writers": [
             "Sofia Coppola"
         ],
-        "length": 98977
+        "length": 98977,
+        "released": "June 2013"
     },
     "Blood and Wine": {
         "genres": [
@@ -2071,7 +2161,8 @@
         "writers": [
             "Nick Villiers"
         ],
-        "length": 122739
+        "length": 122739,
+        "released": "February 1997"
     },
     "Blood Simple": {
         "genres": [
@@ -2093,7 +2184,8 @@
             "David McKenna",
             "Nick Cassavetes"
         ],
-        "length": 127688
+        "length": 127688,
+        "released": "April 2001"
     },
     "Blue Valentine": {
         "genres": [
@@ -2105,7 +2197,8 @@
             "Cami Delavigne",
             "Joey Curtis"
         ],
-        "length": 119295
+        "length": 119295,
+        "released": "December 2010"
     },
     "Blue Velvet": {
         "genres": [
@@ -2224,7 +2317,8 @@
         "writers": [
             "Gary Whitta"
         ],
-        "length": 152041
+        "length": 152041,
+        "released": "January 2010"
     },
     "Boondock Saints 2: All Saints Day": {
         "genres": [
@@ -2236,7 +2330,8 @@
         "writers": [
             "Troy Duffy"
         ],
-        "length": 130933
+        "length": 130933,
+        "released": "November 2009"
     },
     "Boondock Saints, The": {
         "genres": [
@@ -2247,7 +2342,8 @@
         "writers": [
             "Troy Duffy"
         ],
-        "length": 143778
+        "length": 143778,
+        "released": "January 2000"
     },
     "Bottle Rocket": {
         "genres": [
@@ -2270,7 +2366,8 @@
             "Andy Wachowski",
             "Larry Wachowski"
         ],
-        "length": 103108
+        "length": 103108,
+        "released": "October 1996"
     },
     "Bounty Hunter, The": {
         "genres": [
@@ -2282,7 +2379,8 @@
         "writers": [
             "Sarah Thorp"
         ],
-        "length": 112844
+        "length": 112844,
+        "released": "March 2010"
     },
     "Bourne Identity, The": {
         "genres": [
@@ -2296,7 +2394,8 @@
             "Tony Gilroy",
             "Robert Ludlum"
         ],
-        "length": 122843
+        "length": 122843,
+        "released": "June 2002"
     },
     "Bourne Supremacy, The": {
         "genres": [
@@ -2310,7 +2409,8 @@
             "Tony Gilroy",
             "Brian Helgeland",
             "Robert Ludlum"
-        ]
+        ],
+        "released": "July 2004"
     },
     "Bourne Ultimatum, The": {
         "genres": [
@@ -2324,7 +2424,8 @@
             "Scott Z. Burns",
             "George Nolfi"
         ],
-        "length": 130379
+        "length": 130379,
+        "released": "August 2007"
     },
     "Box, The": {
         "genres": [
@@ -2336,7 +2437,8 @@
             "Richard Kelly",
             "Richard Matheson"
         ],
-        "length": 126401
+        "length": 126401,
+        "released": "November 2009"
     },
     "Boxtrolls, The": {
         "genres": [
@@ -2348,7 +2450,8 @@
             "Irena Brignull",
             "Adam Pava"
         ],
-        "length": 150777
+        "length": 150777,
+        "released": "September 2014"
     },
     "Boyhood": {
         "genres": [
@@ -2357,7 +2460,8 @@
         "writers": [
             "Richard Linklater"
         ],
-        "length": 162483
+        "length": 162483,
+        "released": "August 2014"
     },
     "Braveheart": {
         "genres": [
@@ -2419,7 +2523,8 @@
         "writers": [
             "Steve Tesich"
         ],
-        "length": 120311
+        "length": 120311,
+        "released": "July 1979"
     },
     "Brick": {
         "genres": [
@@ -2429,7 +2534,8 @@
         "writers": [
             "Rian Johnson"
         ],
-        "length": 116234
+        "length": 116234,
+        "released": "April 2006"
     },
     "Bridesmaids": {
         "genres": [
@@ -2438,7 +2544,8 @@
         "writers": [
             "Annie Mumolo"
         ],
-        "length": 132884
+        "length": 132884,
+        "released": "May 2011"
     },
     "Bringing Out the Dead": {
         "genres": [
@@ -2469,7 +2576,8 @@
         "writers": [
             "Graham Yost"
         ],
-        "length": 102811
+        "length": 102811,
+        "released": "February 1996"
     },
     "Broken Embraces": {
         "genres": [
@@ -2480,7 +2588,8 @@
         "writers": [
             "Pedro Almodovar"
         ],
-        "length": 216883
+        "length": 216883,
+        "released": "October 2009"
     },
     "Brothers Bloom, The": {
         "genres": [
@@ -2493,7 +2602,8 @@
         "writers": [
             "Rian Johnson"
         ],
-        "length": 146778
+        "length": 146778,
+        "released": "September 2008"
     },
     "Bruce Almighty": {
         "genres": [
@@ -2528,7 +2638,8 @@
         "writers": [
             "Ron Shelton"
         ],
-        "length": 129862
+        "length": 129862,
+        "released": "June 1988"
     },
     "Buried": {
         "genres": [
@@ -2539,7 +2650,8 @@
         "writers": [
             "Chris Sparling"
         ],
-        "length": 98715
+        "length": 98715,
+        "released": "September 2010"
     },
     "Burlesque": {
         "genres": [
@@ -2550,7 +2662,8 @@
         "writers": [
             "Steven Antin"
         ],
-        "length": 146213
+        "length": 146213,
+        "released": "November 2010"
     },
     "Burn After Reading": {
         "genres": [
@@ -2561,7 +2674,8 @@
             "Joel Coen",
             "Ethan Coen"
         ],
-        "length": 122947
+        "length": 122947,
+        "released": "September 2008"
     },
     "Burning Annie": {
         "genres": [
@@ -2572,7 +2686,8 @@
         "writers": [
             "Zack Ordynans"
         ],
-        "length": 109124
+        "length": 109124,
+        "released": "February 2007"
     },
     "Butterfly Effect, The": {
         "genres": [
@@ -2584,7 +2699,8 @@
             "J. Mackye Gruber",
             "Eric Bress"
         ],
-        "length": 133021
+        "length": 133021,
+        "released": "January 2004"
     },
     "Cable Guy": {
         "genres": [
@@ -2605,7 +2721,8 @@
         "writers": [
             "Nick Green"
         ],
-        "length": 103208
+        "length": 103208,
+        "released": "November 2012"
     },
     "Capote": {
         "genres": [
@@ -2615,7 +2732,8 @@
         "writers": [
             "Dan Futterman"
         ],
-        "length": 114219
+        "length": 114219,
+        "released": "February 2006"
     },
     "Carrie": {
         "genres": [
@@ -2626,7 +2744,8 @@
             "Lawrence D. Cohen",
             "Stephen King"
         ],
-        "length": 125798
+        "length": 125798,
+        "released": "November 1976"
     },
     "Cars 2": {
         "genres": [
@@ -2637,7 +2756,8 @@
         "writers": [
             "Ben Queen"
         ],
-        "length": 138453
+        "length": 138453,
+        "released": "June 2011"
     },
     "Casablanca": {
         "genres": [
@@ -2659,7 +2779,8 @@
         "writers": [
             "Ray Wright"
         ],
-        "length": 133709
+        "length": 133709,
+        "released": "October 2010"
     },
     "Casino": {
         "genres": [
@@ -2689,7 +2810,8 @@
         "writers": [
             "Jeff Nathanson"
         ],
-        "length": 152048
+        "length": 152048,
+        "released": "December 2002"
     },
     "Catwoman": {
         "genres": [
@@ -2698,7 +2820,8 @@
         ],
         "writers": [
             "Daniel Waters"
-        ]
+        ],
+        "released": "July 2004"
     },
     "Cecil B. Demented": {
         "genres": [
@@ -2709,7 +2832,8 @@
         "writers": [
             "John Waters"
         ],
-        "length": 126783
+        "length": 126783,
+        "released": "August 2000"
     },
     "Cedar Rapids": {
         "genres": [
@@ -2718,7 +2842,8 @@
         "writers": [
             "Phil Johnston"
         ],
-        "length": 136313
+        "length": 136313,
+        "released": "February 2011"
     },
     "Celeste & Jesse Forever": {
         "genres": [
@@ -2730,7 +2855,8 @@
             "Rashida Jones",
             "Will McCormack"
         ],
-        "length": 108654
+        "length": 108654,
+        "released": "August 2012"
     },
     "Cell, The": {
         "genres": [
@@ -2757,7 +2883,8 @@
             "J. Mackye Gruber",
             "Eric Bress"
         ],
-        "length": 157627
+        "length": 157627,
+        "released": "September 2004"
     },
     "Change-Up, The": {
         "genres": [
@@ -2767,7 +2894,8 @@
             "Jon Lucas",
             "Scott Moore"
         ],
-        "length": 128629
+        "length": 128629,
+        "released": "August 2011"
     },
     "Changeling": {
         "genres": [
@@ -2778,7 +2906,8 @@
         "writers": [
             "J Michael Straczynski"
         ],
-        "length": 190545
+        "length": 190545,
+        "released": "October 2008"
     },
     "Chaos": {
         "genres": [
@@ -2790,7 +2919,8 @@
         "writers": [
             "Tony Giglio"
         ],
-        "length": 132361
+        "length": 132361,
+        "released": "December 2005"
     },
     "Charade": {
         "genres": [
@@ -2802,7 +2932,8 @@
         "writers": [
             "Peter Stone"
         ],
-        "length": 169674
+        "length": 169674,
+        "released": "December 1963"
     },
     "Charlie's Angels": {
         "genres": [
@@ -2834,7 +2965,8 @@
         "writers": [
             "Michael Walker"
         ],
-        "length": 98870
+        "length": 98870,
+        "released": "September 2001"
     },
     "Cherry Falls": {
         "genres": [
@@ -2846,7 +2978,8 @@
         "writers": [
             "Ken Selden"
         ],
-        "length": 107424
+        "length": 107424,
+        "released": "August 2000"
     },
     "Chinatown": {
         "genres": [
@@ -2857,7 +2990,8 @@
         "writers": [
             "Robert Towne"
         ],
-        "length": 141216
+        "length": 141216,
+        "released": "June 1974"
     },
     "Christ Complex": {
         "genres": [
@@ -2867,7 +3001,8 @@
         "writers": [
             "Jeffrey Scott Richards"
         ],
-        "length": 66053
+        "length": 66053,
+        "released": "October 2012"
     },
     "Chronicle": {
         "genres": [
@@ -2879,7 +3014,8 @@
             "Max Landis",
             "Josh Trank"
         ],
-        "length": 103810
+        "length": 103810,
+        "released": "February 2012"
     },
     "Chronicles of Narnia: The Lion, the Witch and the Wardrobe": {
         "genres": [
@@ -2893,7 +3029,8 @@
             "C.S. Lewis",
             "Ann Peacock"
         ],
-        "length": 44993
+        "length": 44993,
+        "released": "December 2005"
     },
     "Cider House Rules, The": {
         "genres": [
@@ -2903,7 +3040,8 @@
         "writers": [
             "John Irving"
         ],
-        "length": 146296
+        "length": 146296,
+        "released": "December 1999"
     },
     "Cincinnati Kid, The": {
         "genres": [
@@ -2914,7 +3052,8 @@
             "Terry Southern",
             "Richard Jessup"
         ],
-        "length": 134696
+        "length": 134696,
+        "released": "October 1965"
     },
     "Cinema Paradiso": {
         "genres": [
@@ -2936,7 +3075,8 @@
         "writers": [
             "Brian Helgeland"
         ],
-        "length": 128834
+        "length": 128834,
+        "released": "October 2009"
     },
     "Citizen Kane": {
         "genres": [
@@ -2970,7 +3110,8 @@
             "John Glenn",
             "Travis Wright"
         ],
-        "length": 140954
+        "length": 140954,
+        "released": "April 2010"
     },
     "Clerks": {
         "genres": [
@@ -2991,7 +3132,8 @@
         "writers": [
             "Michael France"
         ],
-        "length": 173649
+        "length": 173649,
+        "released": "May 1993"
     },
     "Clockwork Orange, A": {
         "genres": [
@@ -3034,7 +3176,8 @@
             "Matthew Aldrich",
             "Adrian Molina"
         ],
-        "length": 127889
+        "length": 127889,
+        "released": "November 2017"
     },
     "Code of Silence": {
         "genres": [
@@ -3047,7 +3190,8 @@
             "Mike Gray",
             "John Mason"
         ],
-        "length": 99364
+        "length": 99364,
+        "released": "May 1985"
     },
     "Cold Mountain": {
         "genres": [
@@ -3059,7 +3203,8 @@
             "Charles Frazier",
             "Anthony Minghella"
         ],
-        "length": 162629
+        "length": 162629,
+        "released": "December 2003"
     },
     "Collateral": {
         "genres": [
@@ -3071,7 +3216,8 @@
             "Stuart Beattie",
             "Frank Darabont",
             "Michael Mann"
-        ]
+        ],
+        "released": "August 2004"
     },
     "Collateral Damage": {
         "genres": [
@@ -3093,7 +3239,8 @@
             "Robert Mark Kamen",
             "Luc Besson"
         ],
-        "length": 137479
+        "length": 137479,
+        "released": "August 2011"
     },
     "Color of Night": {
         "genres": [
@@ -3105,7 +3252,8 @@
             "Billy Ray",
             "Matthew Chapman"
         ],
-        "length": 151804
+        "length": 151804,
+        "released": "August 1994"
     },
     "Commando": {
         "genres": [
@@ -3115,7 +3263,8 @@
         "writers": [
             "Richard Tuggle"
         ],
-        "length": 93339
+        "length": 93339,
+        "released": "October 1985"
     },
     "Conan the Barbarian": {
         "genres": [
@@ -3127,7 +3276,8 @@
             "Thomas Dean Donnelly",
             "Joshua Oppenheimer"
         ],
-        "length": 129806
+        "length": 129806,
+        "released": "August 2011"
     },
     "Confessions of a Dangerous Mind": {
         "genres": [
@@ -3161,7 +3311,8 @@
             "Jamie Delano",
             "Garth Ennis"
         ],
-        "length": 138708
+        "length": 138708,
+        "released": "February 2005"
     },
     "Contact": {
         "genres": [
@@ -3186,7 +3337,8 @@
             "Frank Hannah",
             "Wayne Kramer"
         ],
-        "length": 117047
+        "length": 117047,
+        "released": "November 2003"
     },
     "Copycat": {
         "genres": [
@@ -3213,7 +3365,8 @@
             "Henry Selick",
             "Neil Gaiman"
         ],
-        "length": 137651
+        "length": 137651,
+        "released": "February 2009"
     },
     "Coriolanus": {
         "genres": [
@@ -3225,7 +3378,8 @@
             "John Logan",
             "William Shakespeare"
         ],
-        "length": 121691
+        "length": 121691,
+        "released": "January 2012"
     },
     "Courage Under Fire": {
         "genres": [
@@ -3250,7 +3404,8 @@
             "Roberto Orci",
             "Damon Lindelof"
         ],
-        "length": 155687
+        "length": 155687,
+        "released": "July 2011"
     },
     "Cradle 2 the Grave": {
         "genres": [
@@ -3277,7 +3432,8 @@
             "Mark Neveldine",
             "Brian Taylor"
         ],
-        "length": 131708
+        "length": 131708,
+        "released": "September 2006"
     },
     "Crash": {
         "genres": [
@@ -3300,7 +3456,8 @@
         "writers": [
             "Dan Fogelman"
         ],
-        "length": 113654
+        "length": 113654,
+        "released": "July 2011"
     },
     "Crazylove": {
         "genres": [
@@ -3310,7 +3467,8 @@
         "writers": [
             "Carol Watson"
         ],
-        "length": 117245
+        "length": 117245,
+        "released": "October 2005"
     },
     "Creation": {
         "genres": [
@@ -3319,7 +3477,8 @@
         "writers": [
             "John Collee"
         ],
-        "length": 112630
+        "length": 112630,
+        "released": "January 2010"
     },
     "Crime Spree": {
         "genres": [
@@ -3329,7 +3488,8 @@
         "writers": [
             "Brad Mirman"
         ],
-        "length": 134386
+        "length": 134386,
+        "released": "September 2003"
     },
     "Croods, The": {
         "genres": [
@@ -3341,7 +3501,8 @@
             "Kirk DeMicco",
             "Chris Sanders"
         ],
-        "length": 89020
+        "length": 89020,
+        "released": "March 2013"
     },
     "Crouching Tiger, Hidden Dragon": {
         "genres": [
@@ -3366,7 +3527,8 @@
         "writers": [
             "Paul Mayersberg"
         ],
-        "length": 102267
+        "length": 102267,
+        "released": "April 2000"
     },
     "Crow Salvation, The": {
         "genres": [
@@ -3406,7 +3568,8 @@
             "David S Goyer",
             "James O'Barr"
         ],
-        "length": 99947
+        "length": 99947,
+        "released": "August 1996"
     },
     "Cruel Intentions": {
         "genres": [
@@ -3453,7 +3616,8 @@
         "writers": [
             "Eric Roth"
         ],
-        "length": 245519
+        "length": 245519,
+        "released": "December 2008"
     },
     "Custody": {
         "genres": [
@@ -3472,7 +3636,8 @@
             "Craig Borten",
             "Melisa Wallack"
         ],
-        "length": 120820
+        "length": 120820,
+        "released": "November 2013"
     },
     "Damned United, The": {
         "genres": [
@@ -3482,7 +3647,8 @@
             "Peter Morgan",
             "David Peace"
         ],
-        "length": 126882
+        "length": 126882,
+        "released": "October 2009"
     },
     "Dances with Wolves": {
         "genres": [
@@ -3493,7 +3659,8 @@
         "writers": [
             "Michael Blake"
         ],
-        "length": 197634
+        "length": 197634,
+        "released": "November 1990"
     },
     "Dark City": {
         "genres": [
@@ -3516,7 +3683,8 @@
             "Jonathan Nolan",
             "Christopher Nolan"
         ],
-        "length": 167397
+        "length": 167397,
+        "released": "July 2012"
     },
     "Dark Knight, The": {
         "genres": [
@@ -3527,7 +3695,8 @@
         "writers": [
             "Jonathan Nolan",
             "Christopher Nolan"
-        ]
+        ],
+        "released": "July 2008"
     },
     "Dark Star": {
         "genres": [
@@ -3555,7 +3724,8 @@
             "Ivan Raimi",
             "Chuck Pfarrer"
         ],
-        "length": 150451
+        "length": 150451,
+        "released": "August 1990"
     },
     "Date Night": {
         "genres": [
@@ -3566,7 +3736,8 @@
         "writers": [
             "Josh Klausner"
         ],
-        "length": 114524
+        "length": 114524,
+        "released": "April 2010"
     },
     "Dave Barry's Complete Guide to Guys": {
         "genres": [
@@ -3576,7 +3747,8 @@
             "Jeff Arch",
             "Dave Barry"
         ],
-        "length": 98676
+        "length": 98676,
+        "released": "May 2006"
     },
     "Dawn of the Dead": {
         "genres": [
@@ -3650,7 +3822,8 @@
             "Rhett Reese",
             "Paul Wernick"
         ],
-        "length": 168106
+        "length": 168106,
+        "released": "February 2016"
     },
     "Dear White People": {
         "genres": [
@@ -3660,7 +3833,8 @@
         "writers": [
             "Justin Simien"
         ],
-        "length": 121529
+        "length": 121529,
+        "released": "July 2015"
     },
     "Death at a Funeral": {
         "genres": [
@@ -3670,7 +3844,8 @@
             "Chris Rock",
             "Aeysha Carr"
         ],
-        "length": 111570
+        "length": 111570,
+        "released": "April 2010"
     },
     "Death to Smoochy": {
         "genres": [
@@ -3693,7 +3868,8 @@
             "Jane Goldman",
             "Peter Straughan"
         ],
-        "length": 164279
+        "length": 164279,
+        "released": "August 2011"
     },
     "Deception": {
         "genres": [
@@ -3707,7 +3883,8 @@
             "Mark Bomback",
             "Patrick Marber"
         ],
-        "length": 168509
+        "length": 168509,
+        "released": "April 2008"
     },
     "Deep Cover": {
         "genres": [
@@ -3719,7 +3896,8 @@
             "Michael Tolkin",
             "Henry Bean"
         ],
-        "length": 117157
+        "length": 117157,
+        "released": "April 1992"
     },
     "Deep Rising": {
         "genres": [
@@ -3754,7 +3932,8 @@
             "Clayton Frohman",
             "Edward Zwick"
         ],
-        "length": 134994
+        "length": 134994,
+        "released": "January 2009"
     },
     "Departed, The": {
         "genres": [
@@ -3765,7 +3944,8 @@
         "writers": [
             "William Monahan"
         ],
-        "length": 163555
+        "length": 163555,
+        "released": "October 2006"
     },
     "Descendants, The": {
         "genres": [
@@ -3777,7 +3957,8 @@
             "Nat Faxon",
             "Jim Rash"
         ],
-        "length": 144288
+        "length": 144288,
+        "released": "December 2011"
     },
     "Despicable Me 2": {
         "genres": [
@@ -3789,7 +3970,8 @@
             "Cinco Paul",
             "Ken Daurio"
         ],
-        "length": 114224
+        "length": 114224,
+        "released": "July 2013"
     },
     "Detroit Rock City": {
         "genres": [
@@ -3800,7 +3982,8 @@
         "writers": [
             "Carl V Dupre"
         ],
-        "length": 145351
+        "length": 145351,
+        "released": "August 1999"
     },
     "Devil in a Blue Dress": {
         "genres": [
@@ -3812,7 +3995,8 @@
             "Carl Franklin",
             "Walter Mosley"
         ],
-        "length": 142802
+        "length": 142802,
+        "released": "September 1995"
     },
     "Devil Wears Prada, The": {
         "genres": [
@@ -3823,7 +4007,8 @@
             "Aline Brosh McKenna",
             "Lauren Weisberger"
         ],
-        "length": 151041
+        "length": 151041,
+        "released": "June 2006"
     },
     "Devil's Advocate": {
         "genres": [
@@ -3835,7 +4020,8 @@
             "Andrew Neiderman",
             "Jonathan Lemkin"
         ],
-        "length": 166814
+        "length": 166814,
+        "released": "October 1997"
     },
     "Die Hard": {
         "genres": [
@@ -3857,7 +4043,8 @@
             "Doug Richardson",
             "Steven E. de Souza"
         ],
-        "length": 140878
+        "length": 140878,
+        "released": "July 1990"
     },
     "Diner": {
         "genres": [
@@ -3867,7 +4054,8 @@
         "writers": [
             "Barry Levinson"
         ],
-        "length": 104575
+        "length": 104575,
+        "released": "March 1982"
     },
     "Distinguished Gentleman, The": {
         "genres": [
@@ -3886,7 +4074,8 @@
             "Christopher Landon",
             "Carl Ellsworth"
         ],
-        "length": 155844
+        "length": 155844,
+        "released": "April 2007"
     },
     "Django Unchained": {
         "genres": [
@@ -3897,7 +4086,8 @@
         "writers": [
             "Quentin Tarantino"
         ],
-        "length": 216112
+        "length": 216112,
+        "released": "December 2012"
     },
     "Do The Right Thing": {
         "genres": [
@@ -3964,7 +4154,8 @@
             "Randall Jahnson",
             "Oliver Stone"
         ],
-        "length": 204664
+        "length": 204664,
+        "released": "March 1991"
     },
     "Double Indemnity": {
         "genres": [
@@ -3977,7 +4168,8 @@
             "Billy Wilder",
             "Raymond Chandler"
         ],
-        "length": 168138
+        "length": 168138,
+        "released": "September 1944"
     },
     "Drag Me to Hell": {
         "genres": [
@@ -3988,7 +4180,8 @@
             "Ivan Raimi",
             "Sam Raimi"
         ],
-        "length": 98836
+        "length": 98836,
+        "released": "May 2009"
     },
     "Dragonslayer": {
         "genres": [
@@ -4012,7 +4205,8 @@
             "Hossein Amini",
             "James Sallis"
         ],
-        "length": 123324
+        "length": 123324,
+        "released": "September 2011"
     },
     "Drive Angry": {
         "genres": [
@@ -4024,7 +4218,8 @@
             "Todd Farmer",
             "Patrick Lussier"
         ],
-        "length": 102654
+        "length": 102654,
+        "released": "February 2011"
     },
     "Drop Dead Gorgeous": {
         "genres": [
@@ -4105,7 +4300,8 @@
             "John Glenn",
             "Travis Wright"
         ],
-        "length": 176468
+        "length": 176468,
+        "released": "September 2008"
     },
     "Eastern Promises": {
         "genres": [
@@ -4117,7 +4313,8 @@
         "writers": [
             "Steven Knight"
         ],
-        "length": 134818
+        "length": 134818,
+        "released": "September 2007"
     },
     "Easy A": {
         "genres": [
@@ -4127,7 +4324,8 @@
         "writers": [
             "Bert V. Royal"
         ],
-        "length": 114903
+        "length": 114903,
+        "released": "September 2010"
     },
     "Ed TV": {
         "genres": [
@@ -4185,7 +4383,8 @@
         ],
         "writers": [
             "Robert Rodriguez"
-        ]
+        ],
+        "released": "February 1993"
     },
     "Election": {
         "genres": [
@@ -4206,7 +4405,8 @@
             "Eric Bergren",
             "David Lynch"
         ],
-        "length": 184818
+        "length": 184818,
+        "released": "October 1980"
     },
     "Elizabeth: The Golden Age": {
         "genres": [
@@ -4216,7 +4416,8 @@
             "William Nicholson",
             "Michael Hirst"
         ],
-        "length": 137859
+        "length": 137859,
+        "released": "October 2007"
     },
     "Enemy of the State": {
         "genres": [
@@ -4247,7 +4448,8 @@
         "writers": [
             "Nicholas Kazan"
         ],
-        "length": 120080
+        "length": 120080,
+        "released": "May 2002"
     },
     "Entrapment": {
         "genres": [
@@ -4330,7 +4532,8 @@
             "Michel Gondry",
             "Pierre Bismuth"
         ],
-        "length": 131640
+        "length": 131640,
+        "released": "March 2004"
     },
     "Even Cowgirls Get the Blues": {
         "genres": [
@@ -4342,7 +4545,8 @@
             "Tom Robbins",
             "Gus Van Sant"
         ],
-        "length": 104134
+        "length": 104134,
+        "released": "May 1994"
     },
     "Event Horizon": {
         "genres": [
@@ -4353,7 +4557,8 @@
         "writers": [
             "Philip Eisner"
         ],
-        "length": 125141
+        "length": 125141,
+        "released": "August 1997"
     },
     "Evil Dead": {
         "genres": [
@@ -4388,7 +4593,8 @@
         "writers": [
             "Alex Garland"
         ],
-        "length": 121385
+        "length": 121385,
+        "released": "April 2015"
     },
     "Excalibur": {
         "genres": [
@@ -4400,7 +4606,8 @@
             "Rospo Pallenberg",
             "John Boorman"
         ],
-        "length": 149206
+        "length": 149206,
+        "released": "April 1981"
     },
     "Executive Decision": {
         "genres": [
@@ -4422,7 +4629,8 @@
         "writers": [
             "David Cronenberg"
         ],
-        "length": 116216
+        "length": 116216,
+        "released": "April 1999"
     },
     "Extract": {
         "genres": [
@@ -4433,7 +4641,8 @@
         "writers": [
             "Mike Judge"
         ],
-        "length": 104266
+        "length": 104266,
+        "released": "September 2009"
     },
     "Eyes Wide Shut": {
         "genres": [
@@ -4444,7 +4653,8 @@
         "writers": [
             "Stanley Kubrick",
             "Frederic Raphael"
-        ]
+        ],
+        "released": "July 1999"
     },
     "Fabulous Baker Boys, The": {
         "genres": [
@@ -4467,7 +4677,8 @@
             "Mike Werb",
             "Michael Colleary"
         ],
-        "length": 132667
+        "length": 132667,
+        "released": "June 1997"
     },
     "Fair Game": {
         "genres": [
@@ -4479,7 +4690,8 @@
             "Jez Butterworth",
             "John-Henry Butterworth"
         ],
-        "length": 131621
+        "length": 131621,
+        "released": "November 2010"
     },
     "Family Man, The": {
         "genres": [
@@ -4503,7 +4715,8 @@
             "Mark Frost",
             "Michael France"
         ],
-        "length": 156272
+        "length": 156272,
+        "released": "July 2005"
     },
     "Fantastic Mr Fox": {
         "genres": [
@@ -4517,7 +4730,8 @@
             "Wes Anderson",
             "Noah Baumbach"
         ],
-        "length": 117909
+        "length": 117909,
+        "released": "November 2009"
     },
     "Fargo": {
         "genres": [
@@ -4561,7 +4775,8 @@
             "Scott Neustadter",
             "Michael H. Weber"
         ],
-        "length": 127222
+        "length": 127222,
+        "released": "June 2014"
     },
     "Fear and Loathing in Las Vegas": {
         "genres": [
@@ -4586,7 +4801,8 @@
             "Patrick Melton",
             "Marcus Dunston"
         ],
-        "length": 97805
+        "length": 97805,
+        "released": "September 2006"
     },
     "Ferris Bueller's Day Off": {
         "genres": [
@@ -4606,7 +4822,8 @@
         "writers": [
             "Phil Alden Robinson"
         ],
-        "length": 122761
+        "length": 122761,
+        "released": "April 1989"
     },
     "Fifth Element, The": {
         "genres": [
@@ -4642,7 +4859,8 @@
             "Paul Tamasy",
             "Eric Johnson"
         ],
-        "length": 140446
+        "length": 140446,
+        "released": "December 2010"
     },
     "Final Destination": {
         "genres": [
@@ -4676,7 +4894,8 @@
         "writers": [
             "Andrew Stanton"
         ],
-        "length": 73225
+        "length": 73225,
+        "released": "May 2003"
     },
     "Five Easy Pieces": {
         "genres": [
@@ -4696,7 +4915,8 @@
         "writers": [
             "Lorenzo Semple Jr."
         ],
-        "length": 106223
+        "length": 106223,
+        "released": "December 1980"
     },
     "Fletch": {
         "genres": [
@@ -4715,7 +4935,8 @@
         "writers": [
             "John Gatins"
         ],
-        "length": 175749
+        "length": 175749,
+        "released": "November 2012"
     },
     "Flintstones, The": {
         "genres": [
@@ -4762,7 +4983,8 @@
             "Robert Rodriguez",
             "Alexandre Rockwell"
         ],
-        "length": 130432
+        "length": 130432,
+        "released": "December 1995"
     },
     "Foxcatcher": {
         "genres": [
@@ -4772,7 +4994,8 @@
             "E. Max Frye",
             "Dan Futterman"
         ],
-        "length": 116723
+        "length": 116723,
+        "released": "January 2015"
     },
     "Fracture": {
         "genres": [
@@ -4783,7 +5006,8 @@
         "writers": [
             "Dan Pyne"
         ],
-        "length": 130184
+        "length": 130184,
+        "released": "April 2007"
     },
     "Frances": {
         "genres": [
@@ -4794,7 +5018,8 @@
             "Christopher De Vore",
             "Nicholas Kazan"
         ],
-        "length": 152413
+        "length": 152413,
+        "released": "December 1982"
     },
     "Frankenstein": {
         "genres": [
@@ -4808,7 +5033,8 @@
             "Steph Lady",
             "Frank Darabont"
         ],
-        "length": 174934
+        "length": 174934,
+        "released": "November 1994"
     },
     "Frankenweenie": {
         "genres": [
@@ -4819,7 +5045,8 @@
         "writers": [
             "John August"
         ],
-        "length": 82105
+        "length": 82105,
+        "released": "October 2012"
     },
     "Freaked": {
         "genres": [
@@ -4831,7 +5058,8 @@
             "Tom Stern",
             "Alex Winter"
         ],
-        "length": 122550
+        "length": 122550,
+        "released": "October 1993"
     },
     "Freddy vs. Jason": {
         "genres": [
@@ -4893,7 +5121,8 @@
         "writers": [
             "Marti Noxon"
         ],
-        "length": 116396
+        "length": 116396,
+        "released": "August 2011"
     },
     "Fright Night (1985)": {
         "genres": [
@@ -4904,7 +5133,8 @@
         "writers": [
             "Tom Holland"
         ],
-        "length": 150743
+        "length": 150743,
+        "released": "August 1985"
     },
     "From Dusk Till Dawn": {
         "genres": [
@@ -4927,7 +5157,8 @@
         "writers": [
             "Daniel Taradash"
         ],
-        "length": 198919
+        "length": 198919,
+        "released": "September 1953"
     },
     "Frozen": {
         "genres": [
@@ -4937,7 +5168,8 @@
         "writers": [
             "Adam Green"
         ],
-        "length": 99181
+        "length": 99181,
+        "released": "February 2010"
     },
     "Frozen (Disney)": {
         "genres": [
@@ -4948,7 +5180,8 @@
         "writers": [
             "Jennifer Lee"
         ],
-        "length": 109813
+        "length": 109813,
+        "released": "November 2013"
     },
     "Frozen River": {
         "genres": [
@@ -4958,7 +5191,8 @@
         "writers": [
             "Courtney Hunt"
         ],
-        "length": 105944
+        "length": 105944,
+        "released": "August 2008"
     },
     "Fruitvale Station": {
         "genres": [
@@ -4967,7 +5201,8 @@
         "writers": [
             "Ryan Coogler"
         ],
-        "length": 119808
+        "length": 119808,
+        "released": "July 2013"
     },
     "Fugitive, The": {
         "genres": [
@@ -5001,7 +5236,8 @@
         "writers": [
             "Judd Apatow"
         ],
-        "length": 140545
+        "length": 140545,
+        "released": "July 2009"
     },
     "Fury": {
         "genres": [
@@ -5011,7 +5247,8 @@
         ],
         "writers": [
             "David Ayer"
-        ]
+        ],
+        "released": "October 2014"
     },
     "G.I. Jane": {
         "genres": [
@@ -5036,7 +5273,8 @@
             "Brian Koppelman",
             "David Levien"
         ],
-        "length": 151198
+        "length": 151198,
+        "released": "August 2009"
     },
     "Game 6": {
         "genres": [
@@ -5046,7 +5284,8 @@
         "writers": [
             "Don DeLillo"
         ],
-        "length": 94272
+        "length": 94272,
+        "released": "June 2005"
     },
     "Game, The": {
         "genres": [
@@ -5071,7 +5310,8 @@
             "Mark Neveldine",
             "Brian Taylor"
         ],
-        "length": 158249
+        "length": 158249,
+        "released": "September 2009"
     },
     "Gandhi": {
         "genres": [
@@ -5080,7 +5320,8 @@
         "writers": [
             "John Briley"
         ],
-        "length": 280127
+        "length": 280127,
+        "released": "December 1982"
     },
     "Gang Related": {
         "genres": [
@@ -5090,7 +5331,8 @@
         "writers": [
             "Jim Kouf"
         ],
-        "length": 133796
+        "length": 133796,
+        "released": "October 1997"
     },
     "Gangs of New York": {
         "genres": [
@@ -5113,7 +5355,8 @@
         "writers": [
             "Zach Braff"
         ],
-        "length": 129422
+        "length": 129422,
+        "released": "August 2004"
     },
     "Gattaca": {
         "genres": [
@@ -5137,7 +5380,8 @@
             "Mike Hodges",
             "Ted Lewis"
         ],
-        "length": 85589
+        "length": 85589,
+        "released": "March 1971"
     },
     "Get Low": {
         "genres": [
@@ -5149,7 +5393,8 @@
             "Scott Seeke",
             "C. Gaby Mitchell"
         ],
-        "length": 106984
+        "length": 106984,
+        "released": "July 2010"
     },
     "Get on Up": {
         "genres": [
@@ -5160,7 +5405,8 @@
             "Jez Butterworth",
             "John-Henry Butterworth"
         ],
-        "length": 158169
+        "length": 158169,
+        "released": "August 2014"
     },
     "Get Out": {
         "genres": [
@@ -5171,7 +5417,8 @@
         "writers": [
             "Jordan Peele"
         ],
-        "length": 101268
+        "length": 101268,
+        "released": "February 2017"
     },
     "Get Shorty": {
         "genres": [
@@ -5229,7 +5476,8 @@
         "writers": [
             "David S. Goyer"
         ],
-        "length": 152547
+        "length": 152547,
+        "released": "February 2007"
     },
     "Ghost Ship": {
         "genres": [
@@ -5289,7 +5537,8 @@
         "writers": [
             "Karen Walton"
         ],
-        "length": 122658
+        "length": 122658,
+        "released": "May 2001"
     },
     "Girl with the Dragon Tattoo, The": {
         "genres": [
@@ -5300,7 +5549,8 @@
         "writers": [
             "Steven Zaillian"
         ],
-        "length": 217989
+        "length": 217989,
+        "released": "December 2011"
     },
     "Gladiator": {
         "genres": [
@@ -5364,7 +5614,8 @@
             "Mario Puzo",
             "Francis Ford Coppola"
         ],
-        "length": 139681
+        "length": 139681,
+        "released": "December 1990"
     },
     "Gods and Monsters": {
         "genres": [
@@ -5397,7 +5648,8 @@
             "Ben Affleck",
             "Aaron Stockard"
         ],
-        "length": 130282
+        "length": 130282,
+        "released": "October 2007"
     },
     "Gone in 60 Seconds": {
         "genres": [
@@ -5417,7 +5669,8 @@
         "writers": [
             "Mike White"
         ],
-        "length": 41962
+        "length": 41962,
+        "released": "August 2002"
     },
     "Good Will Hunting": {
         "genres": [
@@ -5437,7 +5690,8 @@
         ],
         "writers": [
             "Nicholas Pileggi"
-        ]
+        ],
+        "released": "September 1990"
     },
     "Gothika": {
         "genres": [
@@ -5448,7 +5702,8 @@
         "writers": [
             "Sebastian Gutierrez"
         ],
-        "length": 146238
+        "length": 146238,
+        "released": "November 2003"
     },
     "Grabbers": {
         "genres": [
@@ -5459,7 +5714,8 @@
         "writers": [
             "Kevin Lehane"
         ],
-        "length": 107994
+        "length": 107994,
+        "released": "December 2012"
     },
     "Graduate, The": {
         "genres": [
@@ -5480,7 +5736,8 @@
         "writers": [
             "Nick Schenk"
         ],
-        "length": 118327
+        "length": 118327,
+        "released": "January 2009"
     },
     "Grand Hotel": {
         "genres": [
@@ -5490,7 +5747,8 @@
         "writers": [
             "Bela Balazs"
         ],
-        "length": 150106
+        "length": 150106,
+        "released": "April 1932"
     },
     "Grand Theft Parsons": {
         "genres": [
@@ -5500,7 +5758,8 @@
         "writers": [
             "Jeremy Drysdale"
         ],
-        "length": 105214
+        "length": 105214,
+        "released": "June 2004"
     },
     "Grapes of Wrath, The": {
         "genres": [
@@ -5520,7 +5779,8 @@
             "Alfonso Cuaron",
             "Jonas Cuaron"
         ],
-        "length": 110841
+        "length": 110841,
+        "released": "October 2013"
     },
     "Great Gatsby, The": {
         "genres": [
@@ -5531,7 +5791,8 @@
             "Baz Luhrmann",
             "Craig Pearce"
         ],
-        "length": 134592
+        "length": 134592,
+        "released": "May 2013"
     },
     "Green Mile, The": {
         "genres": [
@@ -5553,7 +5814,8 @@
         "writers": [
             "Chris Columbus"
         ],
-        "length": 101789
+        "length": 101789,
+        "released": "June 1984"
     },
     "Gremlins 2": {
         "genres": [
@@ -5565,7 +5827,8 @@
         "writers": [
             "Charlie Haas"
         ],
-        "length": 141670
+        "length": 141670,
+        "released": "June 1990"
     },
     "Grifters, The": {
         "genres": [
@@ -5601,7 +5864,8 @@
         "writers": [
             "Danny Rubin"
         ],
-        "length": 126868
+        "length": 126868,
+        "released": "February 1993"
     },
     "Grudge, The": {
         "genres": [
@@ -5612,7 +5876,8 @@
         "writers": [
             "Stephen Susco"
         ],
-        "length": 131222
+        "length": 131222,
+        "released": "October 2004"
     },
     "Guardians of the Galaxy Vol 2": {
         "genres": [
@@ -5623,7 +5888,8 @@
         "writers": [
             "James Gunn"
         ],
-        "length": 150982
+        "length": 150982,
+        "released": "May 2017"
     },
     "Hackers": {
         "genres": [
@@ -5635,7 +5901,8 @@
         "writers": [
             "Rafael Moreu"
         ],
-        "length": 79168
+        "length": 79168,
+        "released": "September 1995"
     },
     "Hall Pass": {
         "genres": [
@@ -5648,7 +5915,8 @@
             "Kevin Barnett",
             "Pete Jones"
         ],
-        "length": 142098
+        "length": 142098,
+        "released": "February 2011"
     },
     "Halloween": {
         "genres": [
@@ -5660,7 +5928,8 @@
             "Danny McBride",
             "David Gordon Green"
         ],
-        "length": 110241
+        "length": 110241,
+        "released": "October 2018"
     },
     "Halloween: The Curse of Michael Myers": {
         "genres": [
@@ -5685,7 +5954,8 @@
             "Vincent Ngo",
             "Vince Gilligan"
         ],
-        "length": 132828
+        "length": 132828,
+        "released": "July 2008"
     },
     "Hangover, The": {
         "genres": [
@@ -5698,7 +5968,8 @@
             "Jon Lucas",
             "Scott Moore"
         ],
-        "length": 113643
+        "length": 113643,
+        "released": "June 2009"
     },
     "Hanna": {
         "genres": [
@@ -5709,7 +5980,8 @@
         "writers": [
             "Seth Lochead"
         ],
-        "length": 139768
+        "length": 139768,
+        "released": "April 2011"
     },
     "Hannah and Her Sisters": {
         "genres": [
@@ -5751,7 +6023,8 @@
             "George Miller",
             "John Collee"
         ],
-        "length": 85168
+        "length": 85168,
+        "released": "November 2006"
     },
     "Hard Rain": {
         "genres": [
@@ -5763,7 +6036,8 @@
         "writers": [
             "Graham Yost"
         ],
-        "length": 107700
+        "length": 107700,
+        "released": "January 1998"
     },
     "Hard to Kill": {
         "genres": [
@@ -5786,7 +6060,8 @@
             "Jon Hurwitz",
             "Hayden Schlossberg"
         ],
-        "length": 151639
+        "length": 151639,
+        "released": "June 2004"
     },
     "Harry Potter and the Chamber of Secrets": {
         "genres": [
@@ -5798,7 +6073,8 @@
         "writers": [
             "J.K. Rowling",
             "Steven Kloves"
-        ]
+        ],
+        "released": "November 2002"
     },
     "Harry Potter and the Deathly Hallows Part 1": {
         "genres": [
@@ -5808,7 +6084,8 @@
         ],
         "writers": [
             "Steve Kloves"
-        ]
+        ],
+        "released": "November 2010"
     },
     "Harry Potter and the Goblet of Fire": {
         "genres": [
@@ -5820,7 +6097,8 @@
         "writers": [
             "Steven Kloves",
             "J.K. Rowling"
-        ]
+        ],
+        "released": "November 2005"
     },
     "Harry Potter and the Half-Blood Prince": {
         "genres": [
@@ -5834,7 +6112,8 @@
         "writers": [
             "Steve Kloves",
             "J.K. Rowling"
-        ]
+        ],
+        "released": "July 2009"
     },
     "Harry Potter and the Prisoner of Azkaban": {
         "genres": [
@@ -5845,7 +6124,8 @@
         "writers": [
             "J.K. Rowling",
             "Steven Kloves"
-        ]
+        ],
+        "released": "June 2004"
     },
     "Harry Potter and the Sorcerer's Stone": {
         "genres": [
@@ -5856,7 +6136,8 @@
         "writers": [
             "J.K. Rowling",
             "Steven Kloves"
-        ]
+        ],
+        "released": "November 2001"
     },
     "Haunting, The": {
         "genres": [
@@ -5880,7 +6161,8 @@
             "Abby Kohn",
             "Marc Silverstein"
         ],
-        "length": 132213
+        "length": 132213,
+        "released": "February 2009"
     },
     "Heat": {
         "genres": [
@@ -5940,7 +6222,8 @@
         "writers": [
             "Jonathan Kesselman"
         ],
-        "length": 116229
+        "length": 116229,
+        "released": "January 2003"
     },
     "Heist": {
         "genres": [
@@ -5976,7 +6259,8 @@
             "Guillermo del Toro",
             "Peter Briggs"
         ],
-        "length": 129003
+        "length": 129003,
+        "released": "April 2004"
     },
     "Hellboy 2: The Golden Army": {
         "genres": [
@@ -5987,7 +6271,8 @@
         "writers": [
             "Guillermo del Toro"
         ],
-        "length": 125748
+        "length": 125748,
+        "released": "July 2008"
     },
     "Hellraiser": {
         "genres": [
@@ -6007,7 +6292,8 @@
             "Peter Atkins",
             "Tony Randel"
         ],
-        "length": 124874
+        "length": 124874,
+        "released": "September 1992"
     },
     "Hellraiser: Deader": {
         "genres": [
@@ -6020,7 +6306,8 @@
             "Neal Marshall Stevens",
             "Tim Day"
         ],
-        "length": 116005
+        "length": 116005,
+        "released": "June 2005"
     },
     "Hellraiser: Hellseeker": {
         "genres": [
@@ -6030,7 +6317,8 @@
             "Carl Dupre",
             "Clive Barker"
         ],
-        "length": 118845
+        "length": 118845,
+        "released": "October 2002"
     },
     "Help, The": {
         "genres": [
@@ -6040,7 +6328,8 @@
             "Tate Taylor",
             "Kathryn Stockett"
         ],
-        "length": 169036
+        "length": 169036,
+        "released": "August 2011"
     },
     "Henry Fool": {
         "genres": [
@@ -6050,7 +6339,8 @@
         "writers": [
             "Hal Hartley"
         ],
-        "length": 139735
+        "length": 139735,
+        "released": "June 1998"
     },
     "Henry's Crime": {
         "genres": [
@@ -6060,7 +6350,8 @@
         "writers": [
             "Sacha Gervasi"
         ],
-        "length": 105917
+        "length": 105917,
+        "released": "April 2011"
     },
     "Her": {
         "genres": [
@@ -6071,7 +6362,8 @@
         "writers": [
             "Spike Jonze"
         ],
-        "length": 111334
+        "length": 111334,
+        "released": "January 2014"
     },
     "Hesher": {
         "genres": [
@@ -6081,7 +6373,8 @@
             "Spencer Susser",
             "David Michod"
         ],
-        "length": 128189
+        "length": 128189,
+        "released": "May 2011"
     },
     "High Fidelity": {
         "genres": [
@@ -6129,7 +6422,8 @@
             "Alexandre Aja",
             "Gregory Levasseur"
         ],
-        "length": 110524
+        "length": 110524,
+        "released": "March 2006"
     },
     "His Girl Friday": {
         "genres": [
@@ -6141,7 +6435,8 @@
             "Ben Hecht",
             "Charles MacArthur"
         ],
-        "length": 176633
+        "length": 176633,
+        "released": "January 1940"
     },
     "Hitchcock": {
         "genres": [
@@ -6151,7 +6446,8 @@
             "John J. McLaughlin",
             "Stephen Rebello"
         ],
-        "length": 132278
+        "length": 132278,
+        "released": "December 2012"
     },
     "Hitchhiker's Guide to the Galaxy, The": {
         "genres": [
@@ -6162,7 +6458,8 @@
         "writers": [
             "Douglas Adams"
         ],
-        "length": 155569
+        "length": 155569,
+        "released": "April 2005"
     },
     "Hollow Man": {
         "genres": [
@@ -6184,7 +6481,8 @@
         "writers": [
             "John Sayles"
         ],
-        "length": 115521
+        "length": 115521,
+        "released": "December 2007"
     },
     "Horrible Bosses": {
         "genres": [
@@ -6194,7 +6492,8 @@
         "writers": [
             "Michael Markowitz"
         ],
-        "length": 112798
+        "length": 112798,
+        "released": "July 2011"
     },
     "Horse Whisperer, The": {
         "genres": [
@@ -6214,7 +6513,8 @@
         "writers": [
             "Paddy Chayefsky"
         ],
-        "length": 164495
+        "length": 164495,
+        "released": "December 1971"
     },
     "Hostage": {
         "genres": [
@@ -6226,7 +6526,8 @@
         "writers": [
             "Robert Crais"
         ],
-        "length": 137921
+        "length": 137921,
+        "released": "March 2005"
     },
     "Hot Tub Time Machine": {
         "genres": [
@@ -6236,7 +6537,8 @@
         "writers": [
             "Josh Heald"
         ],
-        "length": 104827
+        "length": 104827,
+        "released": "March 2010"
     },
     "Hotel Rwanda": {
         "genres": [
@@ -6248,7 +6550,8 @@
             "Keir Pearson",
             "Terry George"
         ],
-        "length": 135517
+        "length": 135517,
+        "released": "February 2005"
     },
     "House of 1000 Corpses": {
         "genres": [
@@ -6267,7 +6570,8 @@
         "writers": [
             "Peter Straughan"
         ],
-        "length": 128878
+        "length": 128878,
+        "released": "October 2008"
     },
     "How to Train Your Dragon": {
         "genres": [
@@ -6279,7 +6583,8 @@
             "Dean DeBlois",
             "Chris Sanders"
         ],
-        "length": 127945
+        "length": 127945,
+        "released": "March 2010"
     },
     "How to Train Your Dragon 2": {
         "genres": [
@@ -6291,7 +6596,8 @@
             "Dean DeBlois",
             "Cressida Cowell"
         ],
-        "length": 120914
+        "length": 120914,
+        "released": "June 2014"
     },
     "Hudson Hawk": {
         "genres": [
@@ -6338,7 +6644,8 @@
             "Larry Ferguson",
             "Tom Clancy"
         ],
-        "length": 126092
+        "length": 126092,
+        "released": "March 1990"
     },
     "Hurt Locker, The": {
         "genres": [
@@ -6349,7 +6656,8 @@
             "Mark Boal",
             "Kathryn Bigelow"
         ],
-        "length": 130848
+        "length": 130848,
+        "released": "July 2009"
     },
     "I Am Number Four": {
         "genres": [
@@ -6361,7 +6669,8 @@
             "Alfred Gough",
             "Miles Millar"
         ],
-        "length": 127407
+        "length": 127407,
+        "released": "February 2011"
     },
     "I am Sam": {
         "genres": [
@@ -6371,7 +6680,8 @@
             "Kristine Johnson",
             "Jessie Nelson"
         ],
-        "length": 127688
+        "length": 127688,
+        "released": "January 2002"
     },
     "I Love You Phillip Morris": {
         "genres": [
@@ -6383,7 +6693,8 @@
             "Glenn Ficarra",
             "John Requa"
         ],
-        "length": 134428
+        "length": 134428,
+        "released": "January 2010"
     },
     "I Spit on Your Grave": {
         "genres": [
@@ -6394,7 +6705,8 @@
         "writers": [
             "Adam Rockoff"
         ],
-        "length": 119226
+        "length": 119226,
+        "released": "May 2010"
     },
     "I Still Know What You Did Last Summer": {
         "genres": [
@@ -6405,7 +6717,8 @@
         "writers": [
             "Trey Callaway"
         ],
-        "length": 112740
+        "length": 112740,
+        "released": "November 1998"
     },
     "I'll Do Anything": {
         "genres": [
@@ -6415,7 +6728,8 @@
         "writers": [
             "James L. Brooks"
         ],
-        "length": 136979
+        "length": 136979,
+        "released": "February 1994"
     },
     "I, Robot": {
         "genres": [
@@ -6426,7 +6740,8 @@
         "writers": [
             "Hillary Seitz"
         ],
-        "length": 136887
+        "length": 136887,
+        "released": "July 2004"
     },
     "Ice Storm, The": {
         "genres": [
@@ -6446,7 +6761,8 @@
             "Grant Heslov",
             "Beau Willimon"
         ],
-        "length": 96189
+        "length": 96189,
+        "released": "October 2011"
     },
     "Imaginarium of Doctor Parnassus, The": {
         "genres": [
@@ -6458,7 +6774,8 @@
             "Terry McKeown",
             "Charles Gilliam"
         ],
-        "length": 143737
+        "length": 143737,
+        "released": "September 2009"
     },
     "In the Bedroom": {
         "genres": [
@@ -6469,7 +6786,8 @@
             "Robert Festinger",
             "Todd Field"
         ],
-        "length": 129355
+        "length": 129355,
+        "released": "January 2002"
     },
     "In the Loop": {
         "genres": [
@@ -6481,7 +6799,8 @@
             "Armando Iannucci",
             "Tony Roche"
         ],
-        "length": 144374
+        "length": 144374,
+        "released": "July 2009"
     },
     "Inception": {
         "genres": [
@@ -6492,7 +6811,8 @@
         "writers": [
             "Christopher Nolan"
         ],
-        "length": 157614
+        "length": 157614,
+        "released": "July 2010"
     },
     "Incredibles, The": {
         "genres": [
@@ -6505,7 +6825,8 @@
         ],
         "writers": [
             "Brad Bird"
-        ]
+        ],
+        "released": "November 2004"
     },
     "Independence Day": {
         "genres": [
@@ -6575,7 +6896,8 @@
             "Scott Z. Burns",
             "Kurt Eichenwald"
         ],
-        "length": 188405
+        "length": 188405,
+        "released": "September 2009"
     },
     "Inglourious Basterds": {
         "genres": [
@@ -6586,7 +6908,8 @@
         "writers": [
             "Quentin Tarantino"
         ],
-        "length": 190033
+        "length": 190033,
+        "released": "August 2009"
     },
     "Innerspace": {
         "genres": [
@@ -6618,7 +6941,8 @@
         "writers": [
             "Leigh Whannell"
         ],
-        "length": 121182
+        "length": 121182,
+        "released": "April 2011"
     },
     "Insomnia": {
         "genres": [
@@ -6629,7 +6953,8 @@
         "writers": [
             "Hilary Seitz"
         ],
-        "length": 140996
+        "length": 140996,
+        "released": "May 2002"
     },
     "Interstellar": {
         "genres": [
@@ -6640,7 +6965,8 @@
         "writers": [
             "Jonathan Nolan"
         ],
-        "length": 197962
+        "length": 197962,
+        "released": "November 2014"
     },
     "Interview with the Vampire": {
         "genres": [
@@ -6662,7 +6988,8 @@
             "Sean Penn",
             "Jon Krakauer"
         ],
-        "length": 178386
+        "length": 178386,
+        "released": "September 2007"
     },
     "Into the Woods": {
         "genres": [
@@ -6674,7 +7001,8 @@
             "James Lapine",
             "Stephen Sondheim"
         ],
-        "length": 126243
+        "length": 126243,
+        "released": "December 2014"
     },
     "Intolerable Cruelty": {
         "genres": [
@@ -6709,7 +7037,8 @@
             "Ricky Gervais",
             "Matthew Robinson"
         ],
-        "length": 119468
+        "length": 119468,
+        "released": "October 2009"
     },
     "Invictus": {
         "genres": [
@@ -6718,7 +7047,8 @@
         "writers": [
             "Anthony Peckham"
         ],
-        "length": 160111
+        "length": 160111,
+        "released": "December 2009"
     },
     "Iron Lady, The": {
         "genres": [
@@ -6727,7 +7057,8 @@
         "writers": [
             "Abi Morgan"
         ],
-        "length": 110396
+        "length": 110396,
+        "released": "January 2012"
     },
     "Island, The": {
         "genres": [
@@ -6739,7 +7070,8 @@
         "writers": [
             "Caspian Tredwell-Owen"
         ],
-        "length": 231886
+        "length": 231886,
+        "released": "July 2005"
     },
     "It": {
         "genres": [
@@ -6751,7 +7083,8 @@
             "Chase Palmer",
             "Cary Fukunaga"
         ],
-        "length": 153084
+        "length": 153084,
+        "released": "September 2017"
     },
     "It Happened One Night": {
         "genres": [
@@ -6762,7 +7095,8 @@
             "Samuel Hopkins Adams",
             "Robert Riskin"
         ],
-        "length": 188526
+        "length": 188526,
+        "released": "February 1934"
     },
     "It's a Wonderful Life": {
         "genres": [
@@ -6787,7 +7121,8 @@
         "writers": [
             "Nancy Meyers"
         ],
-        "length": 114579
+        "length": 114579,
+        "released": "December 2009"
     },
     "Italian Job, The": {
         "genres": [
@@ -6814,7 +7149,8 @@
             "Tom Bleecker",
             "Massy Tadjedin"
         ],
-        "length": 157923
+        "length": 157923,
+        "released": "March 2005"
     },
     "Jackie Brown": {
         "genres": [
@@ -6856,7 +7192,8 @@
         "writers": [
             "Moira Buffini"
         ],
-        "length": 149671
+        "length": 149671,
+        "released": "March 2011"
     },
     "Jason X": {
         "genres": [
@@ -6912,7 +7249,8 @@
         "writers": [
             "Bruce Robinson"
         ],
-        "length": 193305
+        "length": 193305,
+        "released": "November 1992"
     },
     "Jennifer's Body": {
         "genres": [
@@ -6923,7 +7261,8 @@
         "writers": [
             "Diablo Cody"
         ],
-        "length": 131226
+        "length": 131226,
+        "released": "September 2009"
     },
     "Jerry Maguire": {
         "genres": [
@@ -6947,7 +7286,8 @@
             "Fran\u00e7ois Boyer",
             "Ren\u00e9 Cl\u00e9ment"
         ],
-        "length": 142265
+        "length": 142265,
+        "released": "December 1952"
     },
     "JFK": {
         "genres": [
@@ -6994,7 +7334,8 @@
         "writers": [
             "Derek Kolstad"
         ],
-        "length": 107771
+        "length": 107771,
+        "released": "October 2014"
     },
     "Joker": {
         "genres": [
@@ -7006,7 +7347,8 @@
             "Todd Phillips",
             "Scott Silver"
         ],
-        "length": 149707
+        "length": 149707,
+        "released": "October 2019"
     },
     "Judge Dredd": {
         "genres": [
@@ -7017,7 +7359,8 @@
         "writers": [
             "Steven E. de Souza"
         ],
-        "length": 133219
+        "length": 133219,
+        "released": "June 1995"
     },
     "Juno": {
         "genres": [
@@ -7028,7 +7371,8 @@
         "writers": [
             "Diablo Cody"
         ],
-        "length": 101013
+        "length": 101013,
+        "released": "December 2007"
     },
     "Jurassic Park": {
         "genres": [
@@ -7111,7 +7455,8 @@
             "Larry Clark",
             "Harmony Korine"
         ],
-        "length": 91311
+        "length": 91311,
+        "released": "July 1995"
     },
     "Kids Are All Right, The": {
         "genres": [
@@ -7122,7 +7467,8 @@
             "Lisa Cholodenko",
             "Stuart Blumberg"
         ],
-        "length": 95117
+        "length": 95117,
+        "released": "July 2010"
     },
     "Kill Bill Volume 1 & 2": {
         "genres": [
@@ -7146,7 +7492,8 @@
             "John Krokidas",
             "Austin Bunn"
         ],
-        "length": 97498
+        "length": 97498,
+        "released": "December 2013"
     },
     "Killing Zoe": {
         "genres": [
@@ -7172,7 +7519,8 @@
             "Philippa Boyens",
             "Peter Jackson"
         ],
-        "length": 171154
+        "length": 171154,
+        "released": "December 2005"
     },
     "King of Comedy, The": {
         "genres": [
@@ -7192,7 +7540,8 @@
         "writers": [
             "David Seidler"
         ],
-        "length": 129707
+        "length": 129707,
+        "released": "December 2010"
     },
     "Kingdom, The": {
         "genres": [
@@ -7203,7 +7552,8 @@
         "writers": [
             "Matthew Michael Carnahan"
         ],
-        "length": 176929
+        "length": 176929,
+        "released": "September 2007"
     },
     "Kiss of the Spider Woman": {
         "genres": [
@@ -7236,7 +7586,8 @@
         "writers": [
             "Judd Apatow"
         ],
-        "length": 134195
+        "length": 134195,
+        "released": "June 2007"
     },
     "Kramer vs Kramer": {
         "genres": [
@@ -7267,7 +7618,8 @@
             "Jonathan Aibel",
             "Glenn Berger"
         ],
-        "length": 80715
+        "length": 80715,
+        "released": "June 2008"
     },
     "L.A. Confidential": {
         "genres": [
@@ -7290,7 +7642,8 @@
         "writers": [
             "Damien Chazelle"
         ],
-        "length": 105102
+        "length": 105102,
+        "released": "December 2016"
     },
     "Labor of Love": {
         "genres": [
@@ -7327,7 +7680,8 @@
             "Joel Coen",
             "Ethan Coen"
         ],
-        "length": 137808
+        "length": 137808,
+        "released": "March 2004"
     },
     "Lake Placid": {
         "genres": [
@@ -7339,7 +7693,8 @@
         "writers": [
             "David E Kelley"
         ],
-        "length": 85876
+        "length": 85876,
+        "released": "July 1999"
     },
     "Land of the Dead": {
         "genres": [
@@ -7350,7 +7705,8 @@
         "writers": [
             "George A. Romero"
         ],
-        "length": 126458
+        "length": 126458,
+        "released": "June 2005"
     },
     "Larry Crowne": {
         "genres": [
@@ -7361,7 +7717,8 @@
         "writers": [
             "Tom Hanks"
         ],
-        "length": 114503
+        "length": 114503,
+        "released": "July 2011"
     },
     "Last Boy Scout, The": {
         "genres": [
@@ -7381,7 +7738,8 @@
         "writers": [
             "Joel Hopkins"
         ],
-        "length": 84677
+        "length": 84677,
+        "released": "January 2009"
     },
     "Last Flight, The": {
         "genres": [
@@ -7390,7 +7748,8 @@
         "writers": [
             "John Monk Saunders"
         ],
-        "length": 119554
+        "length": 119554,
+        "released": "August 1931"
     },
     "Last of the Mohicans, The": {
         "genres": [
@@ -7402,7 +7761,8 @@
             "Michael Mann",
             "Christopher Crowe"
         ],
-        "length": 146790
+        "length": 146790,
+        "released": "September 1992"
     },
     "Last Samurai, The": {
         "genres": [
@@ -7427,7 +7787,8 @@
             "Michael Hoffman",
             "Jan Parini"
         ],
-        "length": 111749
+        "length": 111749,
+        "released": "December 2009"
     },
     "Last Tango in Paris": {
         "genres": [
@@ -7438,7 +7799,8 @@
             "Bernardo Bertolucci",
             "Franco Arcalli"
         ],
-        "length": 93972
+        "length": 93972,
+        "released": "February 1973"
     },
     "Law Abiding Citizen": {
         "genres": [
@@ -7450,7 +7812,8 @@
             "Frank Darabont",
             "Kurt Wimmer"
         ],
-        "length": 173121
+        "length": 173121,
+        "released": "October 2009"
     },
     "Le Diable par la Queue": {
         "genres": [
@@ -7460,7 +7823,8 @@
             "Daniel Boulanger",
             "Claude Sautet"
         ],
-        "length": 173149
+        "length": 173149,
+        "released": "February 1969"
     },
     "Leaving Las Vegas": {
         "genres": [
@@ -7505,7 +7869,8 @@
             "Peter Schink",
             "Scott Stewart"
         ],
-        "length": 125353
+        "length": 125353,
+        "released": "January 2010"
     },
     "LEGO Movie, The": {
         "genres": [
@@ -7517,7 +7882,8 @@
             "Chris Miller",
             "Phil Lord"
         ],
-        "length": 112873
+        "length": 112873,
+        "released": "February 2014"
     },
     "Les Miserables": {
         "genres": [
@@ -7531,7 +7897,8 @@
             "Claude- Michel Schonberg",
             "Herbert Kretzmer"
         ],
-        "length": 163383
+        "length": 163383,
+        "released": "December 2012"
     },
     "Les Tontons Flingueurs": {
         "genres": [
@@ -7544,7 +7911,8 @@
             "Georges Lautner",
             "Albert Simonin"
         ],
-        "length": 188312
+        "length": 188312,
+        "released": "November 1963"
     },
     "Lethal Weapon": {
         "genres": [
@@ -7592,7 +7960,8 @@
             "Tom Shadyac",
             "Mike Binder"
         ],
-        "length": 102625
+        "length": 102625,
+        "released": "March 1997"
     },
     "Life": {
         "genres": [
@@ -7603,7 +7972,8 @@
             "Robert Ramsey",
             "Matthew Stone"
         ],
-        "length": 143296
+        "length": 143296,
+        "released": "April 1999"
     },
     "Life As A House": {
         "genres": [
@@ -7624,7 +7994,8 @@
         "writers": [
             "Charles Randolph"
         ],
-        "length": 126018
+        "length": 126018,
+        "released": "February 2003"
     },
     "Life of Pi": {
         "genres": [
@@ -7635,7 +8006,8 @@
             "David Magee",
             "Yann Martel"
         ],
-        "length": 107658
+        "length": 107658,
+        "released": "November 2012"
     },
     "Light Sleeper": {
         "genres": [
@@ -7644,7 +8016,8 @@
         "writers": [
             "Paul Schrader"
         ],
-        "length": 78867
+        "length": 78867,
+        "released": "August 1992"
     },
     "Limey, The": {
         "genres": [
@@ -7665,7 +8038,8 @@
         "writers": [
             "Leslie Dixon"
         ],
-        "length": 132384
+        "length": 132384,
+        "released": "March 2011"
     },
     "Lincoln": {
         "genres": [
@@ -7675,7 +8049,8 @@
         "writers": [
             "Tony Kushner"
         ],
-        "length": 156582
+        "length": 156582,
+        "released": "November 2012"
     },
     "Lincoln Lawyer, The": {
         "genres": [
@@ -7687,7 +8062,8 @@
             "John Romano",
             "Michael Connelly"
         ],
-        "length": 133462
+        "length": 133462,
+        "released": "March 2011"
     },
     "Lion King, The": {
         "genres": [
@@ -7711,7 +8087,8 @@
             "Jeff Zuber",
             "Tom Zuber"
         ],
-        "length": 148403
+        "length": 148403,
+        "released": "November 2006"
     },
     "Little Men": {
         "genres": [
@@ -7721,7 +8098,8 @@
             "Ira Sachs",
             "Mauricio Zacharias"
         ],
-        "length": 107991
+        "length": 107991,
+        "released": "September 2016"
     },
     "Little Mermaid, The": {
         "genres": [
@@ -7762,7 +8140,8 @@
         "writers": [
             "Tom DiCillo"
         ],
-        "length": 94854
+        "length": 94854,
+        "released": "June 1995"
     },
     "Lock, Stock and Two Smoking Barrels": {
         "genres": [
@@ -7786,7 +8165,8 @@
             "James Mangold",
             "Michael Green"
         ],
-        "length": 173518
+        "length": 173518,
+        "released": "March 2017"
     },
     "Logan's Run": {
         "genres": [
@@ -7830,7 +8210,8 @@
         "writers": [
             "Rian Johnson"
         ],
-        "length": 140175
+        "length": 140175,
+        "released": "September 2012"
     },
     "Lord of Illusions": {
         "genres": [
@@ -7867,7 +8248,8 @@
             "Fran Walsh",
             "Philippa Boyens"
         ],
-        "length": 164148
+        "length": 164148,
+        "released": "December 2003"
     },
     "Lord of the Rings: The Two Towers": {
         "genres": [
@@ -7880,7 +8262,8 @@
             "Fran Walsh",
             "Philippa Boyens"
         ],
-        "length": 108112
+        "length": 108112,
+        "released": "December 2002"
     },
     "Lord of War": {
         "genres": [
@@ -7891,7 +8274,8 @@
         "writers": [
             "Andrew Niccol"
         ],
-        "length": 148432
+        "length": 148432,
+        "released": "September 2005"
     },
     "Losers, The": {
         "genres": [
@@ -7905,7 +8289,8 @@
             "Peter Berg",
             "James Vanderbilt"
         ],
-        "length": 115287
+        "length": 115287,
+        "released": "April 2010"
     },
     "Lost Highway": {
         "genres": [
@@ -7932,7 +8317,8 @@
             "James Hilton",
             "Robert Riskin"
         ],
-        "length": 149875
+        "length": 149875,
+        "released": "September 1937"
     },
     "Lost in Space": {
         "genres": [
@@ -7955,7 +8341,8 @@
         "writers": [
             "Sofia Coppola"
         ],
-        "length": 72549
+        "length": 72549,
+        "released": "October 2003"
     },
     "Love and Basketball": {
         "genres": [
@@ -7975,7 +8362,8 @@
         "writers": [
             "Robert Rodriguez"
         ],
-        "length": 83640
+        "length": 83640,
+        "released": "September 2010"
     },
     "Machine Gun Preacher": {
         "genres": [
@@ -7985,7 +8373,8 @@
         "writers": [
             "Jason Keller"
         ],
-        "length": 161479
+        "length": 161479,
+        "released": "September 2011"
     },
     "Mad Max 2: The Road Warrior": {
         "genres": [
@@ -7998,7 +8387,8 @@
             "George Miller",
             "Brian Hannant"
         ],
-        "length": 110491
+        "length": 110491,
+        "released": "May 1982"
     },
     "Made": {
         "genres": [
@@ -8082,7 +8472,8 @@
         "writers": [
             "Brian Helgeland"
         ],
-        "length": 153284
+        "length": 153284,
+        "released": "April 2004"
     },
     "Man on the Moon": {
         "genres": [
@@ -8139,7 +8530,8 @@
             "George Axelrod",
             "Dean Georgaris"
         ],
-        "length": 167539
+        "length": 167539,
+        "released": "July 2004"
     },
     "Manhattan Murder Mystery": {
         "genres": [
@@ -8151,7 +8543,8 @@
             "Woody Allen",
             "Marshall Brickman"
         ],
-        "length": 211071
+        "length": 211071,
+        "released": "August 1993"
     },
     "Manhunter": {
         "genres": [
@@ -8172,7 +8565,8 @@
         "writers": [
             "Kenneth Lonergan"
         ],
-        "length": 194220
+        "length": 194220,
+        "released": "September 2011"
     },
     "Margin Call": {
         "genres": [
@@ -8182,7 +8576,8 @@
         "writers": [
             "J.C. Chandor"
         ],
-        "length": 111432
+        "length": 111432,
+        "released": "October 2011"
     },
     "Margot at the Wedding": {
         "genres": [
@@ -8192,7 +8587,8 @@
         "writers": [
             "Noah Baumbach"
         ],
-        "length": 107092
+        "length": 107092,
+        "released": "November 2007"
     },
     "Mariachi, El": {
         "genres": [
@@ -8216,7 +8612,8 @@
         "writers": [
             "Don Roos"
         ],
-        "length": 134195
+        "length": 134195,
+        "released": "December 2008"
     },
     "Martha Marcy May Marlene": {
         "genres": [
@@ -8226,7 +8623,8 @@
         "writers": [
             "Sean Durkin"
         ],
-        "length": 70981
+        "length": 70981,
+        "released": "October 2011"
     },
     "Martian, The": {
         "genres": [
@@ -8237,7 +8635,8 @@
         "writers": [
             "Drew Goddard"
         ],
-        "length": 135233
+        "length": 135233,
+        "released": "October 2015"
     },
     "Marty": {
         "genres": [
@@ -8247,7 +8646,8 @@
         "writers": [
             "Paddy Chayefsky"
         ],
-        "length": 111730
+        "length": 111730,
+        "released": "July 1955"
     },
     "Mary Poppins": {
         "genres": [
@@ -8276,7 +8676,8 @@
         "writers": [
             "Mark Verheiden"
         ],
-        "length": 141595
+        "length": 141595,
+        "released": "July 1994"
     },
     "Master and Commander": {
         "genres": [
@@ -8288,7 +8689,8 @@
             "John Collee",
             "Peter Weir"
         ],
-        "length": 139910
+        "length": 139910,
+        "released": "November 2003"
     },
     "Master, The": {
         "genres": [
@@ -8297,7 +8699,8 @@
         "writers": [
             "Paul Thomas Anderson"
         ],
-        "length": 122107
+        "length": 122107,
+        "released": "September 2012"
     },
     "Matchstick Men": {
         "genres": [
@@ -8344,7 +8747,8 @@
         "writers": [
             "Beau Michael Thorne"
         ],
-        "length": 131423
+        "length": 131423,
+        "released": "October 2008"
     },
     "Mean Streets": {
         "genres": [
@@ -8356,7 +8760,8 @@
             "Mardik Martin",
             "Ethan Edwards"
         ],
-        "length": 110469
+        "length": 110469,
+        "released": "October 1973"
     },
     "Mechanic, The": {
         "genres": [
@@ -8368,7 +8773,8 @@
             "Karl Gajdusek",
             "Lewis John Carlino"
         ],
-        "length": 165955
+        "length": 165955,
+        "released": "January 2011"
     },
     "Meet Joe Black": {
         "genres": [
@@ -8394,7 +8800,8 @@
             "Richard Connell",
             "Robert Presnell Sr."
         ],
-        "length": 171978
+        "length": 171978,
+        "released": "May 1941"
     },
     "Megamind": {
         "genres": [
@@ -8408,7 +8815,8 @@
             "Alan Schoolcraft",
             "Brent Simons"
         ],
-        "length": 128312
+        "length": 128312,
+        "released": "November 2010"
     },
     "Memento": {
         "genres": [
@@ -8444,7 +8852,8 @@
             "Etan Cohen",
             "Lowell Cunningham"
         ],
-        "length": 106482
+        "length": 106482,
+        "released": "May 2012"
     },
     "Men Who Stare at Goats, The": {
         "genres": [
@@ -8455,7 +8864,8 @@
             "Peter Straughan",
             "Jon Ronson"
         ],
-        "length": 136818
+        "length": 136818,
+        "released": "November 2009"
     },
     "Metro": {
         "genres": [
@@ -8479,7 +8889,8 @@
             "Michael Mann",
             "Anthony Yerkovich"
         ],
-        "length": 126365
+        "length": 126365,
+        "released": "July 2006"
     },
     "Midnight Cowboy": {
         "genres": [
@@ -8502,7 +8913,8 @@
             "Billy Hayes",
             "William Hoffer"
         ],
-        "length": 157277
+        "length": 157277,
+        "released": "October 1978"
     },
     "Midnight in Paris": {
         "genres": [
@@ -8513,7 +8925,8 @@
         "writers": [
             "Woody Allen"
         ],
-        "length": 86715
+        "length": 86715,
+        "released": "June 2011"
     },
     "Mighty Joe Young": {
         "genres": [
@@ -8526,7 +8939,8 @@
             "Lawrence Konner",
             "Ruth Rose"
         ],
-        "length": 166949
+        "length": 166949,
+        "released": "December 1998"
     },
     "Mighty Morphin Power Rangers: The Movie": {
         "genres": [
@@ -8537,7 +8951,8 @@
             "John Kamps",
             "Arne Olsen"
         ],
-        "length": 102743
+        "length": 102743,
+        "released": "June 1995"
     },
     "Milk": {
         "genres": [
@@ -8546,7 +8961,8 @@
         "writers": [
             "Dustin Lance Black"
         ],
-        "length": 131270
+        "length": 131270,
+        "released": "November 2008"
     },
     "Miller's Crossing": {
         "genres": [
@@ -8581,7 +8997,8 @@
         "writers": [
             "Nick Guthe"
         ],
-        "length": 133634
+        "length": 133634,
+        "released": "June 2006"
     },
     "Minority Report": {
         "genres": [
@@ -8604,7 +9021,8 @@
         "writers": [
             "William Gibson"
         ],
-        "length": 18419
+        "length": 18419,
+        "released": "July 1962"
     },
     "Mirrors": {
         "genres": [
@@ -8616,7 +9034,8 @@
             "Alexandre Aja",
             "Gregory Levasseur"
         ],
-        "length": 153240
+        "length": 153240,
+        "released": "August 2008"
     },
     "Misery": {
         "genres": [
@@ -8665,7 +9084,8 @@
             "John Thomas",
             "Graham Yost"
         ],
-        "length": 164915
+        "length": 164915,
+        "released": "March 2000"
     },
     "Moneyball": {
         "genres": [
@@ -8675,7 +9095,8 @@
             "Steven Zaillian",
             "Aaron Sorkin"
         ],
-        "length": 165855
+        "length": 165855,
+        "released": "September 2011"
     },
     "Monkeybone": {
         "genres": [
@@ -8688,7 +9109,8 @@
             "Kaja Blackley",
             "Vanessa Chong"
         ],
-        "length": 146630
+        "length": 146630,
+        "released": "February 2001"
     },
     "Monster's Ball": {
         "genres": [
@@ -8710,7 +9132,8 @@
         "writers": [
             "Ron Bass"
         ],
-        "length": 139701
+        "length": 139701,
+        "released": "July 2011"
     },
     "Moon": {
         "genres": [
@@ -8723,7 +9146,8 @@
             "Duncan Jones",
             "Nathan Parker"
         ],
-        "length": 117023
+        "length": 117023,
+        "released": "June 2009"
     },
     "Moonrise Kingdom": {
         "genres": [
@@ -8735,7 +9159,8 @@
             "Wes Anderson",
             "Roman Coppola"
         ],
-        "length": 141210
+        "length": 141210,
+        "released": "June 2012"
     },
     "Moonstruck": {
         "genres": [
@@ -8756,7 +9181,8 @@
             "Melvin Frank",
             "Norman Panama"
         ],
-        "length": 142067
+        "length": 142067,
+        "released": "June 1948"
     },
     "Mr Brooks": {
         "genres": [
@@ -8768,7 +9194,8 @@
             "Bruce A. Evans",
             "Raynold Gideon"
         ],
-        "length": 146458
+        "length": 146458,
+        "released": "June 2007"
     },
     "Mr Deeds Goes to Town": {
         "genres": [
@@ -8778,7 +9205,8 @@
             "Clarence Budington Kelland",
             "Robert Riskin"
         ],
-        "length": 166383
+        "length": 166383,
+        "released": "April 1936"
     },
     "Mr. Holland's Opus": {
         "genres": [
@@ -8806,7 +9234,8 @@
         "writers": [
             "Jeff Nichols"
         ],
-        "length": 158488
+        "length": 158488,
+        "released": "May 2013"
     },
     "Mulan": {
         "genres": [
@@ -8842,7 +9271,8 @@
         "writers": [
             "Lawrence Kasdan"
         ],
-        "length": 146594
+        "length": 146594,
+        "released": "September 1999"
     },
     "Mummy, The": {
         "genres": [
@@ -8868,7 +9298,8 @@
         "writers": [
             "Pamela Gray"
         ],
-        "length": 139354
+        "length": 139354,
+        "released": "October 1999"
     },
     "Mute Witness": {
         "genres": [
@@ -8878,7 +9309,8 @@
         "writers": [
             "Anthony Waller"
         ],
-        "length": 134793
+        "length": 134793,
+        "released": "September 1995"
     },
     "My Best Friend's Wedding": {
         "genres": [
@@ -8900,7 +9332,8 @@
         "writers": [
             "Laurice Elehwany"
         ],
-        "length": 79028
+        "length": 79028,
+        "released": "November 1991"
     },
     "My Mother Dreams the Satan's Disciples in New York": {
         "genres": [
@@ -8918,7 +9351,8 @@
         "writers": [
             "Adrian Hodges"
         ],
-        "length": 164246
+        "length": 164246,
+        "released": "December 2011"
     },
     "Mystery Men": {
         "genres": [
@@ -8938,7 +9372,8 @@
         "writers": [
             "Jared Hess",
             "Jerusha Hess"
-        ]
+        ],
+        "released": "June 2004"
     },
     "Nashville": {
         "genres": [
@@ -9000,7 +9435,8 @@
         "writers": [
             "Emily Fox"
         ],
-        "length": 111467
+        "length": 111467,
+        "released": "May 2004"
     },
     "Newsies": {
         "genres": [
@@ -9024,7 +9460,8 @@
         "writers": [
             "Gary Goldman"
         ],
-        "length": 137540
+        "length": 137540,
+        "released": "April 2007"
     },
     "Next Friday": {
         "genres": [
@@ -9045,7 +9482,8 @@
         "writers": [
             "Paul Haggis"
         ],
-        "length": 160007
+        "length": 160007,
+        "released": "November 2010"
     },
     "Ni vu ni connu": {
         "genres": [
@@ -9057,7 +9495,8 @@
             "Jean Marsan",
             "Yves Robert"
         ],
-        "length": 228565
+        "length": 228565,
+        "released": "April 1958"
     },
     "Nick of Time": {
         "genres": [
@@ -9069,7 +9508,8 @@
             "Patrick Duncan",
             "Ebbe Roe Smith"
         ],
-        "length": 108936
+        "length": 108936,
+        "released": "November 1995"
     },
     "Night Time (The Poltergeist Treatment)": {
         "genres": [
@@ -9078,7 +9518,8 @@
         "writers": [
             "Steven Spielberg"
         ],
-        "length": 59768
+        "length": 59768,
+        "released": "June 1982"
     },
     "Nightbreed": {
         "genres": [
@@ -9089,7 +9530,8 @@
         "writers": [
             "Clive Barker"
         ],
-        "length": 155799
+        "length": 155799,
+        "released": "February 1990"
     },
     "Nightmare Before Christmas, The": {
         "genres": [
@@ -9137,7 +9579,8 @@
             "Michael Tolkin",
             "Anthony Minghella"
         ],
-        "length": 103862
+        "length": 103862,
+        "released": "December 2009"
     },
     "Nines, The": {
         "genres": [
@@ -9149,7 +9592,8 @@
         "writers": [
             "John August"
         ],
-        "length": 106987
+        "length": 106987,
+        "released": "August 2007"
     },
     "Ninja Assassin": {
         "genres": [
@@ -9162,7 +9606,8 @@
             "Matthew Sand",
             "J. Michael Straczynski"
         ],
-        "length": 132914
+        "length": 132914,
+        "released": "November 2009"
     },
     "Ninotchka": {
         "genres": [
@@ -9175,7 +9620,8 @@
             "Billy Wilder",
             "Walter Reisch"
         ],
-        "length": 160907
+        "length": 160907,
+        "released": "November 1939"
     },
     "Ninth Gate, The": {
         "genres": [
@@ -9201,7 +9647,8 @@
             "Ethan Coen",
             "Joel Coen"
         ],
-        "length": 120773
+        "length": 120773,
+        "released": "November 2007"
     },
     "No Strings Attached": {
         "genres": [
@@ -9211,7 +9658,8 @@
         "writers": [
             "Elizabeth Meriwether"
         ],
-        "length": 107789
+        "length": 107789,
+        "released": "January 2011"
     },
     "Notting Hill": {
         "genres": [
@@ -9257,7 +9705,8 @@
             "Karl Gajdusek",
             "William Monahan"
         ],
-        "length": 134999
+        "length": 134999,
+        "released": "April 2013"
     },
     "Observe and Report": {
         "genres": [
@@ -9268,7 +9717,8 @@
         "writers": [
             "Jody Hill"
         ],
-        "length": 131157
+        "length": 131157,
+        "released": "April 2009"
     },
     "Obsessed": {
         "genres": [
@@ -9278,7 +9728,8 @@
         "writers": [
             "David Loughery"
         ],
-        "length": 105119
+        "length": 105119,
+        "released": "April 2009"
     },
     "Ocean's Eleven": {
         "genres": [
@@ -9293,7 +9744,8 @@
             "Harry Brown",
             "Charles Lederer"
         ],
-        "length": 191923
+        "length": 191923,
+        "released": "December 2001"
     },
     "Ocean's Twelve": {
         "genres": [
@@ -9304,7 +9756,8 @@
         "writers": [
             "George Nolfi"
         ],
-        "length": 141359
+        "length": 141359,
+        "released": "December 2004"
     },
     "Office Space": {
         "genres": [
@@ -9357,7 +9810,8 @@
         "writers": [
             "Nicolas Winding Refn"
         ],
-        "length": 106879
+        "length": 106879,
+        "released": "July 2013"
     },
     "Ordinary People": {
         "genres": [
@@ -9367,7 +9821,8 @@
             "Alvin Sargent",
             "Judith Guest"
         ],
-        "length": 120758
+        "length": 120758,
+        "released": "September 1980"
     },
     "Orgy of the Dead": {
         "genres": [
@@ -9388,7 +9843,8 @@
         "writers": [
             "David Leslie Johnson"
         ],
-        "length": 165504
+        "length": 165504,
+        "released": "July 2009"
     },
     "Other Boleyn Girl, The": {
         "genres": [
@@ -9400,7 +9856,8 @@
             "Peter Morgan",
             "Philippa Gregory"
         ],
-        "length": 149129
+        "length": 149129,
+        "released": "February 2008"
     },
     "Out of Sight": {
         "genres": [
@@ -9438,7 +9895,8 @@
             "Robert Ben Garant",
             "Jason Fulardi"
         ],
-        "length": 131631
+        "length": 131631,
+        "released": "March 2005"
     },
     "Pandorum": {
         "genres": [
@@ -9449,7 +9907,8 @@
         "writers": [
             "Travis Milloy"
         ],
-        "length": 162491
+        "length": 162491,
+        "released": "September 2009"
     },
     "Panic Room": {
         "genres": [
@@ -9470,7 +9929,8 @@
         "writers": [
             "Marcus Markou"
         ],
-        "length": 83445
+        "length": 83445,
+        "released": "April 2013"
     },
     "ParaNorman": {
         "genres": [
@@ -9481,7 +9941,8 @@
         "writers": [
             "Chris Butler"
         ],
-        "length": 130141
+        "length": 130141,
+        "released": "August 2012"
     },
     "Pariah": {
         "genres": [
@@ -9490,7 +9951,8 @@
         "writers": [
             "Dee Rees"
         ],
-        "length": 112079
+        "length": 112079,
+        "released": "December 2011"
     },
     "Passengers": {
         "genres": [
@@ -9501,7 +9963,8 @@
         "writers": [
             "Jon Spaihts"
         ],
-        "length": 140644
+        "length": 140644,
+        "released": "December 2016"
     },
     "Passion of Joan of Arc, The": {
         "genres": [
@@ -9511,7 +9974,8 @@
             "Joseph Delteil",
             "Carl Theodor Dreyer"
         ],
-        "length": 89877
+        "length": 89877,
+        "released": "March 1929"
     },
     "Patriot, The": {
         "genres": [
@@ -9534,7 +9998,8 @@
             "Simon Pegg",
             "Nick Frost"
         ],
-        "length": 119019
+        "length": 119019,
+        "released": "March 2011"
     },
     "Pearl Harbor": {
         "genres": [
@@ -9557,7 +10022,8 @@
         "writers": [
             "Leo Marks"
         ],
-        "length": 151098
+        "length": 151098,
+        "released": "May 1960"
     },
     "Peggy Sue Got Married": {
         "genres": [
@@ -9580,7 +10046,8 @@
         "writers": [
             "Glenn Standring"
         ],
-        "length": 137736
+        "length": 137736,
+        "released": "July 2007"
     },
     "Perfect World, A": {
         "genres": [
@@ -9601,7 +10068,8 @@
         "writers": [
             "Stephen Chbosky"
         ],
-        "length": 122202
+        "length": 122202,
+        "released": "October 2012"
     },
     "Pet Sematary": {
         "genres": [
@@ -9629,7 +10097,8 @@
         "writers": [
             "Larry Marcus"
         ],
-        "length": 119776
+        "length": 119776,
+        "released": "June 1968"
     },
     "Philadelphia": {
         "genres": [
@@ -9670,7 +10139,8 @@
             "Ronald Harwood",
             "Wladyslaw Szpilman"
         ],
-        "length": 122175
+        "length": 122175,
+        "released": "September 2002"
     },
     "Piano, The": {
         "genres": [
@@ -9693,7 +10163,8 @@
             "Seth Rogen",
             "Evan Goldberg"
         ],
-        "length": 120365
+        "length": 120365,
+        "released": "August 2008"
     },
     "Pirates of the Caribbean": {
         "genres": [
@@ -9718,7 +10189,8 @@
             "Ted Elliott",
             "Terry Rossio"
         ],
-        "length": 94254
+        "length": 94254,
+        "released": "July 2006"
     },
     "Pitch Black": {
         "genres": [
@@ -9752,7 +10224,8 @@
             "Douglas W. Churchill",
             "Robert Riskin"
         ],
-        "length": 135119
+        "length": 135119,
+        "released": "October 1931"
     },
     "Platoon": {
         "genres": [
@@ -9832,7 +10305,8 @@
         "writers": [
             "Geoffrey Fletcher"
         ],
-        "length": 140288
+        "length": 140288,
+        "released": "November 2009"
     },
     "Predator": {
         "genres": [
@@ -9857,7 +10331,8 @@
             "Jonathan Nolan",
             "Christopher Nolan"
         ],
-        "length": 155747
+        "length": 155747,
+        "released": "October 2006"
     },
     "Pretty Woman": {
         "genres": [
@@ -9877,7 +10352,8 @@
         "writers": [
             "Jonathan Frederick Lawton"
         ],
-        "length": 225493
+        "length": 225493,
+        "released": "March 1990"
     },
     "Pride and Prejudice": {
         "genres": [
@@ -9887,7 +10363,8 @@
         "writers": [
             "Deborah Moggach"
         ],
-        "length": 142381
+        "length": 142381,
+        "released": "November 2005"
     },
     "Priest": {
         "genres": [
@@ -9898,7 +10375,8 @@
         "writers": [
             "Cory Goodman"
         ],
-        "length": 138577
+        "length": 138577,
+        "released": "May 2011"
     },
     "Princess Bride, The": {
         "genres": [
@@ -9944,7 +10422,8 @@
             "David S. Ward",
             "Aaron Latham"
         ],
-        "length": 144560
+        "length": 144560,
+        "released": "September 1993"
     },
     "Prom Night": {
         "genres": [
@@ -9956,7 +10435,8 @@
             "William Gray",
             "Bob Guza"
         ],
-        "length": 88270
+        "length": 88270,
+        "released": "July 1980"
     },
     "Prometheus": {
         "genres": [
@@ -9967,7 +10447,8 @@
         "writers": [
             "Jon Spaihts"
         ],
-        "length": 147492
+        "length": 147492,
+        "released": "June 2012"
     },
     "Prophecy, The": {
         "genres": [
@@ -9979,7 +10460,8 @@
         "writers": [
             "Gregory Widen"
         ],
-        "length": 138330
+        "length": 138330,
+        "released": "September 1995"
     },
     "Proposal, The": {
         "genres": [
@@ -9990,7 +10472,8 @@
         "writers": [
             "Pete Chiarelli"
         ],
-        "length": 136646
+        "length": 136646,
+        "released": "June 2009"
     },
     "Psycho": {
         "genres": [
@@ -10014,7 +10497,8 @@
             "Michael Mann",
             "Ann Eiderman"
         ],
-        "length": 153200
+        "length": 153200,
+        "released": "July 2009"
     },
     "Pulp Fiction": {
         "genres": [
@@ -10049,7 +10533,8 @@
             "Albert Magnoli",
             "William Blinn"
         ],
-        "length": 130735
+        "length": 130735,
+        "released": "July 1984"
     },
     "Quantum Project": {
         "genres": [
@@ -10078,7 +10563,8 @@
         "writers": [
             "Peter Morgan"
         ],
-        "length": 108856
+        "length": 108856,
+        "released": "September 2006"
     },
     "Rachel Getting Married": {
         "genres": [
@@ -10138,7 +10624,8 @@
             "David Hare",
             "Bernhard Schlink"
         ],
-        "length": 89590
+        "length": 89590,
+        "released": "January 2009"
     },
     "Real Genius": {
         "genres": [
@@ -10192,7 +10679,8 @@
         "writers": [
             "David Leslie Johnson"
         ],
-        "length": 157671
+        "length": 157671,
+        "released": "March 2011"
     },
     "Reindeer Games": {
         "genres": [
@@ -10204,7 +10692,8 @@
         "writers": [
             "Ehren Kruger"
         ],
-        "length": 146859
+        "length": 146859,
+        "released": "February 2000"
     },
     "Relic, The": {
         "genres": [
@@ -10225,7 +10714,8 @@
             "William Fetters",
             "Jenny Lumet"
         ],
-        "length": 114211
+        "length": 114211,
+        "released": "March 2010"
     },
     "Replacements, The": {
         "genres": [
@@ -10244,7 +10734,8 @@
         "writers": [
             "Alex Cox"
         ],
-        "length": 66054
+        "length": 66054,
+        "released": "March 1984"
     },
     "Rescuers Down Under, The": {
         "genres": [
@@ -10302,7 +10793,8 @@
         "writers": [
             "Mark L. Smith"
         ],
-        "length": 136532
+        "length": 136532,
+        "released": "January 2016"
     },
     "Revolutionary Road": {
         "genres": [
@@ -10312,7 +10804,8 @@
         "writers": [
             "Justin Haythe"
         ],
-        "length": 94125
+        "length": 94125,
+        "released": "December 2008"
     },
     "Ringu": {
         "genres": [
@@ -10334,7 +10827,8 @@
         "writers": [
             "David Lindsay-Abaire"
         ],
-        "length": 155835
+        "length": 155835,
+        "released": "November 2012"
     },
     "Rise of the Planet of the Apes": {
         "genres": [
@@ -10347,7 +10841,8 @@
             "Amanda Silver",
             "Jamie Moss"
         ],
-        "length": 127798
+        "length": 127798,
+        "released": "August 2011"
     },
     "RKO 281": {
         "genres": [
@@ -10356,7 +10851,8 @@
         "writers": [
             "John Logan"
         ],
-        "length": 131087
+        "length": 131087,
+        "released": "November 1999"
     },
     "Road, The": {
         "genres": [
@@ -10367,7 +10863,8 @@
         "writers": [
             "Joe Penhall"
         ],
-        "length": 133752
+        "length": 133752,
+        "released": "November 2009"
     },
     "Robin Hood: Prince of Thieves": {
         "genres": [
@@ -10410,7 +10907,8 @@
         "writers": [
             "Guy Ritchie"
         ],
-        "length": 151561
+        "length": 151561,
+        "released": "October 2008"
     },
     "Rocky": {
         "genres": [
@@ -10446,7 +10944,8 @@
             "Craig Pearce",
             "Baz Luhrmann"
         ],
-        "length": 130279
+        "length": 130279,
+        "released": "November 1996"
     },
     "Ronin": {
         "genres": [
@@ -10466,7 +10965,8 @@
         "writers": [
             "Emma Donoghue"
         ],
-        "length": 132201
+        "length": 132201,
+        "released": "January 2016"
     },
     "Roommate, The": {
         "genres": [
@@ -10478,7 +10978,8 @@
             "Sonny Mallhi",
             "Frank Baldwin"
         ],
-        "length": 120616
+        "length": 120616,
+        "released": "February 2011"
     },
     "Roughshod": {
         "genres": [
@@ -10489,7 +10990,8 @@
             "Geoffrey Homes",
             "Peter Viertel"
         ],
-        "length": 157313
+        "length": 157313,
+        "released": "May 1949"
     },
     "Ruins, The": {
         "genres": [
@@ -10499,7 +11001,8 @@
         "writers": [
             "Scott Smith"
         ],
-        "length": 170967
+        "length": 170967,
+        "released": "April 2008"
     },
     "Runaway Bride": {
         "genres": [
@@ -10520,7 +11023,8 @@
         "writers": [
             "Peter Morgan"
         ],
-        "length": 138761
+        "length": 138761,
+        "released": "September 2013"
     },
     "Rush Hour": {
         "genres": [
@@ -10564,7 +11068,8 @@
             "Jacques Audiard",
             "Thomas Bidegain"
         ],
-        "length": 114873
+        "length": 114873,
+        "released": "December 2012"
     },
     "S. Darko": {
         "genres": [
@@ -10576,7 +11081,8 @@
         "writers": [
             "Nathan Atkins"
         ],
-        "length": 130503
+        "length": 130503,
+        "released": "May 2009"
     },
     "Saint, The": {
         "genres": [
@@ -10610,7 +11116,8 @@
             "David Mickey Evans",
             "Robert Gunter"
         ],
-        "length": 112078
+        "length": 112078,
+        "released": "April 1993"
     },
     "Save the Last Dance": {
         "genres": [
@@ -10633,7 +11140,8 @@
             "Kelly Marcel",
             "Sue Smith"
         ],
-        "length": 130313
+        "length": 130313,
+        "released": "December 2013"
     },
     "Saving Private Ryan": {
         "genres": [
@@ -10657,7 +11165,8 @@
             "James Wan",
             "Leigh Whannell"
         ],
-        "length": 135455
+        "length": 135455,
+        "released": "October 2004"
     },
     "Scarface": {
         "genres": [
@@ -10701,7 +11210,8 @@
             "Edgar Wright",
             "Michael Bacall"
         ],
-        "length": 140098
+        "length": 140098,
+        "released": "August 2010"
     },
     "Scream": {
         "genres": [
@@ -10767,7 +11277,8 @@
         "writers": [
             "Steve Conrad"
         ],
-        "length": 133917
+        "length": 133917,
+        "released": "December 2013"
     },
     "Semi-Pro": {
         "genres": [
@@ -10776,7 +11287,8 @@
         "writers": [
             "Scot Armstrong"
         ],
-        "length": 128209
+        "length": 128209,
+        "released": "February 2008"
     },
     "Sense and Sensibility": {
         "genres": [
@@ -10800,7 +11312,8 @@
         "writers": [
             "Joss Whedon"
         ],
-        "length": 143144
+        "length": 143144,
+        "released": "September 2005"
     },
     "Serial Mom": {
         "genres": [
@@ -10821,7 +11334,8 @@
         "writers": [
             "Ben Lewin"
         ],
-        "length": 105085
+        "length": 105085,
+        "released": "November 2012"
     },
     "Seventh Seal, The": {
         "genres": [
@@ -10842,7 +11356,8 @@
         "writers": [
             "Michael Patrick King"
         ],
-        "length": 179058
+        "length": 179058,
+        "released": "May 2008"
     },
     "Sex, Lies and Videotape": {
         "genres": [
@@ -10861,7 +11376,8 @@
         "writers": [
             "Ken Kwapis"
         ],
-        "length": 88874
+        "length": 88874,
+        "released": "March 2005"
     },
     "Shadow of the Vampire": {
         "genres": [
@@ -10895,7 +11411,8 @@
         "writers": [
             "John Hodge"
         ],
-        "length": 74985
+        "length": 74985,
+        "released": "February 1995"
     },
     "Shame": {
         "genres": [
@@ -10905,7 +11422,8 @@
             "Steve McQueen",
             "Abi Morgan"
         ],
-        "length": 93430
+        "length": 93430,
+        "released": "December 2011"
     },
     "Shampoo": {
         "genres": [
@@ -10935,7 +11453,8 @@
             "Sean Anders",
             "John Morris"
         ],
-        "length": 124370
+        "length": 124370,
+        "released": "March 2010"
     },
     "Sherlock Holmes": {
         "genres": [
@@ -10950,7 +11469,8 @@
             "Anthony Peckham",
             "Simon Kinberg"
         ],
-        "length": 191578
+        "length": 191578,
+        "released": "December 2009"
     },
     "Shifty": {
         "genres": [
@@ -10959,7 +11479,8 @@
         "writers": [
             "Eran Creevy"
         ],
-        "length": 85753
+        "length": 85753,
+        "released": "September 2009"
     },
     "Shining, The": {
         "genres": [
@@ -10981,7 +11502,8 @@
             "E. Annie Proulx",
             "Robert Nelson Jacobs"
         ],
-        "length": 167513
+        "length": 167513,
+        "released": "January 2002"
     },
     "Shivers": {
         "genres": [
@@ -10991,7 +11513,8 @@
         "writers": [
             "David Cronenberg"
         ],
-        "length": 111930
+        "length": 111930,
+        "released": "July 1976"
     },
     "Shrek": {
         "genres": [
@@ -11006,7 +11529,8 @@
             "William Steig",
             "Ted Elliott"
         ],
-        "length": 69763
+        "length": 69763,
+        "released": "May 2001"
     },
     "Shrek the Third": {
         "genres": [
@@ -11020,7 +11544,8 @@
             "Chris Miller",
             "Aron Warner"
         ],
-        "length": 122782
+        "length": 122782,
+        "released": "May 2007"
     },
     "Sicario": {
         "genres": [
@@ -11031,7 +11556,8 @@
         "writers": [
             "Taylor Sheridan"
         ],
-        "length": 111648
+        "length": 111648,
+        "released": "October 2015"
     },
     "Sideways": {
         "genres": [
@@ -11044,7 +11570,8 @@
             "Alexander Payne",
             "Jim Taylor"
         ],
-        "length": 136631
+        "length": 136631,
+        "released": "January 2005"
     },
     "Siege, The": {
         "genres": [
@@ -11057,7 +11584,8 @@
             "Menno Meyjes",
             "Edward Zwick"
         ],
-        "length": 130556
+        "length": 130556,
+        "released": "November 1998"
     },
     "Signs": {
         "genres": [
@@ -11103,7 +11631,8 @@
             "David O. Russell",
             "Matthew Quick"
         ],
-        "length": 136978
+        "length": 136978,
+        "released": "December 2012"
     },
     "Simone": {
         "genres": [
@@ -11125,7 +11654,8 @@
             "Don Roos",
             "John Lutz"
         ],
-        "length": 158354
+        "length": 158354,
+        "released": "August 1992"
     },
     "Sister Act": {
         "genres": [
@@ -11136,7 +11666,8 @@
         "writers": [
             "Paul Rudnick"
         ],
-        "length": 146065
+        "length": 146065,
+        "released": "May 1992"
     },
     "Six Degrees of Separation": {
         "genres": [
@@ -11147,7 +11678,8 @@
         "writers": [
             "John Guare"
         ],
-        "length": 144304
+        "length": 144304,
+        "released": "December 1993"
     },
     "Sixth Sense, The": {
         "genres": [
@@ -11203,7 +11735,8 @@
         "writers": [
             "James Gunn"
         ],
-        "length": 128226
+        "length": 128226,
+        "released": "March 2006"
     },
     "Slumdog Millionaire": {
         "genres": [
@@ -11215,7 +11748,8 @@
             "Simon Beaufoy",
             "Vikas Swarup"
         ],
-        "length": 159182
+        "length": 159182,
+        "released": "January 2009"
     },
     "Smashed": {
         "genres": [
@@ -11226,7 +11760,8 @@
             "Susan Burke",
             "James Ponsoldt"
         ],
-        "length": 106065
+        "length": 106065,
+        "released": "October 2012"
     },
     "Smokin' Aces": {
         "genres": [
@@ -11238,7 +11773,8 @@
         "writers": [
             "Joe Carnahan"
         ],
-        "length": 172932
+        "length": 172932,
+        "released": "January 2007"
     },
     "Snatch": {
         "genres": [
@@ -11248,7 +11784,8 @@
         "writers": [
             "Guy Ritchie"
         ],
-        "length": 123499
+        "length": 123499,
+        "released": "January 2001"
     },
     "Sneakers": {
         "genres": [
@@ -11286,7 +11823,8 @@
             "John Lee Hancock",
             "Hossein Amini"
         ],
-        "length": 144379
+        "length": 144379,
+        "released": "June 2012"
     },
     "So I Married an Axe Murderer": {
         "genres": [
@@ -11306,7 +11844,8 @@
         "writers": [
             "Aaron Sorkin"
         ],
-        "length": 163974
+        "length": 163974,
+        "released": "October 2010"
     },
     "Solaris": {
         "genres": [
@@ -11328,7 +11867,8 @@
         "writers": [
             "David Webb Peoples"
         ],
-        "length": 186837
+        "length": 186837,
+        "released": "October 1998"
     },
     "Someone To Watch Over Me": {
         "genres": [
@@ -11353,7 +11893,8 @@
         "writers": [
             "Nancy Meyers"
         ],
-        "length": 143389
+        "length": 143389,
+        "released": "December 2003"
     },
     "Source Code": {
         "genres": [
@@ -11364,7 +11905,8 @@
         "writers": [
             "Ben Ripley"
         ],
-        "length": 126656
+        "length": 126656,
+        "released": "April 2011"
     },
     "South Park": {
         "genres": [
@@ -11387,7 +11929,8 @@
         "writers": [
             "Armen Evrensel"
         ],
-        "length": 111063
+        "length": 111063,
+        "released": "February 2013"
     },
     "Spanglish": {
         "genres": [
@@ -11398,7 +11941,8 @@
         "writers": [
             "James L. Brooks"
         ],
-        "length": 162941
+        "length": 162941,
+        "released": "December 2004"
     },
     "Spare Me": {
         "genres": [
@@ -11441,7 +11985,8 @@
             "Larry Wachowski",
             "Andy Wachowski"
         ],
-        "length": 162418
+        "length": 162418,
+        "released": "May 2008"
     },
     "Sphere": {
         "genres": [
@@ -11473,7 +12018,8 @@
             "Joel Schumacher",
             "Carl Kurlander"
         ],
-        "length": 118893
+        "length": 118893,
+        "released": "June 1985"
     },
     "Star Trek": {
         "genres": [
@@ -11485,7 +12031,8 @@
             "Roberto Orci",
             "Alex Kurtzman"
         ],
-        "length": 208379
+        "length": 208379,
+        "released": "May 2009"
     },
     "Star Trek II: The Wrath of Khan": {
         "genres": [
@@ -11557,7 +12104,8 @@
         "writers": [
             "George Lucas"
         ],
-        "length": 187968
+        "length": 187968,
+        "released": "May 1977"
     },
     "Star Wars: Attack of the Clones": {
         "genres": [
@@ -11593,7 +12141,8 @@
         ],
         "writers": [
             "George Lucas"
-        ]
+        ],
+        "released": "May 2005"
     },
     "Star Wars: The Empire Strikes Back": {
         "genres": [
@@ -11607,7 +12156,8 @@
             "Lawrence Kasdan",
             "Leigh Brackett"
         ],
-        "length": 155265
+        "length": 155265,
+        "released": "May 1980"
     },
     "Star Wars: The Force Awakens": {
         "genres": [
@@ -11620,7 +12170,8 @@
             "J.J. Abrams",
             "Michael Arndt"
         ],
-        "length": 143329
+        "length": 143329,
+        "released": "December 2015"
     },
     "Star Wars: The Phantom Menace": {
         "genres": [
@@ -11645,7 +12196,8 @@
             "Bruce A. Evans",
             "Raynold Gideon"
         ],
-        "length": 160253
+        "length": 160253,
+        "released": "December 1984"
     },
     "Starship Troopers": {
         "genres": [
@@ -11676,7 +12228,8 @@
             "Winston Miller",
             "Luke Short"
         ],
-        "length": 135464
+        "length": 135464,
+        "released": "October 1948"
     },
     "Stepmom": {
         "genres": [
@@ -11713,7 +12266,8 @@
             "David Koepp",
             "Richard Matheson"
         ],
-        "length": 138401
+        "length": 138401,
+        "released": "September 1999"
     },
     "Storytelling": {
         "genres": [
@@ -11733,7 +12287,8 @@
             "Jonathan Herman",
             "Andrea Berloff"
         ],
-        "length": 180037
+        "length": 180037,
+        "released": "August 2015"
     },
     "Strange Days": {
         "genres": [
@@ -11748,7 +12303,8 @@
             "James Cameron",
             "Jay Cocks"
         ],
-        "length": 193382
+        "length": 193382,
+        "released": "October 1995"
     },
     "Strangers on a Train": {
         "genres": [
@@ -11776,7 +12332,8 @@
             "Richard Rush",
             "Paul Brodeur"
         ],
-        "length": 188515
+        "length": 188515,
+        "released": "June 1980"
     },
     "Sugar": {
         "genres": [
@@ -11786,7 +12343,8 @@
             "Anna Boden",
             "Ryan Fleck"
         ],
-        "length": 148141
+        "length": 148141,
+        "released": "April 2009"
     },
     "Sugar and Spice": {
         "genres": [
@@ -11817,7 +12375,8 @@
         "writers": [
             "Megan Holley"
         ],
-        "length": 134966
+        "length": 134966,
+        "released": "March 2009"
     },
     "Super 8": {
         "genres": [
@@ -11828,7 +12387,8 @@
         "writers": [
             "J.J. Abrams"
         ],
-        "length": 144232
+        "length": 144232,
+        "released": "June 2011"
     },
     "Superbad": {
         "genres": [
@@ -11838,7 +12398,8 @@
             "Seth Rogen",
             "Evan Goldberg"
         ],
-        "length": 140780
+        "length": 140780,
+        "released": "August 2007"
     },
     "Superfights": {
         "genres": [
@@ -11869,7 +12430,8 @@
         "writers": [
             "Bernard Murray Jr"
         ],
-        "length": 115720
+        "length": 115720,
+        "released": "January 2006"
     },
     "Surrogates": {
         "genres": [
@@ -11882,7 +12444,8 @@
             "Michael Ferris",
             "Robert Venditti"
         ],
-        "length": 140652
+        "length": 140652,
+        "released": "September 2009"
     },
     "Suspect Zero": {
         "genres": [
@@ -11894,7 +12457,8 @@
         "writers": [
             "Zak Penn"
         ],
-        "length": 172223
+        "length": 172223,
+        "released": "August 2004"
     },
     "Sweeney Todd: The Demon Barber of Fleet Street": {
         "genres": [
@@ -11905,7 +12469,8 @@
         "writers": [
             "John Logan"
         ],
-        "length": 145942
+        "length": 145942,
+        "released": "December 2007"
     },
     "Sweet Hereafter, The": {
         "genres": [
@@ -11956,7 +12521,8 @@
         "writers": [
             "Charlie Kaufman"
         ],
-        "length": 152799
+        "length": 152799,
+        "released": "March 2009"
     },
     "Syriana": {
         "genres": [
@@ -11967,7 +12533,8 @@
             "Stephen Gaghan",
             "Robert Baer"
         ],
-        "length": 162733
+        "length": 162733,
+        "released": "December 2005"
     },
     "Take Shelter": {
         "genres": [
@@ -11977,7 +12544,8 @@
         "writers": [
             "Jeff Nichols"
         ],
-        "length": 112138
+        "length": 112138,
+        "released": "September 2011"
     },
     "Taking Lives": {
         "genres": [
@@ -11990,7 +12558,8 @@
             "Michael Pye",
             "Jon Bokenkamp"
         ],
-        "length": 123164
+        "length": 123164,
+        "released": "March 2004"
     },
     "Taking of Pelham One Two Three, The": {
         "genres": [
@@ -12002,7 +12571,8 @@
             "Peter Stone",
             "John Godey"
         ],
-        "length": 164501
+        "length": 164501,
+        "released": "October 1974"
     },
     "Taking Sides": {
         "genres": [
@@ -12012,7 +12582,8 @@
         "writers": [
             "Ronald Harwood"
         ],
-        "length": 87177
+        "length": 87177,
+        "released": "September 2003"
     },
     "Talented Mr. Ripley, The": {
         "genres": [
@@ -12038,7 +12609,8 @@
             "Paul P Fix",
             "Gordon Ray Young"
         ],
-        "length": 166374
+        "length": 166374,
+        "released": "September 1944"
     },
     "Tamara Drewe": {
         "genres": [
@@ -12049,7 +12621,8 @@
         "writers": [
             "Moira Buffini"
         ],
-        "length": 128234
+        "length": 128234,
+        "released": "October 2010"
     },
     "Taxi Driver": {
         "genres": [
@@ -12072,7 +12645,8 @@
             "Alec Sulkin",
             "Wellesley Wild"
         ],
-        "length": 144887
+        "length": 144887,
+        "released": "June 2012"
     },
     "Terminator": {
         "genres": [
@@ -12114,7 +12688,8 @@
             "John Brancato",
             "Michael Ferris"
         ],
-        "length": 142796
+        "length": 142796,
+        "released": "May 2009"
     },
     "The Rage: Carrie 2": {
         "genres": [
@@ -12125,7 +12700,8 @@
         "writers": [
             "Rafael Moreu"
         ],
-        "length": 114797
+        "length": 114797,
+        "released": "March 1999"
     },
     "Thelma & Louise": {
         "genres": [
@@ -12147,7 +12723,8 @@
         "writers": [
             "Anthony McCarten"
         ],
-        "length": 115161
+        "length": 115161,
+        "released": "November 2014"
     },
     "There's Something About Mary": {
         "genres": [
@@ -12194,7 +12771,8 @@
         "writers": [
             "Burleigh Smith"
         ],
-        "length": 8833
+        "length": 8833,
+        "released": "April 2012"
     },
     "Thirteen Days": {
         "genres": [
@@ -12221,7 +12799,8 @@
         "writers": [
             "Judd Apatow"
         ],
-        "length": 121671
+        "length": 121671,
+        "released": "December 2012"
     },
     "Thor": {
         "genres": [
@@ -12233,7 +12812,8 @@
             "Ashley Miller",
             "Zack Stentz"
         ],
-        "length": 174132
+        "length": 174132,
+        "released": "May 2011"
     },
     "Thor Ragnarok": {
         "genres": [
@@ -12246,7 +12826,8 @@
             "Craig Kyle",
             "Christopher L. Yost"
         ],
-        "length": 154903
+        "length": 154903,
+        "released": "November 2017"
     },
     "Three Kings": {
         "genres": [
@@ -12306,7 +12887,8 @@
             "William Osborne",
             "Michael McCullers"
         ],
-        "length": 66851
+        "length": 66851,
+        "released": "July 2004"
     },
     "Thunderheart": {
         "genres": [
@@ -12317,7 +12899,8 @@
         "writers": [
             "John Fusco"
         ],
-        "length": 166830
+        "length": 166830,
+        "released": "April 1992"
     },
     "Ticker": {
         "genres": [
@@ -12327,7 +12910,8 @@
         "writers": [
             "Paul B. Margolis"
         ],
-        "length": 90911
+        "length": 90911,
+        "released": "November 2001"
     },
     "Timber Falls": {
         "genres": [
@@ -12338,7 +12922,8 @@
             "Dan Kay",
             "Tony Giglio"
         ],
-        "length": 125562
+        "length": 125562,
+        "released": "December 2007"
     },
     "Time Machine, The": {
         "genres": [
@@ -12383,7 +12968,8 @@
             "Bridget O'Connor",
             "Peter Straughan"
         ],
-        "length": 155506
+        "length": 155506,
+        "released": "December 2011"
     },
     "Titanic": {
         "genres": [
@@ -12407,7 +12993,8 @@
         "writers": [
             "Kevin Munroe"
         ],
-        "length": 136911
+        "length": 136911,
+        "released": "March 2007"
     },
     "To Sleep with Anger": {
         "genres": [
@@ -12474,7 +13061,8 @@
         "writers": [
             "Julian Fellowes"
         ],
-        "length": 107439
+        "length": 107439,
+        "released": "December 2010"
     },
     "Toy Story": {
         "genres": [
@@ -12557,7 +13145,8 @@
         "writers": [
             "Dean Georgaris"
         ],
-        "length": 43922
+        "length": 43922,
+        "released": "January 2006"
     },
     "TRON": {
         "genres": [
@@ -12582,7 +13171,8 @@
         "writers": [
             "Richard Jefferies"
         ],
-        "length": 123620
+        "length": 123620,
+        "released": "December 2010"
     },
     "Tropic Thunder": {
         "genres": [
@@ -12596,7 +13186,8 @@
             "Ben Stiller",
             "Justin Theroux"
         ],
-        "length": 122305
+        "length": 122305,
+        "released": "August 2008"
     },
     "Troy": {
         "genres": [
@@ -12605,7 +13196,8 @@
         ],
         "writers": [
             "David Benioff"
-        ]
+        ],
+        "released": "May 2004"
     },
     "True Grit": {
         "genres": [
@@ -12618,7 +13210,8 @@
             "Ethan Coen",
             "Charles Portis"
         ],
-        "length": 135785
+        "length": 135785,
+        "released": "December 2010"
     },
     "True Lies": {
         "genres": [
@@ -12670,7 +13263,8 @@
         "writers": [
             "Melissa Rosenberg"
         ],
-        "length": 125614
+        "length": 125614,
+        "released": "November 2008"
     },
     "Twilight: New Moon": {
         "genres": [
@@ -12684,7 +13278,8 @@
             "Melissa Rosenberg",
             "Stephenie Meyer"
         ],
-        "length": 129894
+        "length": 129894,
+        "released": "November 2009"
     },
     "Twin Peaks": {
         "genres": [
@@ -12725,7 +13320,8 @@
         "writers": [
             "Dan Gilroy"
         ],
-        "length": 150416
+        "length": 150416,
+        "released": "October 2005"
     },
     "U Turn": {
         "genres": [
@@ -12752,7 +13348,8 @@
             "David Weissman",
             "Roger Kumble"
         ],
-        "length": 134971
+        "length": 134971,
+        "released": "July 2009"
     },
     "Un Singe en Hiver": {
         "genres": [
@@ -12764,7 +13361,8 @@
             "Antoine Blondin",
             "Fran\u00e7ois Boyer"
         ],
-        "length": 187742
+        "length": 187742,
+        "released": "May 1962"
     },
     "Unbreakable": {
         "genres": [
@@ -12785,7 +13383,8 @@
             "Clayton Frohman",
             "Ron Shelton"
         ],
-        "length": 157185
+        "length": 157185,
+        "released": "October 1983"
     },
     "Unforgiven": {
         "genres": [
@@ -12805,7 +13404,8 @@
             "Oliver Butcher",
             "Stephen Cornwell"
         ],
-        "length": 157664
+        "length": 157664,
+        "released": "February 2011"
     },
     "Up": {
         "genres": [
@@ -12820,7 +13420,8 @@
             "Bob Peterson",
             "Thomas McCarthy"
         ],
-        "length": 96832
+        "length": 96832,
+        "released": "May 2009"
     },
     "Up in the Air": {
         "genres": [
@@ -12831,7 +13432,8 @@
             "Jason Reitman",
             "Sheldon Turner"
         ],
-        "length": 111942
+        "length": 111942,
+        "released": "December 2009"
     },
     "Usual Suspects, The": {
         "genres": [
@@ -12855,7 +13457,8 @@
             "Andy Wachowski",
             "Larry Wachowski"
         ],
-        "length": 144515
+        "length": 144515,
+        "released": "March 2006"
     },
     "Valentine's Day": {
         "genres": [
@@ -12864,7 +13467,8 @@
         ],
         "writers": [
             "Katherine Fugate"
-        ]
+        ],
+        "released": "February 2010"
     },
     "Valkyrie": {
         "genres": [
@@ -12876,7 +13480,8 @@
             "Christopher McQuarrie",
             "Nathan Alexander"
         ],
-        "length": 146354
+        "length": 146354,
+        "released": "December 2008"
     },
     "Vanilla Sky": {
         "genres": [
@@ -12888,7 +13493,8 @@
         "writers": [
             "Cameron Crowe"
         ],
-        "length": 112980
+        "length": 112980,
+        "released": "December 2001"
     },
     "Verdict, The": {
         "genres": [
@@ -12930,7 +13536,8 @@
         ],
         "writers": [
             "M. Night Shyamalan"
-        ]
+        ],
+        "released": "July 2004"
     },
     "Virtuosity": {
         "genres": [
@@ -12952,7 +13559,8 @@
         "writers": [
             "Thomas McCarthy"
         ],
-        "length": 91597
+        "length": 91597,
+        "released": "April 2008"
     },
     "Wag the Dog": {
         "genres": [
@@ -12983,7 +13591,8 @@
             "Mort Briskin",
             "David Klass"
         ],
-        "length": 35893
+        "length": 35893,
+        "released": "April 2004"
     },
     "Wall Street": {
         "genres": [
@@ -13003,7 +13612,8 @@
         "writers": [
             "Allan Loeb"
         ],
-        "length": 148570
+        "length": 148570,
+        "released": "September 2010"
     },
     "Wall-E": {
         "genres": [
@@ -13019,7 +13629,8 @@
             "Andrew Stanton",
             "Pete Docter"
         ],
-        "length": 103002
+        "length": 103002,
+        "released": "June 2008"
     },
     "Wanted": {
         "genres": [
@@ -13031,7 +13642,8 @@
             "Michael Brandt",
             "Derek Haas"
         ],
-        "length": 132848
+        "length": 132848,
+        "released": "June 2008"
     },
     "War for the Planet of the Apes": {
         "genres": [
@@ -13043,7 +13655,8 @@
             "Mark Bomback",
             "Matt Reeves"
         ],
-        "length": 179446
+        "length": 179446,
+        "released": "July 2017"
     },
     "War Horse": {
         "genres": [
@@ -13054,7 +13667,8 @@
             "Lee Hall",
             "Richard Curtis"
         ],
-        "length": 138829
+        "length": 138829,
+        "released": "December 2011"
     },
     "War of the Worlds": {
         "genres": [
@@ -13067,7 +13681,8 @@
             "Josh Friedman",
             "David Koepp"
         ],
-        "length": 89622
+        "length": 89622,
+        "released": "June 2005"
     },
     "Warm Springs": {
         "genres": [
@@ -13077,7 +13692,8 @@
         "writers": [
             "Margaret Nagle"
         ],
-        "length": 128550
+        "length": 128550,
+        "released": "April 2005"
     },
     "Warrior": {
         "genres": [
@@ -13089,7 +13705,8 @@
             "Anthony Tambakis",
             "Cliff Dorfman"
         ],
-        "length": 129991
+        "length": 129991,
+        "released": "September 2011"
     },
     "Watchmen": {
         "genres": [
@@ -13102,7 +13719,8 @@
             "David Hayter",
             "Alex Tse"
         ],
-        "length": 156930
+        "length": 156930,
+        "released": "March 2009"
     },
     "Water for Elephants": {
         "genres": [
@@ -13112,7 +13730,8 @@
         "writers": [
             "Richard Lagravenese"
         ],
-        "length": 160126
+        "length": 160126,
+        "released": "April 2011"
     },
     "Way Back, The": {
         "genres": [
@@ -13123,7 +13742,8 @@
             "Peter Weir",
             "Slavomir Rawicz"
         ],
-        "length": 142495
+        "length": 142495,
+        "released": "January 2011"
     },
     "We Own the Night": {
         "genres": [
@@ -13134,7 +13754,8 @@
         "writers": [
             "James Gray"
         ],
-        "length": 178522
+        "length": 178522,
+        "released": "October 2007"
     },
     "What About Bob?": {
         "genres": [
@@ -13144,7 +13765,8 @@
             "Tom Schulman",
             "Alvin Sargent",
             "Laura Ziskin"
-        ]
+        ],
+        "released": "May 1991"
     },
     "What Lies Beneath": {
         "genres": [
@@ -13167,7 +13789,8 @@
             "Steve Feke",
             "Fred Walton"
         ],
-        "length": 107598
+        "length": 107598,
+        "released": "October 1979"
     },
     "When Harry Met Sally": {
         "genres": [
@@ -13189,7 +13812,8 @@
             "Susan Montford",
             "Edward Bryant"
         ],
-        "length": 135267
+        "length": 135267,
+        "released": "December 2008"
     },
     "Whistleblower, The": {
         "genres": [
@@ -13200,7 +13824,8 @@
             "Eilis Kirwan",
             "Larysa Kondracki"
         ],
-        "length": 155645
+        "length": 155645,
+        "released": "August 2011"
     },
     "White Christmas": {
         "genres": [
@@ -13237,7 +13862,8 @@
         "writers": [
             "Michael Haneke"
         ],
-        "length": 162367
+        "length": 162367,
+        "released": "December 2009"
     },
     "White Squall": {
         "genres": [
@@ -13264,7 +13890,8 @@
             "Erich Hoeber",
             "Greg Rucka"
         ],
-        "length": 119770
+        "length": 119770,
+        "released": "September 2009"
     },
     "Who Framed Roger Rabbit?": {
         "genres": [
@@ -13289,7 +13916,8 @@
             "Maria Veltre Druse",
             "Jack Sekowski"
         ],
-        "length": 120553
+        "length": 120553,
+        "released": "January 2005"
     },
     "Wild At Heart": {
         "genres": [
@@ -13312,7 +13940,8 @@
             "Walon Green",
             "Sam Peckinpah"
         ],
-        "length": 156032
+        "length": 156032,
+        "released": "June 1969"
     },
     "Wild Hogs": {
         "genres": [
@@ -13323,7 +13952,8 @@
         "writers": [
             "Brad Copeland"
         ],
-        "length": 136574
+        "length": 136574,
+        "released": "March 2007"
     },
     "Wild Things": {
         "genres": [
@@ -13347,7 +13977,8 @@
             "Andy Hurst",
             "Ross Helford"
         ],
-        "length": 120243
+        "length": 120243,
+        "released": "February 2005"
     },
     "Wild Wild West": {
         "genres": [
@@ -13387,7 +14018,8 @@
         "writers": [
             "Tom McCarthy"
         ],
-        "length": 105198
+        "length": 105198,
+        "released": "March 2011"
     },
     "Wind Chill": {
         "genres": [
@@ -13398,7 +14030,8 @@
             "Joseph Gangemi",
             "Steven Katz"
         ],
-        "length": 127754
+        "length": 127754,
+        "released": "April 2007"
     },
     "Withnail and I": {
         "genres": [
@@ -13446,7 +14079,8 @@
             "Terence Winter",
             "Jordan Belfort"
         ],
-        "length": 199620
+        "length": 199620,
+        "released": "December 2013"
     },
     "Wonder Boys": {
         "genres": [
@@ -13469,7 +14103,8 @@
             "Zack Snyder",
             "Jason Fuchs"
         ],
-        "length": 173757
+        "length": 173757,
+        "released": "June 2017"
     },
     "Woodsman, The": {
         "genres": [
@@ -13479,7 +14114,8 @@
             "Steven Fechter",
             "Nicole Kassell"
         ],
-        "length": 96575
+        "length": 96575,
+        "released": "December 2004"
     },
     "World is not Enough, The": {
         "genres": [
@@ -13502,7 +14138,8 @@
         "writers": [
             "Rob Siegel"
         ],
-        "length": 120291
+        "length": 120291,
+        "released": "January 2009"
     },
     "X-Files: Fight the Future, The": {
         "genres": [
@@ -13539,7 +14176,8 @@
             "David Benioff",
             "Skip Woods"
         ],
-        "length": 123467
+        "length": 123467,
+        "released": "May 2009"
     },
     "xXx": {
         "genres": [
@@ -13562,7 +14200,8 @@
             "Gene Stupnitsky",
             "Lee Eisenberg"
         ],
-        "length": 146579
+        "length": 146579,
+        "released": "June 2009"
     },
     "Yes Man": {
         "genres": [
@@ -13573,7 +14212,8 @@
             "Nicholas Stoller",
             "Danny Wallace"
         ],
-        "length": 120117
+        "length": 120117,
+        "released": "December 2008"
     },
     "You Can Count On Me": {
         "genres": [
@@ -13582,7 +14222,8 @@
         "writers": [
             "Kenneth Lonergan"
         ],
-        "length": 99182
+        "length": 99182,
+        "released": "November 2000"
     },
     "You've Got Mail": {
         "genres": [
@@ -13604,7 +14245,8 @@
         "writers": [
             "Gustin Nash"
         ],
-        "length": 142735
+        "length": 142735,
+        "released": "January 2010"
     },
     "Zero Dark Thirty": {
         "genres": [
@@ -13614,7 +14256,8 @@
         "writers": [
             "Mark Boal"
         ],
-        "length": 120992
+        "length": 120992,
+        "released": "January 2013"
     },
     "Zerophilia": {
         "genres": [
@@ -13624,7 +14267,8 @@
         "writers": [
             "Martin Curland"
         ],
-        "length": 79776
+        "length": 79776,
+        "released": "October 2006"
     },
     "Zootopia": {
         "genres": [
@@ -13636,6 +14280,7 @@
             "Jared Bush",
             "Phil Johnston"
         ],
-        "length": 111839
+        "length": 111839,
+        "released": "March 2016"
     }
 }
