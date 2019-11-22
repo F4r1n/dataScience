@@ -5,6 +5,6 @@ Year published - Writer
 Length - Writer
 Length - Genre
 
-Sentiment
-Character Detection
-Keyword Detection
+Sentiment (Sentiment Extraction of Document)
+Character Detection (frequent names)
+Keyword Detection (most frequent words/nouns after stopword removal)
