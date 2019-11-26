@@ -11,10 +11,10 @@ from nltk.stem.wordnet import WordNetLemmatizer
 from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
 
 #Model Selection and Validation
-from sklearn.naive_bayes import MultinomialNB
-from sklearn.model_selection import train_test_split
-from sklearn.pipeline import Pipeline
-from sklearn.metrics import confusion_matrix, classification_report, accuracy_score
+# from sklearn.naive_bayes import MultinomialNB
+# from sklearn.model_selection import train_test_split
+# from sklearn.pipeline import Pipeline
+# from sklearn.metrics import confusion_matrix, classification_report, accuracy_score
 
 import re
 import nltk
@@ -23,6 +23,7 @@ import wordcloud
 import matplotlib.pylab as plt
 from collections import Counter
 
+nltk.download('stopwords')
 # Get a list of stopwords from nltk
 stopwords = nltk.corpus.stopwords.words("english")
 
@@ -58,35 +59,42 @@ def get_clean_words(words):
 def word_count(text):
     return Counter(text.split())
 
+movies = []
+file_words = []
+for filename in os.listdir('./data/'):
+    movie = filename.replace('.txt', '')
+    movies.append(movie)
+    with open('./data/' + filename, "r") as file:
+        data = file.read().replace('\n', '')
+        words = data.split()
+        file_words.append(words)
+
 corpus = {}
 word_counts = []
-for i in range(len(tags)):
-    if tags[i] == 5 or tags[i] == 8:
-        tags[i] = 4
-for t in tags:
-    corpus[t] = []
-for s, t in list(zip(song_words, tags)):
+for m in movies:
+    corpus[m] = []
+for s, m in list(zip(file_words, movies)):
     clean_words = get_clean_words(s)
-    corpus[t].append(' '.join(clean_words))
-for t in corpus:
-    corpus[t] = ' '.join(corpus[t])
+    corpus[m].append(' '.join(clean_words))
+for m in corpus:
+    corpus[m] = ' '.join(corpus[m])
 
-with open('mumford.csv', 'w') as f:
+with open('movies.csv', 'w') as f:
     for key in corpus.keys():
         my_dict = word_count(corpus[key])
         # print(key, my_dict["love"])
         for k in my_dict.keys():
-            f.write("%s,%s,%s\n"%(albums[key],k,my_dict[k]))
+            f.write("%s,%s,%s\n"%(key,k,my_dict[k]))
 
 
-i = 0
-for t in corpus:
-    print(t)
-    fig = plt.figure(figsize=(12, 18))
-    plt.title(albums[t])
-    wc = wordcloud.WordCloud(
-        max_font_size=40, collocations=False).generate(corpus[t])
-    plt.imshow(wc, interpolation="bilinear")
-    plt.axis("off")
-    fig.savefig(albums[t] + '.png')
-    i += 1
+# i = 0
+# for t in corpus:
+#     print(t)
+#     fig = plt.figure(figsize=(12, 18))
+#     plt.title(albums[t])
+#     wc = wordcloud.WordCloud(
+#         max_font_size=40, collocations=False).generate(corpus[t])
+#     plt.imshow(wc, interpolation="bilinear")
+#     plt.axis("off")
+#     fig.savefig(albums[t] + '.png')
+#     i += 1
