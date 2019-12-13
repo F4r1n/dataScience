@@ -28,7 +28,7 @@ with open("list.txt", 'r') as list:
                 with open("./data/" + movieString + ".txt", "w") as file:
                     file.write(newLines)
                 #add length field to corresponding movie in json
-                data[movie]["length"] = len(newLines)
+                data[movie]["length"] = len(newLines.split(" "))
             except:
                 print("File for movie %s not found" % movieString)
         #write json
