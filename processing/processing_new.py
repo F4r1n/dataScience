@@ -1,7 +1,4 @@
-# Data Analysis
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
+#DEPRECATED - DOES NOT WORK
 
 # Data Preprocessing and Feature Engineering
 from textblob import TextBlob
@@ -10,13 +7,6 @@ from nltk.corpus import stopwords
 from nltk.stem.wordnet import WordNetLemmatizer
 from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
 
-# Model Selection and Validation
-# from sklearn.naive_bayes import MultinomialNB
-# from sklearn.model_selection import train_test_split
-# from sklearn.pipeline import Pipeline
-# from sklearn.metrics import confusion_matrix, classification_report, accuracy_score
-
-import re
 import nltk
 import os
 import json
@@ -123,7 +113,7 @@ with open('movies.csv', 'w') as f:
     for key in corpus.keys():
         my_dict = word_count(corpus[key])
         for k in my_dict.keys():
-            if my_dict(k) > 4:
+            if my_dict(k) > 6:
                 f.write("%s,%s,%s\n" % (key, k, my_dict[k]))
 
 

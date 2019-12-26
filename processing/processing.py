@@ -1,22 +1,9 @@
-#Data Analysis
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-
 #Data Preprocessing and Feature Engineering
 from textblob import TextBlob
 import re
 from nltk.corpus import stopwords
 from nltk.stem.wordnet import WordNetLemmatizer
-from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
 
-#Model Selection and Validation
-# from sklearn.naive_bayes import MultinomialNB
-# from sklearn.model_selection import train_test_split
-# from sklearn.pipeline import Pipeline
-# from sklearn.metrics import confusion_matrix, classification_report, accuracy_score
-
-import re
 import nltk
 import os
 import wordcloud
@@ -26,6 +13,17 @@ from collections import Counter
 nltk.download('stopwords')
 # Get a list of stopwords from nltk
 stopwords = nltk.corpus.stopwords.words("english")
+#adding numbers because they are bloating the word counts
+stopwords.append('one')
+stopwords.append('two')
+stopwords.append('three')
+stopwords.append('four')
+stopwords.append('five')
+stopwords.append('six')
+stopwords.append('seven')
+stopwords.append('eight')
+stopwords.append('nine')
+stopwords.append('ten')
 
 def get_clean_words(words):
     def _isnum(w):
@@ -84,7 +82,7 @@ with open('movies.csv', 'w') as f:
     for key in corpus.keys():
         my_dict = word_count(corpus[key])
         for k in my_dict.keys():
-            if my_dict[k] > 3:
+            if my_dict[k] > 6:
                 f.write("%s,%s,%s\n"%(key,k,my_dict[k]))
 
 
