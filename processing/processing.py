@@ -24,6 +24,26 @@ stopwords.append('seven')
 stopwords.append('eight')
 stopwords.append('nine')
 stopwords.append('ten')
+#remove pronouns and some other words
+stopwords.append('he')
+stopwords.append('she')
+stopwords.append('it')
+stopwords.append('we')
+stopwords.append('you')
+stopwords.append('they')
+stopwords.append('him')
+stopwords.append('her')
+stopwords.append('hers')
+stopwords.append('his')
+stopwords.append('yours')
+stopwords.append('mine')
+stopwords.append('my')
+stopwords.append('I\'m')
+stopwords.append('I\'ll')
+stopwords.append('that')
+stopwords.append('me')
+stopwords.append('will')
+stopwords.append('make')
 
 def get_clean_words(words):
     def _isnum(w):
@@ -50,7 +70,7 @@ def get_clean_words(words):
     
     # Only keep words with more than one character
     words = [w for w in words if len(w) > 1]
-    
+
     return words
     
     
@@ -82,8 +102,8 @@ with open('movies.csv', 'w') as f:
     for key in corpus.keys():
         my_dict = word_count(corpus[key])
         for k in my_dict.keys():
-            if my_dict[k] > 6:
-                f.write("%s,%s,%s\n"%(key,k,my_dict[k]))
+            if my_dict[k] > 8:
+                f.write("%s;%s;%s\n" % (key, k, my_dict[k]))
 
 
 # i = 0

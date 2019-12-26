@@ -1,4 +1,4 @@
-#DEPRECATED - DOES NOT WORK
+#SOMETHING BROKE - script was used to extract the sentiment
 
 # Data Preprocessing and Feature Engineering
 from textblob import TextBlob
