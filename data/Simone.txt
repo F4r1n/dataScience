@@ -1,9 +1,4 @@
-<b><!--
-</b>if (window!= top)
-top.location.href=location.href
-<b>// -->
-</b>
-Simone by Andrew Niccol
+Andrew Niccol
 SIMONE
 by
 Andrew Niccol
