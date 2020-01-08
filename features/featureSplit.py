@@ -70,79 +70,85 @@ def checkAttributeCount():
 def makeSmolJsons():
     with open("./features/features.json", "r+") as features:
         data = json.load(features)
-        genres = {}
-        writers = {}
-        length = {}
-        parts = {}
-        overAllSentiment = {}
-        year = {}
-        runtime = {}
-        rating = {}
-        ID = {}
-        box = {}
-        budget = {}
+        genres = ""
+        writers = ""
+        length = ""
+        parts = ""
+        overAllSentiment = ""
+        year = ""
+        runtime = ""
+        rating = ""
+        ID = ""
+        box = ""
+        budget = ""
         for movie in data:
             for entry in data[movie]:
                 try:
                     if entry == "genres":
-                        genres[movie] = data[movie][entry]
+                        for genre in data[movie][entry]:
+                            genres += "%s;%s\n" % (movie, genre)
                     elif entry == "writers":
-                        writers[movie] = data[movie][entry]
+                        for writer in data[movie][entry]:
+                            writers += "%s;%s\n" % (movie, writer)
                     elif entry == "length":
-                        length[movie] = data[movie][entry]
+                        length += "%s;%s\n" % (movie, data[movie][entry])
                     elif entry == "parts":
-                        parts[movie] = data[movie][entry]
+                        parts += "%s;1;polarity;%s\n" % (movie, data[movie][entry]["1"]["sentiment"][0])
+                        parts += "%s;1;subjectivity;%s\n" % (movie, data[movie][entry]["1"]["sentiment"][1])
+
+                        parts += "%s;2;polarity;%s\n" % (movie, data[movie][entry]["2"]["sentiment"][0])
+                        parts += "%s;2;subjectivity;%s\n" % (movie, data[movie][entry]["2"]["sentiment"][1])
+                        
+                        parts += "%s;3;polarity;%s\n" % (movie, data[movie][entry]["3"]["sentiment"][0])
+                        parts += "%s;3;subjectivity;%s\n" % (movie, data[movie][entry]["3"]["sentiment"][1])
+                        
+                        parts += "%s;4;polarity;%s\n" % (movie, data[movie][entry]["4"]["sentiment"][0])
+                        parts += "%s;4;subjectivity;%s\n" % (movie, data[movie][entry]["4"]["sentiment"][1])
+                        
+                        parts += "%s;5;polarity;%s\n" % (movie, data[movie][entry]["5"]["sentiment"][0])
+                        parts += "%s;5;subjectivity;%s\n" % (movie, data[movie][entry]["5"]["sentiment"][1])
+
                     elif entry == "overAllSentiment":
-                        overAllSentiment[movie] = data[movie][entry]
+                        overAllSentiment += "%s;polarity;%s\n" % (movie, data[movie][entry][0])
+                        overAllSentiment += "%s;subjectivity;%s\n" % (movie, data[movie][entry][1])
                     elif entry == "Year":
-                        year[movie] = data[movie][entry]
+                        year += "%s;%s\n" % (movie, data[movie][entry])
                     elif entry == "Runtime":
-                        runtime[movie] = data[movie][entry]
+                        runtime += "%s;%s\n" % (movie, data[movie][entry])
                     elif entry == "imdbRating":
-                        rating[movie] = data[movie][entry]
+                        rating += "%s;%s\n" % (movie, data[movie][entry])
                     elif entry == "imdbID":
-                        ID[movie] = data[movie][entry]
+                        ID += "%s;%s\n" % (movie, data[movie][entry])
                     elif entry == "BoxOffice":
-                        box[movie] = data[movie][entry]
+                        box += "%s;%s\n" % (movie, data[movie][entry])
                     elif entry == "Budget":
-                        budget[movie] = data[movie][entry]
+                        budget += "%s;%s\n" % (movie, data[movie][entry])
                     else:
                         pass
                 except:
                     pass
-        with open("./features/featuresGenre.json", "w") as fGenre:
-            jsonGenre = json.dumps(genres)
-            fGenre.write(jsonGenre)
-        with open("./features/featuresWriters.json", "w") as fWriters:
-            jsonWriters = json.dumps(writers)
-            fWriters.write(jsonWriters)
-        with open("./features/featuresLength.json", "w") as fLength:
-            jsonLength = json.dumps(length)
-            fLength.write(jsonLength)
-        with open("./features/featuresParts.json", "w") as fParts:
-            jsonParts = json.dumps(parts)
-            fParts.write(jsonParts)
-        with open("./features/featuresOverAllSentiment.json", "w") as fallSent:
-            jsonSentiment = json.dumps(overAllSentiment)
-            fallSent.write(jsonSentiment)
-        with open("./features/featuresYear.json", "w") as fYear:
-            jsonYear = json.dumps(year)
-            fYear.write(jsonYear)
-        with open("./features/featuresRuntime.json", "w") as fRuntime:
-            jsonRuntime = json.dumps(runtime)
-            fRuntime.write(jsonRuntime)
-        with open("./features/featuresRating.json", "w") as fRating:
-            jsonRating = json.dumps(rating)
-            fRating.write(jsonRating)
-        with open("./features/featuresID.json", "w") as fID:
-            jsonID = json.dumps(ID)
-            fID.write(jsonID)
-        with open("./features/featuresBoxOffice.json", "w") as fBox:
-            jsonBox = json.dumps(box)
-            fBox.write(jsonBox)
-        with open("./features/featuresBudget.json", "w") as fBudget:
-            jsonBudget = json.dumps(budget)
-            fBudget.write(jsonBudget)
+        # with open("./features/featuresGenre.csv", "w") as fGenre:
+        #     fGenre.write(genres)
+        # with open("./features/featuresWriters.csv", "w") as fWriters:
+        #     fWriters.write(writers)
+        # with open("./features/featuresLength.csv", "w") as fLength:
+        #     fLength.write(length)
+        with open("./features/featuresParts.csv", "w") as fParts:
+            fParts.write(parts)
+        # with open("./features/featuresOverAllSentiment.csv", "w") as fallSent:
+        #     fallSent.write(overAllSentiment)
+        # with open("./features/featuresYear.csv", "w") as fYear:
+        #     fYear.write(year)
+        # with open("./features/featuresRuntime.csv", "w") as fRuntime:
+        #     fRuntime.write(runtime)
+        # with open("./features/featuresRating.csv", "w") as fRating:
+        #     fRating.write(rating)
+        # with open("./features/featuresID.csv", "w") as fID:
+        #     fID.write(ID)
+        # with open("./features/featuresBoxOffice.csv", "w") as fBox:
+        #     fBox.write(box)
+        # with open("./features/featuresBudget.csv", "w") as fBudget:
+        #     fBudget.write(budget)
 
 # reformatJson()
 # checkAttributeCount()
