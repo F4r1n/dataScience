@@ -127,28 +127,28 @@ def makeSmolJsons():
                         pass
                 except:
                     pass
-        # with open("./features/featuresGenre.csv", "w") as fGenre:
-        #     fGenre.write(genres)
-        # with open("./features/featuresWriters.csv", "w") as fWriters:
-        #     fWriters.write(writers)
-        # with open("./features/featuresLength.csv", "w") as fLength:
-        #     fLength.write(length)
+        with open("./features/featuresGenre.csv", "w") as fGenre:
+            fGenre.write(genres)
+        with open("./features/featuresWriters.csv", "w") as fWriters:
+            fWriters.write(writers)
+        with open("./features/featuresLength.csv", "w") as fLength:
+            fLength.write(length)
         with open("./features/featuresParts.csv", "w") as fParts:
             fParts.write(parts)
-        # with open("./features/featuresOverAllSentiment.csv", "w") as fallSent:
-        #     fallSent.write(overAllSentiment)
-        # with open("./features/featuresYear.csv", "w") as fYear:
-        #     fYear.write(year)
-        # with open("./features/featuresRuntime.csv", "w") as fRuntime:
-        #     fRuntime.write(runtime)
-        # with open("./features/featuresRating.csv", "w") as fRating:
-        #     fRating.write(rating)
-        # with open("./features/featuresID.csv", "w") as fID:
-        #     fID.write(ID)
-        # with open("./features/featuresBoxOffice.csv", "w") as fBox:
-        #     fBox.write(box)
-        # with open("./features/featuresBudget.csv", "w") as fBudget:
-        #     fBudget.write(budget)
+        with open("./features/featuresOverAllSentiment.csv", "w") as fallSent:
+            fallSent.write(overAllSentiment)
+        with open("./features/featuresYear.csv", "w") as fYear:
+            fYear.write(year)
+        with open("./features/featuresRuntime.csv", "w") as fRuntime:
+            fRuntime.write(runtime)
+        with open("./features/featuresRating.csv", "w") as fRating:
+            fRating.write(rating)
+        with open("./features/featuresID.csv", "w") as fID:
+            fID.write(ID)
+        with open("./features/featuresBoxOffice.csv", "w") as fBox:
+            fBox.write(box)
+        with open("./features/featuresBudget.csv", "w") as fBudget:
+            fBudget.write(budget)
 
 # reformatJson()
 # checkAttributeCount()
