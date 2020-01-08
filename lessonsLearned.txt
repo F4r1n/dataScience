@@ -1,0 +1,2 @@
+Do not trust the results of any API you dont know the code for. 
+    -> Consider just programming a webscraper. Can save a lot of time.
