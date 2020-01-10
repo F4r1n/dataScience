@@ -73,8 +73,8 @@ def makeSmolJsons():
         genres = ""
         writers = ""
         length = ""
-        parts = ""
-        overAllSentiment = ""
+        parts = "Title; 1polarity; 1subjectivity; 2polarity; 2subjectivity; 3polarity; 3subjectivity; 4polarity; 4subjectivity; 5polarity; 5subjectivity\n"
+        overAllSentiment = "Title; polarity; subjectivity\n"
         year = ""
         runtime = ""
         rating = ""
@@ -93,24 +93,17 @@ def makeSmolJsons():
                     elif entry == "length":
                         length += "%s;%s\n" % (movie, data[movie][entry])
                     elif entry == "parts":
-                        parts += "%s;1;polarity;%s\n" % (movie, data[movie][entry]["1"]["sentiment"][0])
-                        parts += "%s;1;subjectivity;%s\n" % (movie, data[movie][entry]["1"]["sentiment"][1])
-
-                        parts += "%s;2;polarity;%s\n" % (movie, data[movie][entry]["2"]["sentiment"][0])
-                        parts += "%s;2;subjectivity;%s\n" % (movie, data[movie][entry]["2"]["sentiment"][1])
-                        
-                        parts += "%s;3;polarity;%s\n" % (movie, data[movie][entry]["3"]["sentiment"][0])
-                        parts += "%s;3;subjectivity;%s\n" % (movie, data[movie][entry]["3"]["sentiment"][1])
-                        
-                        parts += "%s;4;polarity;%s\n" % (movie, data[movie][entry]["4"]["sentiment"][0])
-                        parts += "%s;4;subjectivity;%s\n" % (movie, data[movie][entry]["4"]["sentiment"][1])
-                        
-                        parts += "%s;5;polarity;%s\n" % (movie, data[movie][entry]["5"]["sentiment"][0])
-                        parts += "%s;5;subjectivity;%s\n" % (movie, data[movie][entry]["5"]["sentiment"][1])
-
+                        #formatted string, making a column for each part/sentiment-type
+                        parts += "%s;%s;%s;%s;%s;%s;%s;%s;%s;%s;%s\n" % (
+                            movie,
+                            data[movie][entry]["1"]["sentiment"][0], data[movie][entry]["1"]["sentiment"][1],
+                            data[movie][entry]["2"]["sentiment"][0], data[movie][entry]["2"]["sentiment"][1],
+                            data[movie][entry]["3"]["sentiment"][0], data[movie][entry]["3"]["sentiment"][1],
+                            data[movie][entry]["4"]["sentiment"][0], data[movie][entry]["4"]["sentiment"][1],
+                            data[movie][entry]["5"]["sentiment"][0], data[movie][entry]["5"]["sentiment"][1],
+                            )
                     elif entry == "overAllSentiment":
-                        overAllSentiment += "%s;polarity;%s\n" % (movie, data[movie][entry][0])
-                        overAllSentiment += "%s;subjectivity;%s\n" % (movie, data[movie][entry][1])
+                        overAllSentiment += "%s;%s;%s\n" % (movie, data[movie][entry][0], data[movie][entry][1])
                     elif entry == "Year":
                         year += "%s;%s\n" % (movie, data[movie][entry])
                     elif entry == "Runtime":
