@@ -2,6 +2,8 @@ import requests
 import json
 import os
 
+#using the omdbapi, turned out that the year taken from the script page (IMSDB.com) was not always correct and we eneded up with bad data. Data was corrected manually  
+
 def getMovieInfo(name, year, api):
     url = "http://www.omdbapi.com/?t=%s&y=%s&apikey=%s" % (name.replace(" ", "+"), year, api)
     response = requests.request("GET", url)

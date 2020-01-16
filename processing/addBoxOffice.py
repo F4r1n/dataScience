@@ -13,7 +13,7 @@ with open("features.json", "r+") as jsonFile:
         try:
             #request the page with the information
             res = requests.get('https://www.imdb.com/title/%s/' % data[obj]["imdbID"])
-            #if okay call function that saves the script
+            #if okay call function that saves the information
             print(obj)
             if res.ok:
                 soup = bs4.BeautifulSoup(res.text, features="lxml")

@@ -1,6 +1,8 @@
 import os
 import json
 
+#Get the genre from the script site
+
 with open("list.txt", 'r') as list:
     with open("features.json", "r+") as jsonFile:
         #load json object

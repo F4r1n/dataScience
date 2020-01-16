@@ -79,6 +79,7 @@ def word_count(text):
 
 movies = []
 file_words = []
+#opene ach file and count the words
 for filename in os.listdir('./data/'):
     movie = filename.replace('.txt', '')
     movie = movie.replace('-', ' ')
@@ -88,6 +89,7 @@ for filename in os.listdir('./data/'):
         words = data.split()
         file_words.append(words)
 
+#organize the results in a dict
 corpus = {}
 word_counts = []
 for m in movies:
@@ -98,6 +100,7 @@ for s, m in list(zip(file_words, movies)):
 for m in corpus:
     corpus[m] = ' '.join(corpus[m])
 
+#write the results to a file
 with open('movies.csv', 'w') as f:
     for key in corpus.keys():
         my_dict = word_count(corpus[key])
